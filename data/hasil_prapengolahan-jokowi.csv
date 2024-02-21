@@ -1,0 +1,936 @@
+label,text,preprocessing-result
+Ham,"Banyak yg minta kehadirannya keberbagai wilayah mereka agar mungkin dapat melihat secara langsung situasi kondisi keadaan wilayahnya,sayangnya beliau hanya manusia biasa yg jg pasti punya batas kemampuan tenaganya utk meninjau satu persatu,ttpi mungkin dgn pikiran dan program2 beliau bs menjadi kepanjangan tangan utk hal itu,krn keterbatasan waktu menjabatnya hanya 2 priode..jika diberi kesampatan lebih mungkin beliau dapat menyelesaikan permasalahan yg terjdi utk indonesia lbh maju lagi..terima kasih utk pak jokowi,.is the best","['yg', 'hadir', 'bagai', 'wilayah', 'langsung', 'situasi', 'kondisi', 'wilayah', 'sayang', 'beliau', 'manusia', 'yg', 'jg', 'batas', 'mampu', 'tenaga', 'utk', 'tinjau', 'satu', 'ttpi', 'dgn', 'pikir', 'program', 'beliau', 'bs', 'panjang', 'tangan', 'utk', 'krn', 'batas', 'jabat', 'priode', 'sampat', 'beliau', 'selesai', 'masalah', 'yg', 'terjdi', 'utk', 'indonesia', 'lbh', 'maju', 'terima', 'kasih', 'utk', 'jokowi', 'is', 'the', 'best']"
+Ham,Asal harganya terjangkau masyarakat pasti mau naik KCJB ini Pak.. 😊,"['harga', 'jangkau', 'masyarakat', 'kcjb']"
+Ham,Mantap pake banget lagi 👍👍👍👍👍,"['mantap', 'pake', 'banget']"
+Ham,Keren pak 👍👍👍,['keren']
+Spam,Every family has that 1 person who brakes the circle of financially struggles for the entire family and dat person is u reading this,"['every', 'family', 'has', 'that', 'person', 'who', 'brakes', 'the', 'circle', 'of', 'financially', 'struggles', 'for', 'the', 'entire', 'family', 'and', 'dat', 'person', 'is', 'u', 'reading', 'this']"
+Ham,Keren Alhamdulillah Indonesia dah lbh maju transportasinya semoga Akan tersambung kedaerah2 lainya diseluruh Indonesia,"['keren', 'alhamdulillah', 'indonesia', 'dah', 'lbh', 'maju', 'transportasi', 'moga', 'sambung', 'daerah', 'lai', 'seluruh', 'indonesia']"
+Spam,Pak turun ke rempang saat ini msalh rempang prioritas dengarkan jeritan masyarakat disana,"['turun', 'rempang', 'msalh', 'rempang', 'prioritas', 'dengar', 'jerit', 'masyarakat', 'sana']"
+Spam,Semoga penggantinya nanti bisa melanjutkan program program yang sudah dilaksanakan .tentunya yang baik di lanjutkan yang kurang baik dievaluasi.,"['moga', 'ganti', 'lanjut', 'program', 'program', 'laksana', 'lanjut', 'evaluasi']"
+Ham,Sukses  bapak presiden......utk pembangunan dan transportasi.....utk memudahkan perjalanan,"['sukses', 'presiden', 'utk', 'bangun', 'transportasi', 'utk', 'mudah', 'jalan']"
+Ham,"Kreen pak presidenku
+Sehat2 sllu ya🤲🤲👍👍","['kreen', 'presiden', 'sehat', 'sllu', 'ya']"
+Ham,"Mantap pk prsden,alhamdllah","['mantap', 'pk', 'prsden', 'alhamdllah']"
+Ham,"Semoga bermanfaat bagi masyarakat Indonesia pak., bravo Aceh","['moga', 'manfaat', 'masyarakat', 'indonesia', 'bravo', 'aceh']"
+Ham,Sehat selalu pak.,['sehat']
+Ham,Luar biasa Bapa..👍👍,['bapa']
+Ham,Mantap keren 👌👍,"['mantap', 'keren']"
+Ham,Keren....super speed.....,"['keren', 'super', 'speed']"
+Ham,"Gasss,,, polll... Barrakallaahh 👍👍👍👍👍👍👍","['gasss', 'polll', 'barrakallaahh']"
+Spam,"Keren pak,namun harapan dari kami rakyat jelata semoga bpk,bisa melanjutkan dgn 3 periode.agar bangsa dan negara kesatuan RI kedepannya semakin maju.","['keren', 'harap', 'rakyat', 'jelata', 'moga', 'bpk', 'lanjut', 'dgn', 'periode', 'bangsa', 'negara', 'satu', 'ri', 'depan', 'maju']"
+Ham,Kalau saja beliau memimpin Negari ini lbh lama sy yakin kemajuan akan lbh lagi. Smg penggantinya setara beliau sehingga kereta cepat bisa nyambung ke Surabaya atau daerah lainnya.,"['beliau', 'pimpin', 'negari', 'lbh', 'sy', 'maju', 'lbh', 'smg', 'ganti', 'tara', 'beliau', 'kereta', 'cepat', 'nyambung', 'surabaya', 'daerah']"
+Spam,Izin pak .. pantura pak di hidupkan kembali keretanya semarang -demak -kudus -pati -rembang - tuban dst . Terimakasih.,"['izin', 'pantura', 'hidup', 'kereta', 'semarang', 'demak', 'kudus', 'pati', 'rembang', 'tuban', 'dst', 'terimakasih']"
+Ham,Mantap kl mau ramai keretacepat. Harga lebihmurah dr negara lain dan korting harga K,"['mantap', 'kl', 'ramai', 'keretacepat', 'harga', 'lebihmurah', 'dr', 'negara', 'korting', 'harga', 'k']"
+Ham,Alhamdulillah..... terima kasih pak Jokowi dan semoga pak Jokowi sehat selalu serta senantiasa selalu dilindungi oleh Allah SWT ...... Aamiin Yaa Robbal Aalamiin 🤲,"['alhamdulillah', 'terima', 'kasih', 'jokowi', 'moga', 'jokowi', 'sehat', 'senantiasa', 'lindung', 'allah', 'swt', 'aamiin', 'yaa', 'robbal', 'aalamiin']"
+Ham,Muncul satu nanti akan muncul yang lainnya… semoga yg lain kebagian juga dilintasi kereta cepat..,"['muncul', 'muncul', 'moga', 'yg', 'bagi', 'lintas', 'kereta', 'cepat']"
+Ham,"Saya sangat senang dengan kedatangan bapak , Apalagi antusias masyarakat menyambut kedatangan bapak Sekaligus Saya Lebih senang bisa bertemu langsung Semoga bapak sehat selalu...","['senang', 'datang', 'antusias', 'masyarakat', 'sambut', 'datang', 'senang', 'temu', 'langsung', 'moga', 'sehat']"
+Ham,Keren Pak👍👍👍,['keren']
+Ham,Salam rahayu buat bpak prsiden dlam mnjlkn tugas2 negara semoga di lancrkn.. 🙏,"['salam', 'rahayu', 'bpak', 'prsiden', 'dlam', 'mnjlkn', 'tugas', 'negara', 'moga', 'lancrkn']"
+Ham,Amazing....... JOKOWI is the best,"['amazing', 'jokowi', 'is', 'the', 'best']"
+Ham,Indah pada waktunya 👍🙏,['indah']
+Ham,Good work pk d,"['good', 'work', 'pk', 'd']"
+Ham,"Amin puji Tuhan,Indonesia terus maju ,tetap semangat.","['amin', 'puji', 'tuhan', 'indonesia', 'maju', 'semangat']"
+Spam,Ah pak Rasanya belum siap kmi di tinggal bapak utk tahun depan pak..sehat selalu pak..Indonesia Masi butuh bapak 3 periodek LG  pak 🙏🙏,"['ah', 'kmi', 'tinggal', 'utk', 'sehat', 'indonesia', 'mas', 'butuh', 'periodek', 'lg']"
+Spam,"Semoga pengganti mu tetap mempunyai karakter seperti panjenengan,,,dan yg perlu di ingat,asal jangan sumur resapan.","['moga', 'ganti', 'mu', 'karakter', 'panjenengan', 'yg', 'sumur', 'resap']"
+Spam,Mt siang pak negara,"['mt', 'siang', 'negara']"
+Ham,Terimakasih bpk Presiden Ir H.Joko Widodo atas Darma bakti yg sdh di lakukan Pd Negeri ini semoga kelak Nuswantara/ ibu Pertiwi tercinta menjadi Negeri yg baldatun Toyyibun Warobbun Ghofur. 🇮🇩⭐,"['terimakasih', 'bpk', 'presiden', 'ir', 'h', 'joko', 'widodo', 'darma', 'bakti', 'yg', 'sdh', 'laku', 'pd', 'negeri', 'moga', 'kelak', 'nuswantara', 'pertiwi', 'cinta', 'negeri', 'yg', 'baldatun', 'toyyibun', 'warobbun', 'ghofur']"
+Ham,"Dari pada bikin jalan tol, saya lebih suka transportasi publik kereta yg terkoneksi tiap daerah. Rendah emisi, lebih cepat sampai ke tujuan dan tingkat kecelakaan lebih rendah.","['bikin', 'jalan', 'tol', 'suka', 'transportasi', 'publik', 'kereta', 'yg', 'koneksi', 'daerah', 'rendah', 'emisi', 'cepat', 'tuju', 'tingkat', 'celaka', 'rendah']"
+Ham,Mantap pak,['mantap']
+Ham,Satu strategy utk beberapa manfaat. Sehat selalu my president.. GBU,"['strategy', 'utk', 'manfaat', 'sehat', 'my', 'president', 'gbu']"
+Spam,ke kota karawang pak.,"['kota', 'karawang']"
+Ham,Mantap pakde. Andai sy bs nyobain bareng pakde,"['mantap', 'pakde', 'andai', 'sy', 'bs', 'nyobain', 'bareng', 'pakde']"
+Ham,Mantap pak de 🔥🔥🔥,"['mantap', 'de']"
+Ham,Sayang bapak ga ngajak fakir miskin rakyat jelata atau orang  ga mampu utk ikut bersama2 nikmati...jadi minimal mereka ikut bangga kalo pesisir rumahnya dilewati kereta cepat..🙏🙏😁,"['sayang', 'ga', 'ngajak', 'fakir', 'miskin', 'rakyat', 'jelata', 'orang', 'ga', 'utk', 'nikmat', 'minimal', 'bangga', 'kalo', 'pesisir', 'rumah', 'lewat', 'kereta', 'cepat']"
+Ham,Semoga pak presiden dan keluarga selalu sehat panjang umur selalu dalam lindungan  Allah S.W.T 🤲,"['moga', 'presiden', 'keluarga', 'sehat', 'umur', 'lindung', 'allah', 's', 'w', 't']"
+Ham,Keren 👍,['keren']
+Ham,Mau coba naik....mahal gk yah .   ..,"['coba', 'mahal', 'gk', 'yah']"
+Ham,"10 tahun memerintah negeri tercinta, persembahan buat RI TERCINTA. Terima kasih Pak Dhe 🥰🥰🥰","['perintah', 'negeri', 'cinta', 'sembah', 'ri', 'cinta', 'terima', 'kasih', 'dhe']"
+Ham,"Keren pak pres...
+
+#Rampang","['keren', 'pres', 'rampang']"
+Spam,Harga bbm turunkeun deui bell manehma lihay naekeun nurunkeun t becus,"['harga', 'bbm', 'turunkeun', 'deui', 'bell', 'manehma', 'lihay', 'naekeun', 'nurunkeun', 't', 'becus']"
+Spam,Kenapa belum ada di Ambon ya,"['ambon', 'ya']"
+Spam,SBY ngapain aja 10 thn,"['sby', 'ngapain', 'aja', 'thn']"
+Ham,Waw sehat selalu pk,"['waw', 'sehat', 'pk']"
+Ham,Sehat slalu pak,"['sehat', 'slalu']"
+Ham,Mantap nggeh pak Jokowi,"['mantap', 'nggeh', 'jokowi']"
+Ham,Congratulations Pak Jokowi 💐🙏🏽,"['congratulations', 'jokowi']"
+Ham,Udh gak sabar mau naik kcic,"['udh', 'gak', 'sabar', 'kcic']"
+Ham,"Salah satu cara untuk mengurangi kemacetan , transportasi publik","['salah', 'kurang', 'macet', 'transportasi', 'publik']"
+Ham,Sehat selalu pakdhe🌸,"['sehat', 'pakdhe']"
+Ham,Slalu sehat pak ...,"['slalu', 'sehat']"
+Ham,Sukses selalu pak🙏,['sukses']
+Ham,Selamat menjalankan tugas sekaligus uji coba kreta cepat dapat bermanfaat dan dapat meningkatkan perekonomiAn dari sektor transportasi hingga masyarakat luas dapat merasakAn kemanfaatanya...,"['selamat', 'jalan', 'tugas', 'uji', 'coba', 'kreta', 'cepat', 'manfaat', 'tingkat', 'ekonomi', 'sektor', 'transportasi', 'masyarakat', 'luas', 'rasa', 'kemanfaatanya']"
+Ham,Keren pk dhe  😍,"['keren', 'pk', 'dhe']"
+Spam,"Jikalau nggak punya ilmu umum dan khusus pelajaran B. indonesia, B. Inggris, PPKN, Agama, PLKJ serta merakyat mending pada mingkem wae..., Peringatan keras bagi yang anti pak Presiden Joko Widodo. Kalian punya jasa apa untuk membentuk modal?!","['nggak', 'ilmu', 'khusus', 'ajar', 'b', 'indonesia', 'b', 'inggris', 'ppkn', 'agama', 'plkj', 'rakyat', 'mending', 'mingkem', 'wae', 'ingat', 'keras', 'anti', 'presiden', 'joko', 'widodo', 'jasa', 'bentuk', 'modal']"
+Ham,"Luar biasa bapak Presiden Ir. Joko Widodo. 
+Terima bapak Presiden 🙏🙏🙏","['presiden', 'ir', 'joko', 'widodo', 'terima', 'presiden']"
+Ham,Alhamdulillah indonesia punya kebanggaan dibidang transportasi ...luar biasa,"['alhamdulillah', 'indonesia', 'bangga', 'bidang', 'transportasi']"
+Ham,Sehat selalu ya pak broo,"['sehat', 'ya', 'broo']"
+Spam,Mantaf pak... mohon tol cigatas dipercepat juga 🙏,"['mantaf', 'mohon', 'tol', 'cigatas', 'cepat']"
+Ham,Syukur alhamdulillah ikut bangga melihat nya.,"['syukur', 'alhamdulillah', 'bangga', 'nya']"
+Spam,Tinggal jln tol cigatasnya pak presiden yg baik,"['tinggal', 'jln', 'tol', 'cigatasnya', 'presiden', 'yg']"
+Ham,Pak saya ikut nyobain donk.. ☺️,"['nyobain', 'donk']"
+Ham,Luar biasa.. 👍👍,[]
+Ham,"Alhamdulillah,",['alhamdulillah']
+Ham,"Bapak Terbaik 👍👍👍
+Sehat selalu","['baik', 'sehat']"
+Ham,Keren Pak.,['keren']
+Ham,"Semoga bpk presiden sekolurga sehat"" selalu 🤲🤲🙏","['moga', 'bpk', 'presiden', 'sekolurga', 'sehat']"
+Ham,Emang terasa bedanya..maju terus dongane ya..,"['emang', 'beda', 'maju', 'dongane', 'ya']"
+Ham,Terima kasih pak Jokowi❤️❤️❤️😇😇😇🙏🙏🙏,"['terima', 'kasih', 'jokowi']"
+Ham,"🥰 bikin satu lagi pak, dari Kabupaten Murung Raya Utara Kaliman Tengah sampai ke Banjarmasin 🙏🤲😍
+
+Salam sehat dan rejeki bagus dari Tuhan; untuk semua yang membaca 🤲🙏","['bikin', 'kabupaten', 'murung', 'raya', 'utara', 'kaliman', 'banjarmasin', 'salam', 'sehat', 'rejeki', 'bagus', 'tuhan', 'baca']"
+Spam,Sore BP presiden🙏🙏,"['sore', 'bp', 'presiden']"
+Ham,Pak mohon untuk di kondisikan feeder nya juga ke stasiun bandung di utamain atau jd prioritas kalo bisa,"['mohon', 'kondisi', 'feeder', 'nya', 'stasiun', 'bandung', 'utamain', 'jd', 'prioritas', 'kalo']"
+Ham,"Keren, Pak.",['keren']
+Ham,Mantap pakde😊😊,"['mantap', 'pakde']"
+Ham,Priyek luar biada. Sehat terus untuk Bpk Ri 1.,"['priyek', 'biada', 'sehat', 'bpk', 'ri']"
+Spam,Tolong mudahkan guru PPPK untuk mendapatkan sertifikasi pendidikan karena pengabdian kami sudah cukup lama melalui lulus PPG dengan skala prioritas,"['tolong', 'mudah', 'guru', 'pppk', 'sertifikasi', 'didik', 'abdi', 'lulus', 'ppg', 'skala', 'prioritas']"
+Ham,MANTAAAAP  PAK,['mantaaaap']
+Ham,"LUAR BIASA... KARYA MU PAK JOKOWI..
+DOA.. KAMI SEHAT LAH SELALU BAPAK SERTA KELUARGA SEMUA...TRIMAKASIH.","['karya', 'mu', 'jokowi', 'doa', 'sehat', 'keluarga', 'trimakasih']"
+Ham,Alhamdulillah,['alhamdulillah']
+Ham,mantap pk de,"['mantap', 'pk', 'de']"
+Ham,Gimana bli tiketnya yah,"['gimana', 'bli', 'tiket', 'yah']"
+Ham,Awal yg baik untuk transportasi masa depan yang lebih baik,"['yg', 'transportasi']"
+Ham,Mantap. Berkah Dalem Gusti pak,"['mantap', 'berkah', 'dalem', 'gusti']"
+Ham,Keren juga cuma setengah jam,"['keren', 'jam']"
+Spam,Tansah pinaringan SehART Pakdhe ..... ☕️☕️☕️,"['tansah', 'paring', 'hart', 'pakdhe']"
+Ham,Melaju menuju Indonesia maju.. ✨👍,"['laju', 'indonesia', 'maju']"
+Spam,"Mobil esemka dialernya di mana,kata nya udah ada yg pesan 6000 unit,serius nanya","['mobil', 'esemka', 'dialernya', 'nya', 'udah', 'yg', 'pesan', 'unit', 'serius', 'nanya']"
+Spam,"Rempang memanggil pak. Jangan jalan-jalan mulu, dulu janjinya waktu kampanyenya mau selesaikan sertifikat masyarakat Rempang, tapi nyatanya sekarang kok digusur. Bagaimana ini. Kasihan masyarakat pak, mati di negeri sendiri.","['rempang', 'panggil', 'jalan', 'jalan', 'mulu', 'janji', 'kampanye', 'selesai', 'sertifikat', 'masyarakat', 'rempang', 'gusur', 'kasihan', 'masyarakat', 'mati', 'negeri']"
+Spam,Bagaimana dengan saudara2 melayu kIta pak di #rempang,"['saudara', 'melayu', 'rempang']"
+Ham,"Next Jakarta - Surabaya, baru saya mau naik","['next', 'jakarta', 'surabaya']"
+Ham,KEREN BAPAK 🥰,['keren']
+Ham,alhamdulillah,['alhamdulillah']
+Ham,Mantap bersemi pokoknya...🫡,"['mantap', 'semi', 'pokok']"
+Ham,KEREEN 👍,['kereen']
+Spam,"Aamiin,, Mugi,, BPK jkw Dodo selalu sehat,ban sepur ipun menawi bocor kempes tembel nipun teng pundi?.....","['aamiin', 'mugi', 'bpk', 'jkw', 'dodo', 'sehat', 'ban', 'sepur', 'ipun', 'menawi', 'bocor', 'kempes', 'tembel', 'nipun', 'teng', 'pundi']"
+Ham,"Lanjutkan perjalanannya terus ""pak etek..."" mantuul...👍👍👍🍦","['lanjut', 'jalan', 'etek', 'mantuul']"
+Ham,Mantap,['mantap']
+Ham,Seandainya bisa Bawak sawit??? pasti keren,"['anda', 'bawak', 'sawit', 'keren']"
+Ham,"Saya liat-liat hanya di era pak Jokowi banyak prosyek selesai dengan cepat berkat kerjasamanya dengan negara luar, hingga membuat ke gaduhan di masyarakat yang kontra trhadap Negera asing. Andai di Indonesia ini sistem kerajaan atau sistem pemerintahannya bertahan lama, pasti bakal sejahtera dari birokrasi tak jelas","['liat', 'liat', 'era', 'jokowi', 'prosyek', 'selesai', 'cepat', 'berkat', 'kerjasamanya', 'negara', 'gaduh', 'masyarakat', 'kontra', 'trhadap', 'negera', 'asing', 'andai', 'indonesia', 'sistem', 'raja', 'sistem', 'perintah', 'tahan', 'sejahtera', 'birokrasi']"
+Ham,Lanjut besok ke karawang,"['besok', 'karawang']"
+Spam,Pak lanjut periode ketiga baik...🙏,"['periode', 'tiga']"
+Ham,Mantap pak...,['mantap']
+Ham,"Mantap pak, mudah2an ka feedernya gratis atau sudah termasuk di harga tiket kereta cepat","['mantap', 'mudah', 'an', 'ka', 'feedernya', 'gratis', 'harga', 'tiket', 'kereta', 'cepat']"
+Spam,Kpd yth : Bpk presiden Jokowi kenapa ga ada kunjungan ke Kpulauan kangean Jatim. Seandainya Bpk tau minim pkrjaan di Kangean UTK Rakyat dusun saghubing UTK BS mnghslkan pundi2 rupiah smua krja ke luar negri. Andai saja di bentuk pembangunan lapangan pkrjaan UTK kpulauan kangean Jatim pak. Mohon kunjungannya,"['kpd', 'yth', 'bpk', 'presiden', 'jokowi', 'ga', 'kunjung', 'kpulauan', 'kangean', 'jatim', 'anda', 'bpk', 'tau', 'minim', 'pkrjaan', 'kangean', 'utk', 'rakyat', 'dusun', 'saghubing', 'utk', 'bs', 'mnghslkan', 'pundi', 'rupiah', 'smua', 'krja', 'negri', 'andai', 'bentuk', 'bangun', 'lapang', 'pkrjaan', 'utk', 'kpulauan', 'kangean', 'jatim', 'mohon', 'kunjung']"
+Ham,Sehat2 sllu Pak Jokowi,"['sehat', 'sllu', 'jokowi']"
+Ham,Alhamdulillah sangat luar biasa.,['alhamdulillah']
+Spam,Like pwrtama,"['like', 'pwrtama']"
+Ham,Cuma sampe padalarang tapi hutangnya ditanggung seluruh Indonesia.,"['sampe', 'padalarang', 'hutang', 'tanggung', 'indonesia']"
+Ham,"👍 semoga di pulau sulawesi kedepannya terdapat transportasi kereta api, agar mobilitas lebih fleksibel dan roda ekonomi makin cepat 🙏","['moga', 'pulau', 'sulawesi', 'depan', 'transportasi', 'kereta', 'api', 'mobilitas', 'fleksibel', 'roda', 'ekonomi', 'cepat']"
+Ham,Semoga sukses dan sehat selalu Pak Presiden Aamiiin.,"['moga', 'sukses', 'sehat', 'presiden', 'aamiiin']"
+Spam,"Tolong jga kmi pak.sampai sa,'at ini kmi blom ada penerangan.tanpa listrik.sudah 78 thn indonesia merdeka.tpi kmi blom merasakan kemerdeka'an yg sempurna.mohon di mengerti.","['tolong', 'jga', 'kmi', 'sa', 'at', 'kmi', 'blom', 'terang', 'listrik', 'thn', 'indonesia', 'merdeka', 'tpi', 'kmi', 'blom', 'rasa', 'merdeka', 'an', 'yg', 'sempurna', 'mohon', 'erti']"
+Ham,"Alhamdulillah..akhirnya di kepemimpinan Bpk Presiden Joko Widodo smua ini bs terwujud,kami bangga ketika dinegara ini pnya   public transport yg modern sperti yg dimiliki negara2 maju lainya,akhirnya indonesia jg pnya kreta cpt sperti shinkansen jepang","['alhamdulillah', 'pimpin', 'bpk', 'presiden', 'joko', 'widodo', 'smua', 'bs', 'wujud', 'bangga', 'negara', 'pnya', 'public', 'transport', 'yg', 'modern', 'sperti', 'yg', 'milik', 'negara', 'maju', 'lai', 'indonesia', 'jg', 'pnya', 'kreta', 'cpt', 'sperti', 'shinkansen', 'jepang']"
+Ham,MassaAllAH AllAH maak bpk Aamiin,"['massaallah', 'allah', 'maak', 'bpk', 'aamiin']"
+Ham,Luar biasa Boss Prend,"['boss', 'prend']"
+Ham,Pakai kartu elektronik  untuk masuk nya ya pa,"['pakai', 'kartu', 'elektronik', 'masuk', 'nya', 'ya', 'pa']"
+Ham,SINGKANSEN from Indonesia..MANTAP!!,"['singkansen', 'from', 'indonesia', 'mantap']"
+Ham,Mantap...sehat3 selalu pak de...,"['mantap', 'sehat', 'de']"
+Ham,Sukses PakDe,"['sukses', 'pakde']"
+Ham,Keren 👍,['keren']
+Ham,Sehat selalu pk presiden yg baik♥️♥️,"['sehat', 'pk', 'presiden', 'yg']"
+Ham,Semoga negriku seperti di luar negri yg mudah berpergian menggunakan transportasi umum mugo2 lampung yo di gae pak lngsung tembus jkt-jatin😊😊😊,"['moga', 'negriku', 'negri', 'yg', 'mudah', 'pergi', 'transportasi', 'mugo', 'lampung', 'yo', 'gae', 'lngsung', 'tembus', 'jkt', 'jatin']"
+Ham,Luar biasa,[]
+Ham,Aaaamiin tetap Sehat Sekeluarga,"['aaaamiin', 'sehat', 'keluarga']"
+Spam,"PLTU suralaya kapan pindah ke sumbernya , muaraenim ,mas , kasihan penduduk sumsel - lampung , hanya menyaksikan batubara dibakar mundarmandir di suralaya.. tanpa ada pabrik di MUARAENIM ...","['pltu', 'suralaya', 'pindah', 'sumber', 'muaraenim', 'mas', 'kasihan', 'duduk', 'sumsel', 'lampung', 'saksi', 'batubara', 'bakar', 'mundarmandir', 'suralaya', 'pabrik', 'muaraenim']"
+Ham,"Terimakasih bapak untuk semua yg telah bapak lakukan untuk kepentingan rakyat, semoga bapak senantiasa sehat dan selalu dalam berkah Nya 🤲🙏🙏","['terimakasih', 'yg', 'laku', 'penting', 'rakyat', 'moga', 'senantiasa', 'sehat', 'berkah', 'nya']"
+Ham,Semoga juga kedaerah banten sana ada kereta cepat...,"['moga', 'daerah', 'banten', 'kereta', 'cepat']"
+Spam,"Saya salah satu warga mewakili masyarakat rempang, maslah kami ini bukan lah sebatas miss komunikasi , pemerintah daerah sudah berkomunikasi, sudah mensosialisasi bagaimana dampak proyek rempang eco city ini kepada kami kami tidak tuli pak,hanya saja akar permasalahannya kami tidak mau direlokasi karena tempat tinggal yg kami tinggali adalah warisan nenek moyang kami yg sudah beratus tahun kami tempati bahkan jauh seblum Indonesia merdeka, bukan juga ulah provokasi karena murni solidaritas kami sesama bangsa melayu kami marah kami lost kontrol terjadilah bentrokan,karena pemimpin daerah kami tidak memihak kepada kami yg hanya difikirkan investasi berjalan dgn lancar , bahkan disaat kami ribuan masyarakat melayu menyuarakan aspirasi kami besok nya pejabat teras menggelar press conference sambil tersenyum bahwa proyek tetap berjalan pedih hati kami pak presiden 😭😭😭","['salah', 'warga', 'wakil', 'masyarakat', 'rempang', 'mas', 'batas', 'miss', 'komunikasi', 'perintah', 'daerah', 'komunikasi', 'sosialisasi', 'dampak', 'proyek', 'rempang', 'eco', 'city', 'tidak', 'tuli', 'akar', 'masalah', 'tidak', 'relokasi', 'tinggal', 'yg', 'tinggal', 'waris', 'nenek', 'moyang', 'yg', 'atus', 'tempat', 'seblum', 'indonesia', 'merdeka', 'ulah', 'provokasi', 'murni', 'solidaritas', 'bangsa', 'melayu', 'marah', 'lost', 'kontrol', 'bentrok', 'pimpin', 'daerah', 'tidak', 'yg', 'difikirkan', 'investasi', 'jalan', 'dgn', 'lancar', 'saat', 'ribu', 'masyarakat', 'melayu', 'suara', 'aspirasi', 'besok', 'nya', 'jabat', 'teras', 'gelar', 'press', 'conference', 'senyum', 'proyek', 'jalan', 'pedih', 'hati', 'presiden']"
+Spam,Pakdhe...ini pasti klo moto kameranya dibalik🤭,"['pakdhe', 'klo', 'moto', 'kamera', 'balik']"
+Ham,Sehat sehat pak jokowi..,"['sehat', 'sehat', 'jokowi']"
+Ham,Membanggakan...!!!... Maju terus Pak Presiden Jokowi..,"['bangga', 'maju', 'presiden', 'jokowi']"
+Spam,Rakyat rempang berduka masih senyum2 saja ni bapak....anda bahagia pak....??,"['rakyat', 'rempang', 'duka', 'senyum', 'ni', 'bahagia']"
+Ham,Mantap... jadi pengen kebandung naik kereta cepat... moga2 tahun baru bisa jalan2 kebandung... Aamiin,"['mantap', 'ken', 'bandung', 'kereta', 'cepat', 'moga', 'jalan', 'bandung', 'aamiin']"
+Spam,10 perieode pak,['perieode']
+Ham,hebat pak jokowi,"['hebat', 'jokowi']"
+Ham,Saya mau naik kereta cepat ke jakarta tapi saya bingung mau ngapain saya kesonoh,"['kereta', 'cepat', 'jakarta', 'bingung', 'ngapain', 'kesonoh']"
+Ham,"Mantap pak jokowi,sehat selalu pak","['mantap', 'jokowi', 'sehat']"
+Ham,Semoga Allah selalu melindungi Bapak,"['moga', 'allah', 'lindung']"
+Ham,Mantab pak  dan tiketnya dpt terjangkau,"['mantab', 'tiket', 'dpt', 'jangkau']"
+Ham,Mantap Benar 👍👍👍,['mantap']
+Ham,Mantap,['mantap']
+Ham,Klau aku mh rakyat biasa msalah kmajuan kmewahan aku dukunk yank pntink indonesia maju mski aku blum tentu bisa mrasakan ituoptimis aja lh,"['klau', 'mh', 'rakyat', 'msalah', 'kmajuan', 'kmewahan', 'dukunk', 'yank', 'pntink', 'indonesia', 'maju', 'mski', 'blum', 'mrasakan', 'ituoptimis', 'aja', 'lh']"
+Ham,Satu Kata *KEREN*  jadi pengen nyoba  biar ngerasain naik kereta cepat seperti apa,"['keren', 'ken', 'nyoba', 'biar', 'ngerasain', 'kereta', 'cepat']"
+Ham,Wihh keren panjang gtuu,"['wihh', 'keren', 'gtuu']"
+Ham,That’s a great achievement. Congratulations,"['that', 's', 'a', 'great', 'achievement', 'congratulations']"
+Ham,"Progresif = mengarah kepada kemajuan,.. Big respect 🙏","['progresif', 'arah', 'maju', 'big', 'respect']"
+Spam,Terasa bengkaknya ?,['bengkak']
+Ham,"Sehat selalu pakdhe, aamiin....","['sehat', 'pakdhe', 'aamiin']"
+Ham,Pak Joko Widodo is The Best President...,"['joko', 'widodo', 'is', 'the', 'best', 'president']"
+Spam,Kapan berkunjung ke Rempang Batam menemui masyarakat anda pak presiden yg terhormat?.kasihan di sana anak sekolah di tembaki gas air mata..ingat sumpah jabatan anda pak untuk adil kepada seluruh rakyat Indonesia 👍,"['kunjung', 'rempang', 'batam', 'temu', 'masyarakat', 'presiden', 'yg', 'hormat', 'kasihan', 'anak', 'sekolah', 'tembak', 'gas', 'air', 'mata', 'sumpah', 'jabat', 'adil', 'rakyat', 'indonesia']"
+Ham,Sehat selalu nggih pak Presiden Joko Widodo beserta ibu.,"['sehat', 'nggih', 'presiden', 'joko', 'widodo', 'serta']"
+Ham,Mantap pak👍,['mantap']
+Ham,Sehat2 trus Presiden Joko Widodo 😘,"['sehat', 'trus', 'presiden', 'joko', 'widodo']"
+Ham,Asik.... IndONEsia juara 👍👍👍 Terima kasih pa Presiden Joko Widodo,"['asik', 'indonesia', 'juara', 'terima', 'kasih', 'pa', 'presiden', 'joko', 'widodo']"
+Ham,"Keren Pak Presiden Joko Widodo, Indonesia makin maju dan sejahtera,..
+Semoga amanahnya dilanjutkan oleh Bpk Ganjar Pranowo,..
+
+God Bless Pak Presiden, God Bless Indonesia,..","['keren', 'presiden', 'joko', 'widodo', 'indonesia', 'maju', 'sejahtera', 'moga', 'amanah', 'lanjut', 'bpk', 'ganjar', 'pranowo', 'god', 'bless', 'presiden', 'god', 'bless', 'indonesia']"
+Ham,Semoga terus bisa membangun Pak biar nanti kalopun nda kesampaian maka InsyaALLAH akan diteruskan oleh pemimpin berikutnya karena kalo pembangunan yang dimulai tidak diteruskan bisa2 kita membangun terus tapi tidak selesai2 karena dirubah terus🙏💪💪💪,"['moga', 'bangun', 'biar', 'kalo', 'nda', 'insyaallah', 'terus', 'pimpin', 'kalo', 'bangun', 'tidak', 'terus', 'bangun', 'tidak', 'selesai', 'rubah']"
+Ham,Keren sekali pak 👍🏼,['keren']
+Spam,Saya sih di pihak Rocky Gerung,"['sih', 'rocky', 'gerung']"
+Ham,"Hebat kereta cepat transportasi KCJB,doa dulu pakde, semogah sehat selalu sampei tujuan, 🤲🙏, Aamiin yra","['hebat', 'kereta', 'cepat', 'transportasi', 'kcjb', 'doa', 'pakde', 'semogah', 'sehat', 'sampei', 'tuju', 'aamiin', 'yra']"
+Ham,"Selamat atas keberhasilannya bung,semogga menyusul yg lain🙏🙏🙏","['selamat', 'hasil', 'semogga', 'susul', 'yg']"
+Ham,Assalaamu'alaikum warohmatullohiwabarokaatuh semoga sehat selalu,"['assalaamu', 'alaikum', 'warohmatullohiwabarokaatuh', 'moga', 'sehat']"
+Ham,Alhamdulillah,['alhamdulillah']
+Spam,"Pak persiden..knpa harga bras mkin menikt,kren hargA ya 8 rb cma,","['persiden', 'knpa', 'harga', 'bras', 'mkin', 'menikt', 'kren', 'harga', 'ya', 'rb', 'cma']"
+Spam,Alhamdulillah pk mantap buah nyinyiran keren 😁,"['alhamdulillah', 'pk', 'mantap', 'buah', 'nyinyir', 'keren']"
+Ham,Mantab pak hebat anda Bpk sukses ya pak,"['mantab', 'hebat', 'bpk', 'sukses', 'ya']"
+Ham,"Keren pak👍
+Semoga nyambung juga sampe malang😁🙏","['keren', 'moga', 'nyambung', 'sampe', 'malang']"
+Spam,Beres pak.,['beres']
+Ham,Wah pengen segera mencoba naik KCJB 👍👍👍🙏🏻🙏🏻🙏🏻🇮🇩🇮🇩🇮🇩 waah… Indonesia sdh Jadi negara Maju deh sekrg 😇😍,"['ken', 'coba', 'kcjb', 'waah', 'indonesia', 'sdh', 'negara', 'maju', 'deh', 'sekrg']"
+Spam,Ini orang rusuh.,"['orang', 'rusuh']"
+Spam,Not worth it pak,"['not', 'worth', 'it']"
+Ham,bapak presiden mau apakah mulai pada 1 oktober yang bertepatan dengan hari kesaktian PANCASILA ideologi negara bangsa Indonesia masih harus mendaftar ketika ingin menaiki kereta cepat Jakarta - Bandung setelah tiba di stasiun Halim melalui kereta penghubung LRT agar bisa berangkat ke ibukota provinsi Jawa Barat,"['presiden', 'oktober', 'tepat', 'sakti', 'pancasila', 'ideologi', 'negara', 'bangsa', 'indonesia', 'daftar', 'kereta', 'cepat', 'jakarta', 'bandung', 'stasiun', 'halim', 'kereta', 'hubung', 'lrt', 'berangkat', 'ibukota', 'provinsi', 'jawa', 'barat']"
+Ham,ongkos nya pak presiden...di putuskan yg terjangkau. Kereta LRT  700 per km  tambah 5000...kemahalan bila kita naik mobil sendiri. HARUS DI TINJAU.  KAN BUMN YG OLAH.,"['ongkos', 'nya', 'presiden', 'putus', 'yg', 'jangkau', 'kereta', 'lrt', 'km', 'mahal', 'mobil', 'tinjau', 'bumn', 'yg', 'olah']"
+Ham,Terima kasih pak Jokowi. Pasti masyarakat kelas menengah ke atas yg tinggal terutama di Jabodetabek dan Bandung/ Padalarang sekitar akan dengan senang hati mencoba dan pindah dari mobil pribadi naik KCJB !!!,"['terima', 'kasih', 'jokowi', 'masyarakat', 'kelas', 'tengah', 'yg', 'tinggal', 'jabodetabek', 'bandung', 'padalarang', 'senang', 'hati', 'coba', 'pindah', 'mobil', 'pribadi', 'kcjb']"
+Ham,"Alhamdulillah,,,,, pak presiden,,,,, saya doakan semoga Bpk tetap dlm keadaan sehat wal afiat.....","['alhamdulillah', 'presiden', 'doa', 'moga', 'bpk', 'dlm', 'sehat', 'wal', 'afiat']"
+Ham,Sehat Semangat Sukses Selalu Presiden NKRI Berserta keluarga dan Menteri²nya Salam NKRI Maju Jaya Aamiin YRA,"['sehat', 'semangat', 'sukses', 'presiden', 'nkri', 'serta', 'keluarga', 'menteri', 'nya', 'salam', 'nkri', 'maju', 'jaya', 'aamiin', 'yra']"
+Ham,MASYAALLAH seht SELALU pak jokowi sekeluarga🤲😍😍,"['masyaallah', 'seht', 'jokowi', 'keluarga']"
+Ham,Harga tiketnya berapa ya?,"['harga', 'tiket', 'ya']"
+Ham,Sangat luar biasa bapak Presiden RI pak Jokowi Tuhan memberkati🙏,"['presiden', 'ri', 'jokowi', 'tuhan', 'kati']"
+Ham,Mantap,['mantap']
+Ham,👍🏻👍🏻👍🏻 Mantap pak presiden 👍🏻👍🏻👍🏻,"['mantap', 'presiden']"
+Ham,"Untuk mengalih kan masyarakat ke tranportasi umum itu di butuh kan contoh pak..bukan sekedar menyedia kan saja tapi harus ada contoh juga dari para asn pejabat ..anak buah bapak mau ga beralih ke umum..?
+Kalo rakyat kan ga bisa di perintah..
+Kalo asn pejabat kan bisa.","['alih', 'masyarakat', 'tranportasi', 'butuh', 'contoh', 'dar', 'sedia', 'contoh', 'asn', 'jabat', 'anak', 'buah', 'ga', 'alih', 'kalo', 'rakyat', 'ga', 'perintah', 'kalo', 'asn', 'jabat']"
+Spam,"Hadir.
+#KeluargaSejahtera","['hadir', 'keluargasejahtera']"
+Ham,"Insya Alloh Bp....,asal tidak terlalu menekan saya yakin walaupun tidak bakal instand...,kalo ongkos kejangkau knp tidak...efek positipnya besar mengurangi polisi🙏🙏","['insya', 'alloh', 'bp', 'tidak', 'tekan', 'tidak', 'instand', 'kalo', 'ongkos', 'jangkau', 'knp', 'tidak', 'efek', 'positipnya', 'kurang', 'polisi']"
+Ham,Buatkan juga pak di Jambi.. jgnkan naik kereta api.. lihat kereta api aja dak pernah 😭😭,"['buat', 'jambi', 'jgnkan', 'kereta', 'api', 'lihat', 'kereta', 'api', 'aja', 'dak']"
+Spam,"Slmt pagi Pak,kami di Kalimantan khususnya di KUTIM tolong di perhatikan juga jalan kami pak peresiden,kami bagian kecamatan n pedesa'an jln kami masih tanah jadi klo musim hujan becek n lumpur klo musim panas debu tebal pak,kami juga ingin merasakan jln Aspal menuju kota Sangata n Samarinda pak 🙏🙏🙏","['slmt', 'pagi', 'kalimantan', 'tim', 'tolong', 'perhati', 'jalan', 'residen', 'camat', 'n', 'desa', 'an', 'jln', 'tanah', 'klo', 'musim', 'hujan', 'becek', 'n', 'lumpur', 'klo', 'musim', 'panas', 'debu', 'tebal', 'rasa', 'jln', 'aspal', 'kota', 'sangata', 'n', 'samarinda']"
+Ham,Mantap pak presiden.,"['mantap', 'presiden']"
+Ham,Mantap slu👍,"['mantap', 'slu']"
+Spam,"Ini bagian seperti apa yang ada dalam rasa Tanggung Jawab KEDEPAN yang HARUS kita lakukan dan kita KERJAKAN untuk masa depan ANAK CUCU kita bukan MEMANJAKAN tapi memberikan kemudahan untuk lebih MUDAH mengembangkan MODAL Awal meningkatkan tuntutan JAMAN kedepan !
+Dari HUTANG ada wujud yang sangat Berarti untuk Jangka Panjang !","['tanggung', 'depan', 'laku', 'kerja', 'anak', 'cucu', 'manja', 'mudah', 'mudah', 'kembang', 'modal', 'tingkat', 'tuntut', 'jaman', 'depan', 'hutang', 'wujud', 'jangka']"
+Ham,"Se
+Puji Syukur ikut Bangga akhirnya Indonesia 🇮🇩  punya KA Cepat. Semoga  bisa  di seluruh INDONESIA 🇮🇩 .
+Terimakasih Pak Presiden, Indonesia 🇮🇩  tidak dianggap Negara Miskin Lagi!!!","['puji', 'syukur', 'bangga', 'indonesia', 'ka', 'cepat', 'moga', 'indonesia', 'terimakasih', 'presiden', 'indonesia', 'tidak', 'anggap', 'negara', 'miskin']"
+Ham,Terbaik pak👍,['baik']
+Ham,Mantap pakde👍,"['mantap', 'pakde']"
+Ham,Waawwwww.... keren abis...sehat selalu pak presiden ❤❤❤,"['waa', 'keren', 'abis', 'sehat', 'presiden']"
+Ham,Lebih hebat lagi kalau membangun tanpa hutang yang begitu besar....,"['hebat', 'bangun', 'hutang']"
+Spam,Pak....,[]
+Ham,"Mantaap pak De,sehat selalu Tuhan mmberkati","['mantaap', 'de', 'sehat', 'tuhan', 'mmberkati']"
+Ham,Bp Presiden Joko Widodo sukses dengan semangat juang.🙏,"['bp', 'presiden', 'joko', 'widodo', 'sukses', 'semangat', 'juang']"
+Ham,argo Parahyangan saja tidak terjangkau buat saya pak sudahlah saya cukup menggunakan KA ekonomi saja Walahar atau Serayu,"['argo', 'parahyangan', 'tidak', 'jangkau', 'ka', 'ekonomi', 'walahar', 'rayu']"
+Ham,mantap,['mantap']
+Ham,Kereeeeen ...terimakasih bapak Presiden Jokowi untuk Indonesia maju...👍👍🙏,"['kereeeeen', 'terimakasih', 'presiden', 'jokowi', 'indonesia', 'maju']"
+Spam,"Begitupun,masih ada yg mengatakan hal ini merugikan, hitung hitunganya gimana y?  Heran.","['yg', 'rugi', 'hitung', 'hitunganya', 'gimana', 'y', 'heran']"
+Ham,Sehat bahagia selalu bapak Presidenku,"['sehat', 'bahagia', 'presiden']"
+Ham,Yes.. masak nyoba yg di luar negeri aja ya pak… skrg bangga deh di Indonesia udah punya juga… all the best Mr President!!! Matur nuwun sanget nggih..🙏❤️💐,"['yes', 'masak', 'nyoba', 'yg', 'negeri', 'aja', 'ya', 'skrg', 'bangga', 'deh', 'indonesia', 'udah', 'all', 'the', 'best', 'mr', 'president', 'matur', 'nuwun', 'sanget', 'nggih']"
+Ham,Brp tiketnya boss?,"['brp', 'tiket', 'boss']"
+Ham,Optimis Bapak Jokowi&Indonesia Maju,"['optimis', 'jokowi', 'indonesia', 'maju']"
+Ham,Semoga sukses selalu ee bpk presiden RI 🇮🇩,"['moga', 'sukses', 'ee', 'bpk', 'presiden', 'ri']"
+Spam,ya kaanjen ¿♡ masEh tekoh ~~~,"['ya', 'kaanjen', 'maseh', 'tekoh']"
+Ham,Mantap,['mantap']
+Ham,Keren sekali pak👍👍,['keren']
+Ham,"Gak bisa ikut merasakan... kebagian inflasinya aja 😅 keren semoga gak hanya Jakarta aja, krn indonesia bukan hanya JAKARTA.","['gak', 'rasa', 'bagi', 'inflasi', 'aja', 'keren', 'moga', 'gak', 'jakarta', 'aja', 'krn', 'indonesia', 'jakarta']"
+Spam,Trisno Genzo kapan gantian kita test driver kereta cepatnya?,"['trisno', 'genzo', 'ganti', 'test', 'driver', 'kereta', 'cepat']"
+Ham,"Bangga walaupun entah kapan bisa naik nya, semoga suatu saat😁","['bangga', 'nya', 'moga']"
+Spam,Kampung rempang itu gmna nasibnya pakde,"['kampung', 'rempang', 'gmna', 'nasib', 'pakde']"
+Ham,Assalamualaikum pa presiden mantep itu,"['assalamualaikum', 'pa', 'presiden', 'mantep']"
+Ham,"Ini baru presiden, lanjut pak yg utk tujuan jawa tengah, jawa timur...","['presiden', 'yg', 'utk', 'tuju', 'jawa', 'jawa', 'timur']"
+Spam,Hebat presiden nya bisa memfasilitasi rakyat kaya ...hebat bisa bikin maju rakyat yg kaya tpi bukan tuk rakyat kecil dan rakyat yg kurang mampu yg kehidupan nya selalu kurang ..  pendapatan tidak sesuai dg pengeluaran ...dari dulu hingga saat ni rakyat kecil dan kurang mampu selalu kurang pendapatan nya dan selalu besar tuk pengeluaran nya pendapatan TDK sesuai dgn pengeluaran nya ✍️👍,"['hebat', 'presiden', 'nya', 'fasilitas', 'rakyat', 'kaya', 'hebat', 'bikin', 'maju', 'rakyat', 'yg', 'kaya', 'tpi', 'tuk', 'rakyat', 'rakyat', 'yg', 'yg', 'hidup', 'nya', 'dapat', 'tidak', 'sesuai', 'dg', 'keluar', 'ni', 'rakyat', 'dapat', 'nya', 'tuk', 'keluar', 'nya', 'dapat', 'tdk', 'sesuai', 'dgn', 'keluar', 'nya']"
+Ham,Terimakasih Pak Presiden Jokowi.. GBU 🙏,"['terimakasih', 'presiden', 'jokowi', 'gbu']"
+Ham,Jawa barat jadi istimewa,"['jawa', 'barat', 'istimewa']"
+Ham,Luar biasa keren 👍👍👍,['keren']
+Spam,Berhubungan intim bertiga Enak Nikmat Puas MantaB ❤️❤️❤️❤️❤️❤️❤️,"['hubung', 'intim', 'tiga', 'enak', 'nikmat', 'puas', 'mantab']"
+Spam,"Pak Jokowi tolong Bebaskan pulau Rempang jangan digusur saya mohon 
+Pak Jokowi kasian warga Rempang Batam 🙏💓","['jokowi', 'tolong', 'bebas', 'pulau', 'rempang', 'gusur', 'mohon', 'jokowi', 'kasi', 'warga', 'rempang', 'batam']"
+Ham,mantab n keren pak Jokowi…sehat selalu ya pak…kami org medan kalau ke jkt mau coba kcjb semangat terus pak🙏👍💪,"['mantab', 'n', 'keren', 'jokowi', 'sehat', 'ya', 'org', 'medan', 'jkt', 'coba', 'kcjb', 'semangat']"
+Ham,Sukses menhoetang nya mantap perpanjang sampai jatim indo pride,"['sukses', 'menhoetang', 'nya', 'mantap', 'panjang', 'jatim', 'indo', 'pride']"
+Ham,Gbu pak 🙏,['gbu']
+Ham,Kapan tiketnya mulai dijual pak?,"['tiket', 'jual']"
+Spam,Ups,['ups']
+Ham,Kren pak Jokowi,"['kren', 'jokowi']"
+Ham,Nggak pernah mimpi undonesia punya kereta cepat..dlm waktu yg singkat kepemimpinan pak Jokowi..👍👍👍,"['nggak', 'mimpi', 'undonesia', 'kereta', 'cepat', 'dlm', 'yg', 'singkat', 'pimpin', 'jokowi']"
+Ham,Selamat pak. Semoga ada sedikit manfaatnya untuk rakyat miskin tu kereta,"['selamat', 'moga', 'manfaat', 'rakyat', 'miskin', 'tu', 'kereta']"
+Ham,Indonesia maju,"['indonesia', 'maju']"
+Spam,Pak minta sepedah,['dah']
+Ham,Semoga ini beroperasi dan berfungsi dg baik serta di manfaatkan dg baik untuk semua lapisan masyarakat,"['moga', 'operasi', 'fungsi', 'dg', 'manfaat', 'dg', 'lapis', 'masyarakat']"
+Ham,Muadahn jkerta Surbaya BS dlnjutken pak n Sumatra jkarta jg hrs direncanakan pak Krn kami dr Sumatra terganjal waktu onyebrangn,"['muadahn', 'jkerta', 'surbaya', 'bs', 'dlnjutken', 'n', 'sumatra', 'jkarta', 'jg', 'hrs', 'rencana', 'krn', 'dr', 'sumatra', 'ganjal', 'onyebrangn']"
+Ham,"Asamualaikum,BPK persiden ri BPK Jokowi dodo,HTI2 y,smoga prjln y lncar,dan tidak ada hlngan suatu apapun,amin smngat BPK persiden,smoga hari ini lebih baik dri hari kemaren.","['asamualaikum', 'bpk', 'persiden', 'ri', 'bpk', 'jokowi', 'dodo', 'hti', 'y', 'smoga', 'prjln', 'y', 'lncar', 'tidak', 'hlngan', 'apa', 'amin', 'smngat', 'bpk', 'persiden', 'smoga', 'dri', 'kemaren']"
+Ham,"Presiden terbaik dan terhebat ❤️
+Semoga sehat2 selalu 🙏
+Semoga Indonesia semakin maju dan makmur 👍👍👍","['presiden', 'baik', 'hebat', 'moga', 'sehat', 'moga', 'indonesia', 'maju', 'makmur']"
+Spam,"10 tahun SBY jadi presiden apa yah hasilnya ? Pa Jokowi belum ada 10 tahun hasilnya luar biasa M Arti L Arti Kereta cepat bendungan pelabuhan bandara jalan tol jalan Desa jalan kabupaten kota provinsi sudah gitu anak SBY si Agus ngomongnya kaya ngga punya ati selalu menjelekkan Pa Jokowi heran saya ngga ngaca apa yah ,","['sby', 'presiden', 'yah', 'hasil', 'pa', 'jokowi', 'hasil', 'm', 'arti', 'l', 'arti', 'kereta', 'cepat', 'bendung', 'labuh', 'bandara', 'jalan', 'tol', 'jalan', 'desa', 'jalan', 'kabupaten', 'kota', 'provinsi', 'gitu', 'anak', 'sby', 'si', 'agus', 'ngomongnya', 'kaya', 'ngga', 'ati', 'jelek', 'pa', 'jokowi', 'heran', 'ngga', 'ngaca', 'yah']"
+Ham,"sukses dan maju Indonesia Raya, Nusantara Jaya di Era Kepresiden Pak Jokowi.","['sukses', 'maju', 'indonesia', 'raya', 'nusantara', 'jaya', 'era', 'presiden', 'jokowi']"
+Ham,Wah bagus sekali yah .,"['bagus', 'yah']"
+Spam,Aku jugak pengen pak seperti bapak tapi saya orang desa nggak tau caranya kota cumak bisa mintak keadilan sosial BP,"['jugak', 'ken', 'orang', 'desa', 'nggak', 'tau', 'kota', 'cumak', 'mintak', 'adil', 'sosial', 'bp']"
+Ham,Sukses pak presiden,"['sukses', 'presiden']"
+Ham,Mantap,['mantap']
+Ham,"Yg bagus kan hanya pulau Jawa pak. Coba liat di Sumatera Utara sana, jalan propinsi hancur berantakan. Sama dengan jalan ke sawah, sangat susah dilalui kendaraan.","['yg', 'bagus', 'pulau', 'jawa', 'coba', 'liat', 'sumatera', 'utara', 'jalan', 'propinsi', 'hancur', 'beranta', 'jalan', 'sawah', 'susah', 'kendara']"
+Spam,3 periode ya presiden ku,"['periode', 'ya', 'presiden', 'ku']"
+Ham,Bangga ❤️❤️🇮🇩🇮🇩,['bangga']
+Ham,Indonesia Moving Forward,"['indonesia', 'moving', 'forward']"
+Ham,Selamat pak presiden 🤗🤗🤗,"['selamat', 'presiden']"
+Ham,Salam hormat Bapak Presiden,"['salam', 'hormat', 'presiden']"
+Ham,Kerja yg sangat ba gus presidenku,"['kerja', 'yg', 'ba', 'gus', 'presiden']"
+Ham,Semangat pak presiden💪💪,"['semangat', 'presiden']"
+Ham,Semoga selalu sehat pak Jokowi 🙏🙏🙏,"['moga', 'sehat', 'jokowi']"
+Ham,Klu jakarta hkg.pasti seru nich..🤭🤭bisa pulang kampung terus.🤭🤭,"['klu', 'jakarta', 'hkg', 'seru', 'nich', 'pulang', 'kampung']"
+Spam,Sae pak owi👍,"['sae', 'owi']"
+Ham,Luar biasa... sehat selalu Bpk Presiden..God bless,"['sehat', 'bpk', 'presiden', 'god', 'bless']"
+Spam,"Tolong lah pakde turunkan harga beras , mohon di percepat pak,, semoga bapak sehat selalu.. 
+Yang gak suka mohon abaikan","['tolong', 'pakde', 'turun', 'harga', 'beras', 'mohon', 'cepat', 'moga', 'sehat', 'gak', 'suka', 'mohon', 'abai']"
+Ham,Sehat selalu pak presiden,"['sehat', 'presiden']"
+Spam,Roy suryo kemana ya...apa komentarnya...ngumpet dia,"['roy', 'suryo', 'mana', 'ya', 'komentar', 'ngumpet']"
+Spam,"Di youtube ada video Anak-anak Pesantren Al Zaytun Indramayu Indonesia yang Memohon  kepada Bapak Presiden Joko Widodo agar mendengarkan suara hati mereka.
+Tolong disikapi dengan CEPAT SECEPAT KERETA JAKARTA BANDUNG","['youtube', 'video', 'anak', 'anak', 'pesantren', 'al', 'zaytun', 'indramayu', 'indonesia', 'mohon', 'presiden', 'joko', 'widodo', 'dengar', 'suara', 'hati', 'tolong', 'sikap', 'cepat', 'cepat', 'kereta', 'jakarta', 'bandung']"
+Ham,mantap pak presiden .. salam Indonesia Maju 👍🏻,"['mantap', 'presiden', 'salam', 'indonesia', 'maju']"
+Ham,Mantap. Bapak Joko Widodo-Presiden R.I.. Selamat malam.,"['mantap', 'joko', 'widodo', 'presiden', 'r', 'i', 'selamat', 'malam']"
+Ham,Bullet train...ini di Tokyo kah pak Presiden Joko Widodo 😘😘😘,"['bullet', 'train', 'tokyo', 'kah', 'presiden', 'joko', 'widodo']"
+Ham,Semoga selalu diberi kesehatan dan tetap semangat pak salam dari rakyat kecil bekasi timur,"['moga', 'sehat', 'semangat', 'salam', 'rakyat', 'bekas', 'timur']"
+Ham,"Indonesia trus maju dan jaya sepanjang masa di alam ini., mhn doa juga buat kami menjadi salah satu Kakankemenag di Aceh ini. Pak Jokowi...","['indonesia', 'trus', 'maju', 'jaya', 'alam', 'mhn', 'doa', 'salah', 'kakankemenag', 'aceh', 'jokowi']"
+Ham,Otewe pasti naik KCJB PAK Presiden..,"['otewe', 'kcjb', 'presiden']"
+Spam,Kami  sedih  klau  Bpk   tergantikan  posisinya.  Kami  sangat  butuh  Bpk  untuk   3   periode   lagi   Pak  untuk  bisa  memimpin   Bangsa   dan  Negara  ini.,"['sedih', 'klau', 'bpk', 'ganti', 'posisi', 'butuh', 'bpk', 'periode', 'pimpin', 'bangsa', 'negara']"
+Ham,Barokalloh pak presiden Jokowi..,"['barokalloh', 'presiden', 'jokowi']"
+Ham,"mantap pak...
+smoga sehat sllu","['mantap', 'smoga', 'sehat', 'sllu']"
+Ham,Semoga Bapak Presiden Jokowi tiba dengan slamat dan penuh suka cita kreen mantap tetap semangat.,"['moga', 'presiden', 'jokowi', 'slamat', 'penuh', 'suka', 'cita', 'kreen', 'mantap', 'semangat']"
+Ham,Bapak aku ikut dong naik kereta cepat...,"['kereta', 'cepat']"
+Ham,Sehat sehat Pa Dhe Djokowi !!,"['sehat', 'sehat', 'pa', 'dhe', 'djokowi']"
+Ham,Selamat pagi pak jokowi,"['selamat', 'pagi', 'jokowi']"
+Ham,"Semoga sehat selalu  Bapak Presiden, Bapak Jokowi. Bapak memang hebat dan selalu memikirkan rakyat. Doa terbaik selalu untuk bapak🙏","['moga', 'sehat', 'presiden', 'jokowi', 'hebat', 'pikir', 'rakyat', 'doa', 'baik']"
+Ham,keren,['keren']
+Spam,"Hello""pak sudah liatin mesenger saya pak😧😧😧😧😧😧😧😧😧😧😧😧😧😧😧😧😧😧😧😧","['hello', 'liatin', 'mesenger']"
+Ham,Terima kasih pak jokowi di tangan bapak indonesia bisa bisa bersaing dengan negara lain,"['terima', 'kasih', 'jokowi', 'tangan', 'indonesia', 'saing', 'negara']"
+Ham,"Keren pak.
+Semoga pak Presiden Joko Widodo sehat selalu.","['keren', 'moga', 'presiden', 'joko', 'widodo', 'sehat']"
+Ham,Sehat slalu pak presiden RI sekeluarga,"['sehat', 'slalu', 'presiden', 'ri', 'keluarga']"
+Ham,Keren banget pak presiden 👍👍👍👍👍👍,"['keren', 'banget', 'presiden']"
+Ham,Mantab sejarah baru untuk Indonesia dg adanya KCJB dan sejarah Baru Lolosnya sepak bola piala Asia U 23 di th 2024..luarr biasa jos Indonesia di era Pak Dhe...🇮🇩👍🇮🇩👍🇮🇩👍,"['mantab', 'sejarah', 'indonesia', 'dg', 'kcjb', 'sejarah', 'lolos', 'sepak', 'bola', 'piala', 'asia', 'u', 'th', 'luarr', 'jos', 'indonesia', 'era', 'dhe']"
+Ham,Maju lagi pak,['maju']
+Ham,"...*** 🙏🙏🙏...TERIMA~KASIIIH PAK PRESIDEN...BAPAK SUDAAH M'NUNJUKKAAN...M'BUKTIKAAN NIAT BAIK BPK..PADA RAKYAT,MASYARAKAT DUNIA...INIILAAAH INDONESIA MASA DEPAN..."" SILAHKAAN PAK...BPK NIKMATIII..RELAKS..SEJENAAAK MERAASAKAAN HASIL JERIH PAYAAH..DI BAWAH HUJATAN...CACIAN...MAKIIAN..HINAAN..TAPII BPK TLAH M'BUKTIKAAN K'TULUSAN BPK KEPADA RAKYAT...😥😥😥😭😭😭👍👍👍👏👏👏⭐⭐⭐⭐⭐🌹🌹🌹♥️♥️♥️💋💋💋😘😘😘🙏🙏🙏🇲🇨🇲🇨🇲🇨🇲🇨🇲🇨..MAJU TAK GENTAARRRR...MERDEKAA...!!!","['terima', 'kasiiih', 'presiden', 'sudaah', 'm', 'nunjukkaan', 'm', 'buktikaan', 'niat', 'bpk', 'rakyat', 'masyarakat', 'dunia', 'iniilaaah', 'indonesia', 'silahkaan', 'bpk', 'nikmatiii', 'relaks', 'sejenaaak', 'meraasakaan', 'hasil', 'jerih', 'payaah', 'hujat', 'caci', 'makiian', 'hina', 'tapi', 'bpk', 'tlah', 'm', 'buktikaan', 'k', 'tulus', 'bpk', 'rakyat', 'maju', 'gentaarrrr', 'merdekaa']"
+Ham,"Terimakasih, pak Presiden 🙏
+Akhirnya negeri tercinta punya kereta cepat juga. Alhamdulillah 👍","['terimakasih', 'presiden', 'negeri', 'cinta', 'kereta', 'cepat', 'alhamdulillah']"
+Spam,"Tinggal proyek IKN, IKN jadi otomatis pembangunan merata, soalnya Presidennya tinggal ditengah² NKRI bukan di Jawa lagi 😁","['tinggal', 'proyek', 'ikn', 'ikn', 'otomatis', 'bangun', 'rata', 'presiden', 'tinggal', 'tengah', 'nkri', 'jawa']"
+Ham,Awal yang baik menuju Indonesia Emas 2045 Bapak Presiden Joko Widodo 👍💪🙏,"['indonesia', 'emas', 'presiden', 'joko', 'widodo']"
+Ham,"Jangan nunggu maju baru membangun,tapi membanguhlah untuk menjadi maju","['nunggu', 'maju', 'bangun', 'membanguhlah', 'maju']"
+Spam,"Pak Jokowi kunjungi desa kami lah pak di Sumatra Selatan 🙂
+Disini kami hidup dengan suka duka, dimana jalan belum diaspal, tidak ada bantuan air.
+Disini kami hanya mengandalkan air galon saja tidak pernah ada bantuan air yang datang 🙂.
+Tolong pak kunjungi daerah kami ini yang mana daerah kami ini jauh dari kota dan hidup apa adanya.
+Jalan yang bergelombang- lombang, jalan yang lengket dan licin membuat kami para pesekolah harus berjuang ketika rintikan hujan mendatang. Harapan saya cuma ingin desa kami ini menjadi lebih baik walaupun jauh dari kata kota.
+Presiden Joko Widodo mohon pak dimengerti 🙂🙏","['jokowi', 'kunjung', 'desa', 'sumatra', 'selatan', 'hidup', 'suka', 'duka', 'mana', 'jalan', 'aspal', 'tidak', 'bantu', 'air', 'andal', 'air', 'galon', 'tidak', 'bantu', 'air', 'tolong', 'kunjung', 'daerah', 'daerah', 'kota', 'hidup', 'jalan', 'gelombang', 'lombang', 'jalan', 'lengket', 'licin', 'seko', 'juang', 'rintik', 'hujan', 'harap', 'desa', 'kota', 'presiden', 'joko', 'widodo', 'mohon', 'erti']"
+Ham,"Keren pak 👍👍Presiden Joko Widodo , semoga Daerah2 wilayah Timur cepat menyusul pembangunan infrastrukturnya pak🤲👍👍💪💪","['keren', 'presiden', 'joko', 'widodo', 'moga', 'daerah', 'wilayah', 'timur', 'cepat', 'susul', 'bangun', 'infrastruktur']"
+Ham,"Alhamdulillah 🤲 
+Semoga sehat selalu bapak Presiden Joko Widodo dan ibu 🙏","['alhamdulillah', 'moga', 'sehat', 'presiden', 'joko', 'widodo']"
+Ham,Semoga suatu saat nanti jalur kereta cepat ini dilanjut jakarta - Surabaya.,"['moga', 'jalur', 'kereta', 'cepat', 'lanjut', 'jakarta', 'surabaya']"
+Spam,"Wkwk, ga ada respon apa"" nih rakyatnya di rempang lagi mempertahankan hidup..","['wkwk', 'ga', 'respon', 'nih', 'rakyat', 'rempang', 'tahan', 'hidup']"
+Ham,PAK JOKOWI 👍 👍 😎 ❤ 🇮🇩,['jokowi']
+Spam,"Assalamu'alaikum pak Presiden Joko Widodo, tanpa mengurangi rasa hormat saya akan pencapaian yg selama ini Bapak hadirkan. Saya ingin menanyakan bagaimana tanggapan Bapak mengenai kerusuhan di Batam??","['assalamu', 'alaikum', 'presiden', 'joko', 'widodo', 'kurang', 'hormat', 'capai', 'yg', 'hadir', 'tanggap', 'rusuh', 'batam']"
+Ham,"Memang luar biasa capain di pulau jawa, semoga tol pontianak singkawang jg segera di bangun pak Presiden Joko Widodo  🙏🙏🙏","['capain', 'pulau', 'jawa', 'moga', 'tol', 'pontianak', 'singkawang', 'jg', 'bangun', 'presiden', 'joko', 'widodo']"
+Ham,Itu bagus bpak ngecek kereta cepat akan lbih bgus lgi KLO bpak ngecek masalah d Kepri dgan cepat ....jgan sampai polisi n rakyat jdi korban baku bunuh utk sesuatu yg tdak terlalu penting ....🙏🙏,"['bagus', 'bpak', 'ngecek', 'kereta', 'cepat', 'lbih', 'bgus', 'lgi', 'klo', 'bpak', 'ngecek', 'd', 'kepri', 'dgan', 'cepat', 'jgan', 'polisi', 'n', 'rakyat', 'jdi', 'korban', 'baku', 'bunuh', 'utk', 'yg', 'tdak']"
+Ham,Dbest of good.. Mr President jokowi-.. 👍👍👍,"['dbest', 'of', 'good', 'mr', 'president', 'jokowi']"
+Spam,"Benar skli pak tunggu apalagi,ucapan slmat jln cepat ya pak apa","['skli', 'tunggu', 'ucap', 'slmat', 'jln', 'cepat', 'ya']"
+Ham,Luar biasa pak Presiden,['presiden']
+Ham,Mudah2an suatu saat ada juga di sumatera kalimantan sulawesi papua..,"['mudah', 'an', 'sumatera', 'kalimantan', 'sulawesi', 'papua']"
+Ham,"Mantap,,, pak presiden","['mantap', 'presiden']"
+Ham,Selamat bpk Jokowi🙏🏻🇮🇩🇮🇩🇮🇩,"['selamat', 'bpk', 'jokowi']"
+Ham,Koneksinya ke Bandung naik apa pak?,"['koneksi', 'bandung']"
+Ham,Mantaap Bpk Presiden Joko Widodo 🇮🇩 keren 👍👍👍,"['mantaap', 'bpk', 'presiden', 'joko', 'widodo', 'keren']"
+Ham,Sehat sll presiden ku 🙏🤲,"['sehat', 'sll', 'presiden', 'ku']"
+Ham,Lanjutkan KA Cepat  ke Surabaya. bpk Jokowi,"['lanjut', 'ka', 'cepat', 'surabaya', 'bpk', 'jokowi']"
+Ham,"Moda transportasi utk jarak jauh via darat , butuh kecepatan dan kenyamanan  yg tinggi tanpa gas buang mesin sudah mutlak jd kebutuhan global demi kelestarian alam bumi .
+
+ Dan di masa depan kereta listrik berkecepatan supersonic sejenis pasti lebih rekomendatif dibandingkan dgn pesawat udara yg mana hanya lebih cocok digunakan setelah dimodifikasi sebagai  alat pengganti mobil pemadam kebakaran hutan.","['moda', 'transportasi', 'utk', 'jarak', 'via', 'darat', 'butuh', 'cepat', 'nyaman', 'yg', 'gas', 'buang', 'mesin', 'mutlak', 'jd', 'butuh', 'global', 'lestari', 'alam', 'bumi', 'kereta', 'listrik', 'cepat', 'supersonic', 'jenis', 'rekomendatif', 'banding', 'dgn', 'pesawat', 'udara', 'yg', 'cocok', 'modifikasi', 'alat', 'ganti', 'mobil', 'madam', 'bakar', 'hutan']"
+Ham,"Gmn pun cara nya Hanya Pak Jokowi yg mampu exekusi nya, sallam sehat selalu Pak Jokowi sekeluara jg para mentri2 nya","['gmn', 'nya', 'jokowi', 'yg', 'exekusi', 'nya', 'sallam', 'sehat', 'jokowi', 'sekeluara', 'jg', 'tri', 'nya']"
+Ham,"Saya berharap sebelum bapak selesai masa jabatan.bapak  memulai lagi kereta cepat Bandung Jogja dan Jogja  Surabaya,dengan begitu presiden berikut y mau tidak mau harus lanjutkan,pelan pelan  saya yakin 10-20 tahun pasti tersambung jkt-surabaya","['harap', 'selesai', 'jabat', 'kereta', 'cepat', 'bandung', 'jogja', 'jogja', 'surabaya', 'presiden', 'y', 'tidak', 'lanjut', 'pelan', 'pelan', 'sambung', 'jkt', 'surabaya']"
+Spam,Panjang umur semoga sehat selalu buat raja..,"['umur', 'moga', 'sehat', 'raja']"
+Ham,Sepp pak,['sepp']
+Ham,"Mantap pak ,sukses selalu dan sehat selalu","['mantap', 'sukses', 'sehat']"
+Ham,Selamat yang mulia presiden ke 7 joko widodo. Keberhasilan kereta cepat sbg awal baik utk seluruh indonesia.❤,"['selamat', 'mulia', 'presiden', 'joko', 'widodo', 'hasil', 'kereta', 'cepat', 'sbg', 'utk', 'indonesia']"
+Ham,Mantap. Sehat2 Pak Presiden Jokowi. Ijin share,"['mantap', 'sehat', 'presiden', 'jokowi', 'ijin', 'share']"
+Spam,Kasihan orang REMPANG GALANG. Demi kereta itu mereka harus di gusur,"['kasihan', 'orang', 'rempang', 'galang', 'kereta', 'gusur']"
+Ham,Mantab kepercayaan rakyat semakin kuat dgn selesainya kereta cepat. Menunjukkan bahwa bangsa kita akan maju pesat,"['mantab', 'percaya', 'rakyat', 'kuat', 'dgn', 'selesai', 'kereta', 'cepat', 'bangsa', 'maju', 'pesat']"
+Ham,Ntar bikin lagii kereta Cepat Bandung - jakarta -Kalimantan IKN.,"['ntar', 'bikin', 'lagi', 'kereta', 'cepat', 'bandung', 'jakarta', 'kalimantan', 'ikn']"
+Spam,Katanya 18 agustus wkkk,"['agustus', 'wkkk']"
+Ham,Semoga Allah swt selalu memberikan kesehatan untuk sekeluarga pak jokowi dan semoga sj warga indonesia tetap menjaga dan memelihara yang sdh d bangun dengan susah payah apa yang telah ada😊😊😊 salam NKRI🥰🥰,"['moga', 'allah', 'swt', 'sehat', 'keluarga', 'jokowi', 'moga', 'sj', 'warga', 'indonesia', 'jaga', 'pelihara', 'sdh', 'd', 'bangun', 'susah', 'payah', 'salam', 'nkri']"
+Ham,Mantap Keren Bapak Republik Indonesia 🇮🇩 Hebat 👍🇮🇩,"['mantap', 'keren', 'republik', 'indonesia', 'hebat']"
+Ham,"Alhamdulillah, semoga dgn kehadiran KA cepat ini membawa manfaat untuk bangsa khususnya masyarakat DKI dan Jabar. Mudah2an dilanjutkan sampai ke ujung pulau Jawa oleh pemimpin berikutnya.","['alhamdulillah', 'moga', 'dgn', 'hadir', 'ka', 'cepat', 'bawa', 'manfaat', 'bangsa', 'masyarakat', 'dki', 'jabar', 'mudah', 'an', 'lanjut', 'ujung', 'pulau', 'jawa', 'pimpin']"
+Spam,"https://www.facebook.com/groups/606378937782873/?ref=share_group_link
+
+Mohon dukungannya terhadap perjuangan kami dalam kasus Net89 yang sudah membuat penderitaan sangat dalam bagi ratusan ribu membernya.
+
+Sejumlah oknum aktor intelektual PT SMI (Simbiotik Multitalenta Indonesia) dan para kroninya yang sudah berstatus tersangka (8 orang) maupun yang belum (masih ada belasan orang lagi) agar diproses hukum dengan ganjaran hukuman seberat-beratnya.
+
+Yang lebih penting lagi, dana ratusan ribu member Net89 dapat dikembalikan, dengan cara sebaik-baiknya dan secepat-secepatnya.
+
+Mohon kasus Net89 diawasi dan dikawal dengan baik, agar dana member bisa kembali, sehingga penderitaan ratusan ribu member Net89 bisa terangkat;  ekonomi mereka pulih; hambatan pendidikan dan gangguan kesehatan hilang; dan masa depan mereka menjadi cerah kembali.
+
+#GempurNet89
+#Net89
+#KasusNet89
+#ptsmi
+#SimbiotikMultitalentaIndonesia
+#Polri
+#PolisiIndonesia
+#Presisi","['mohon', 'dukung', 'juang', 'net', 'derita', 'ratus', 'ribu', 'membernya', 'oknum', 'aktor', 'intelektual', 'pt', 'smi', 'simbiotik', 'multitalenta', 'indonesia', 'kroni', 'status', 'sangka', 'orang', 'bas', 'orang', 'proses', 'hukum', 'ganjar', 'hukum', 'berat', 'berat', 'dana', 'ratus', 'ribu', 'member', 'net', 'kembali', 'baik', 'cepat', 'cepat', 'mohon', 'net', 'awas', 'kawal', 'dana', 'member', 'derita', 'ratus', 'ribu', 'member', 'net', 'angkat', 'ekonomi', 'pulih', 'hambat', 'didik', 'ganggu', 'sehat', 'hilang', 'cerah', 'gempurnet', 'net', 'kasusnet', 'ptsmi', 'simbiotikmultitalentaindonesia', 'polri', 'polisiindonesia', 'presisi']"
+Spam,"https://www.facebook.com/groups/606378937782873/?ref=share_group_link
+
+Mohon dukungannya terhadap perjuangan kami @gempurnet89 dalam kasus Net89 yang sudah membuat penderitaan sangat dalam bagi ratusan ribu membernya.
+
+Sejumlah oknum aktor intelektual PT SMI (SIMBIOTIK MULTITALENTA INDONESIA) dan para kroninya yang sudah berstatus tersangka (13 orang => sampai sekarang blum satupun ditahan) maupun yang belum (masih ada belasan orang lagi) agar diproses hukum dengan ganjaran hukuman seberat-beratnya.
+sehingga penderitaan ratusan ribu member Net89 bisa terangkat;  ekonomi mereka pulih; hambatan pendidikan dan gangguan kesehatan hilang; dan masa depan mereka menjadi cerah kembali.
+
+#GempurNet89
+#Net89
+#KasusNet89
+#ptsmi
+#SimbiotikMultitalenhtaIndonesia
+#Polri
+#PolisiIndonesia
+#Presisi 
+🙏🏻🙏🏻🙏🏻","['mohon', 'dukung', 'juang', 'net', 'derita', 'ratus', 'ribu', 'membernya', 'oknum', 'aktor', 'intelektual', 'pt', 'smi', 'simbiotik', 'multitalenta', 'indonesia', 'kroni', 'status', 'sangka', 'orang', 'blum', 'satu', 'tahan', 'bas', 'orang', 'proses', 'hukum', 'ganjar', 'hukum', 'berat', 'berat', 'derita', 'ratus', 'ribu', 'member', 'net', 'angkat', 'ekonomi', 'pulih', 'hambat', 'didik', 'ganggu', 'sehat', 'hilang', 'cerah', 'gempurnet', 'net', 'kasusnet', 'ptsmi', 'simbiotikmultitalenhtaindonesia', 'polri', 'polisiindonesia', 'presisi']"
+Ham,Keren pak sukses sll .,"['keren', 'sukses', 'sll']"
+Ham,GBU ALL THE BEST WISHES THE GREAT INDONESIA RAYA BHINEKA TUNGGAL IKA FOR FOREVER,"['gbu', 'all', 'the', 'best', 'wishes', 'the', 'great', 'indonesia', 'raya', 'bhineka', 'tunggal', 'ika', 'for', 'forever']"
+Spam,"https://www.facebook.com/groups/606378937782873/?ref=share_group_link
+
+Mohon dukungannya terhadap perjuangan kami @gempurnet89 dalam kasus Net89 yang sudah membuat penderitaan sangat dalam bagi ratusan ribu membernya.
+
+Sejumlah oknum aktor intelektual PT SMI (SIMBIOTIK MULTITALENTA INDONESIA) dan para kroninya yang sudah berstatus tersangka (13 orang => sampai sekarang blum satupun ditahan) maupun yang belum (masih ada belasan orang lagi) agar diproses hukum dengan ganjaran hukuman seberat-beratnya.
+sehingga penderitaan ratusan ribu member Net89 bisa terangkat;  ekonomi mereka pulih; hambatan pendidikan dan gangguan kesehatan hilang; dan masa depan mereka menjadi cerah kembali.
+
+#GempurNet89
+#Net89
+#KasusNet89
+#ptsmi
+#SimbiotikMultitalenhtaIndonesia
+#Polri
+#PolisiIndonesia
+#Presisi 
+🙏🏻🙏🏻🙏🏻","['mohon', 'dukung', 'juang', 'net', 'derita', 'ratus', 'ribu', 'membernya', 'oknum', 'aktor', 'intelektual', 'pt', 'smi', 'simbiotik', 'multitalenta', 'indonesia', 'kroni', 'status', 'sangka', 'orang', 'blum', 'satu', 'tahan', 'bas', 'orang', 'proses', 'hukum', 'ganjar', 'hukum', 'berat', 'berat', 'derita', 'ratus', 'ribu', 'member', 'net', 'angkat', 'ekonomi', 'pulih', 'hambat', 'didik', 'ganggu', 'sehat', 'hilang', 'cerah', 'gempurnet', 'net', 'kasusnet', 'ptsmi', 'simbiotikmultitalenhtaindonesia', 'polri', 'polisiindonesia', 'presisi']"
+Ham,Selamat datang di Bandung Bapak Presiden Joko Widodo 🙏,"['selamat', 'bandung', 'presiden', 'joko', 'widodo']"
+Ham,"Mantap pak Presiden Joko Widodo...
+Tetap sehat, semangat dan sukacita membangun Negeri kita tercinta...","['mantap', 'presiden', 'joko', 'widodo', 'sehat', 'semangat', 'sukacita', 'bangun', 'negeri', 'cinta']"
+Ham,"Mantap Pak Presiden Joko Widodo mudah2 an, suatu saat nanti sy bisa naik kereta cepat.","['mantap', 'presiden', 'joko', 'widodo', 'mudah', 'an', 'sy', 'kereta', 'cepat']"
+Spam,"Mantap pak, andaikan bisa tiga periode akan semakin banyak rakyat menikmati kemudahan, sehat selalu pak,GBU","['mantap', 'andai', 'periode', 'rakyat', 'nikmat', 'mudah', 'sehat', 'gbu']"
+Ham,Wowww Wonderful Mr. You are all the best too👍👍👍🙏🙏🙏💪💪🇮🇩❤🇮🇩❤🇮🇩❤🇮🇩❤,"['wowww', 'wonderful', 'mr', 'you', 'are', 'all', 'the', 'best', 'too']"
+Ham,love you bpk Presiden Joko Widodo smg sht sll Indonesiaq semakin maju terus Aamiin,"['love', 'you', 'bpk', 'presiden', 'joko', 'widodo', 'smg', 'sht', 'sll', 'indonesiaq', 'maju', 'aamiin']"
+Ham,THE BEST POKOKNYA PRESIDENKU.....,"['the', 'best', 'pokok', 'presiden']"
+Ham,Semoga pak Jokowi di beri kesehatan selalu,"['moga', 'jokowi', 'sehat']"
+Ham,The best president  of all...,"['the', 'best', 'president', 'of', 'all']"
+Ham,You are the Best Mr President Pakde Owi and always in may heart..🥰🥰,"['you', 'are', 'the', 'best', 'mr', 'president', 'pakde', 'owi', 'and', 'always', 'in', 'may', 'heart']"
+Ham,Mantap pakde,"['mantap', 'pakde']"
+Ham,"Tahniah Bapak Presiden Joko Widodo 
+di Malaysia menumpang bangga.
+
+Negara pertama di rantau ini ada HSR (Kereta Cepat).
+Dengan kelajuan sehingga 351 km/jam, difahamkan ia adalah negara kedua di dunia selepas China dengan kelajuan sebegini.
+
+Tahniah!💪","['tahniah', 'presiden', 'joko', 'widodo', 'malaysia', 'tumpang', 'bangga', 'negara', 'rantau', 'hsr', 'kereta', 'cepat', 'laju', 'km', 'jam', 'difahamkan', 'negara', 'dunia', 'lepas', 'china', 'laju', 'tahniah']"
+Ham,Bangun membangun pak jokowi solusinya,"['bangun', 'bangun', 'jokowi', 'solusi']"
+Spam,"https://www.facebook.com/groups/606378937782873/?ref=share_group_link
+
+Mohon dukungannya terhadap perjuangan kami GEMPUR NET89 dalam kasus Net89 yang sudah membuat penderitaan sangat dalam bagi ratusan ribu membernya.
+
+Sejumlah oknum aktor intelektual PT SMI (SIMBIOTIK MULTITALENTA INDONESIA) dan para kroninya yang sudah berstatus tersangka ( 13 orang => sampai sekarang blum satupun ditahan=> mudah""an ketika akan dilakukan penahanan, tdk ada yg kabur 🙏🙏🙏) maupun yang belum menjadi tersangka (masih ada belasan orang lagi) agar diproses hukum dengan ganjaran hukuman seberat-beratnya.
+
+Yang lebih penting lagi, dana ratusan ribu member Net89 dapat dikembalikan, dengan cara sebaik-baiknya dan secepat-secepatnya.
+
+Mohon kasus Net89 diawasi dan dikawal dengan baik, agar dana member bisa kembali, sehingga penderitaan ratusan ribu member Net89 bisa terangkat;  ekonomi mereka pulih; hambatan pendidikan dan gangguan kesehatan hilang; dan masa depan mereka menjadi cerah kembali.
+
+#GempurNet89
+#Net89
+#KasusNet89
+#ptsmi
+#SimbiotikMultitalentaIndonesia
+#Polri
+#PolisiIndonesia
+#Presisi","['mohon', 'dukung', 'juang', 'gempur', 'net', 'net', 'derita', 'ratus', 'ribu', 'membernya', 'oknum', 'aktor', 'intelektual', 'pt', 'smi', 'simbiotik', 'multitalenta', 'indonesia', 'kroni', 'status', 'sangka', 'orang', 'blum', 'satu', 'tahan', 'mudah', 'an', 'tahan', 'tdk', 'yg', 'kabur', 'sangka', 'bas', 'orang', 'proses', 'hukum', 'ganjar', 'hukum', 'berat', 'berat', 'dana', 'ratus', 'ribu', 'member', 'net', 'kembali', 'baik', 'cepat', 'cepat', 'mohon', 'net', 'awas', 'kawal', 'dana', 'member', 'derita', 'ratus', 'ribu', 'member', 'net', 'angkat', 'ekonomi', 'pulih', 'hambat', 'didik', 'ganggu', 'sehat', 'hilang', 'cerah', 'gempurnet', 'net', 'kasusnet', 'ptsmi', 'simbiotikmultitalentaindonesia', 'polri', 'polisiindonesia', 'presisi']"
+Ham,good job.P.,"['good', 'job', 'p']"
+Ham,"Shalom ! Bpk.Presiden Ir.Haji.Joko Widodo,Wauh sangat KereN karya kerja nyata Bapa,kami seluruh rakyat Indonesia berterimakasih Pak,
+Kiranya Tuhan Yesus Kristus Memberkati Bapa, Ibu dan Keluarga Besar
+Ini Demas Robby Berandai-andai Bapa Presiden,jika itu dibuat dari
+Kota Palembang ke Kota
+Medan alangkah hebatnya
+Rakyat bisa tertolong dari
+Ongkos transfot*","['shalom', 'bpk', 'presiden', 'ir', 'haji', 'joko', 'widodo', 'wauh', 'keren', 'karya', 'kerja', 'nyata', 'bapa', 'rakyat', 'indonesia', 'berterimakasih', 'tuhan', 'yesus', 'kristus', 'kati', 'bapa', 'keluarga', 'das', 'robby', 'beranda', 'andai', 'bapa', 'presiden', 'kota', 'palembang', 'kota', 'medan', 'alangkah', 'hebat', 'rakyat', 'tolong', 'ongkos', 'transfot']"
+Ham,Alhamdulillah lagi2 hanya di era bpk presiden jokowi indonesia sudah banyak perubahan dan maju berkat di pimpin bpk presiden jokowi indonesia jadi bangkit 🇮🇩dan maju dr aceh sampai papua🌏 Hidup bpk presiden jokowi..,"['alhamdulillah', 'era', 'bpk', 'presiden', 'jokowi', 'indonesia', 'ubah', 'maju', 'berkat', 'pimpin', 'bpk', 'presiden', 'jokowi', 'indonesia', 'bangkit', 'maju', 'dr', 'aceh', 'papua', 'hidup', 'bpk', 'presiden', 'jokowi']"
+Spam,"Yg simple2 aja,nggak usah ribet2 knp pilih pak JokoWi…Si 32 tahun yg mayoritas tau lah yaaa kelakuannya dgn jongos2nya yg BANYAK SEKOLAH DI LUARNEGERI…Nggak bisa bikin transportasi massal…Yg ini duuuh nggak usah di jabarkan lah,cuma sekolah (kuliah) di dalam NEGERI (bukan DEPOK,sarang alay,Depok kecuali Cinere & sekitarnya masih PERADABAN)…S’pore &
+Malaysia udah punya transportasi massal puluhan tahun (MRT),kita 🇮🇩 yaaa sejak pak Jokowi ada…Tidak akan pernah ada manusia (Presiden) sempurna,tapi yg 1 ini salahsatu yg terbaik ❤️🇮🇩❤️. Melenceng sedikit,Pak libas GENTING HIGHLAND pak,sama2 negara dgn penduduk MAYORITAS ISLAM pak,krn judi online dll yg SETIPE ditutup besok2nya ada lagi,mending di legalkan pak.","['yg', 'simple', 'aja', 'nggak', 'ribet', 'knp', 'pilih', 'jokowi', 'si', 'yg', 'mayoritas', 'tau', 'yaaa', 'laku', 'dgn', 'jongos', 'nya', 'yg', 'sekolah', 'luarnegeri', 'nggak', 'bikin', 'transportasi', 'massal', 'yg', 'duuuh', 'nggak', 'jabar', 'sekolah', 'kuliah', 'negeri', 'depok', 'sarang', 'alay', 'depok', 'kecuali', 'cere', 'adab', 's', 'pore', 'malaysia', 'udah', 'transportasi', 'massal', 'puluh', 'mrt', 'yaaa', 'jokowi', 'tidak', 'manusia', 'presiden', 'sempurna', 'yg', 'salahsatu', 'yg', 'baik', 'lenceng', 'libas', 'genting', 'highland', 'negara', 'dgn', 'duduk', 'mayoritas', 'islam', 'krn', 'judi', 'online', 'dll', 'yg', 'tipe', 'tutup', 'besok', 'nya', 'mending', 'legal']"
+Ham,"Masyaallah tabarakallallah success my prisiden is the best amin yarrobball, alamin.😇😇😇🤲🤲🤲❤️❤️❤️🌸🌸🌸","['masyaallah', 'tabarakallallah', 'success', 'my', 'prisiden', 'is', 'the', 'best', 'amin', 'yarrobball', 'alamin']"
+Ham,Presiden keren..👍,"['presiden', 'keren']"
+Ham,Pak Jokowi is the best ❤️🙏,"['jokowi', 'is', 'the', 'best']"
+Spam,"Assalamualaikum Wr.Wb
+Masih Memperihatinkan""
+""PERHATIKAN UMKM dan Turun LANGSUNG ke Lapangan Bagaiman Keluhan keluhan yang terus terjadi di masyarakat #SandiagaSalaudinUno Bapak UMKM Indonesia yang menjabat saat ini sebagai Menteri Di kabinet Indonesia Maju ""Pak sandi"". #SumateraUtara mewakili Bapak GUBSU #EdyRahmayadi ""Pak"" dan Walikota Medan #BobyAfifNasution ""LancarProyek kita pak"" #DPRDSUMUT #POLDASUMUT #TNISUMUT #PEMPROVSUMUT 
+Semoga kita semua sehat Selalu dan dalam lindungan allah swt tuhan yang maha kuasa atas segala kuasa.
+Jadi ada beberapa point yang ingin saya sampaikan dan saya pertanyakan serta harus segara di laksanakan
+1.#Kominfo Tolong Benar Benar Hapuskan Judi Online dan Berantas Mafia/Bandar Narkoba saya tidak tahu pasti apa penyebab daya jual beli di SUMATERA UTARA khusus nya Medan Sumut #Sumut sebelumnya sangat sangat Menurun tidak pernah terjadi, tidak separah Covid19 sebelumnya,kami waktu Covid19 masih merasakan para pedagang kecil (UMKM) masih bisa tersenyum walaupun ada kegiatan #PSBB tapi sekrang ini berbeda di bulan Juni-agustus banyak UMKM yang Tutup (Bangkrut) sampai pada bulan ini di bulan SEPTEMBER alhamdulillah ada sedikit peningkatan saya harap ini terus meningkat agar Ekonomi kita tidak seperti Sebelumnya entah mengapa dan apa sebabnya?
+saya mengatakan ini karena Percaya atau tidak Percaya masyarakat saya ,sahabat ,saudara dan teman teman UMKM Curhat dan Fakta yang modal nya kecil Banyak yang tutup tidak bisa bertahan karena Sepi nya pembeli.
+Jadi untuk mengawal Pedagang pedagang kecil agar bangkit dari rasa tidak percaya diri saya meminta kepada #KAPOLDASUMUT #KAPOLDA untuk Memerintahkan jajaran atau bawahan nya #POLRES #KAPOLRES #POLSEK #KAPOLSEK #POLRESTABESMEDAN #POLRESTABES berantas Judi ,Meja meja Judi dan bandar bandar judi dan yang paling merugikan Negara adalah Judi Online ,berantas sampai ke plosok plosok daerah dan saya memohon Kepada Bapak #KAPOLDA untuk memerintahkan,mengingatkan kepada rekan rekan Jangan jadi Becking Bandar Narkoba dan  Bandar Judi/Judi online Sumatera Utara #Sumut sering Viral emak emak harus turun tangan bertindak menghancurkan Meja meja judi dan Lapak Judi .Tugas Bapak sebagai #KAPOLDA #KAPOLRES #KAPOLSEK 
+#Demiindonesiamaju
+Jangan Takut,dan Bekerja keras lah kita tidak Boleh Sepele Kepada dua Penyakit masyarakat ini yang selalu timbul,tapi semua itu bisa di cegah dan di buat MINIM atau MINUS angka Judi dan Narkoba harus turun dan terus turun di Seluruh Wilayah Indonesia termasuk SUMUT.
+
+2.#PresidenJokowidodo Bapak Presiden Joko Widodo sehat selalu,semangat terus dan tugas di bahu bapak benar benar berat sekali saya heran bapak tidak kekar tapi semangat muda nya memikirkan bagaimana "" indonesia tidak gini gini aja "" 
+Saya ingin Menyampaikan sedikit pendapat tentang Bantuan sosial ,Nah bantuan sosial sebelumnya terus di berikan kepada Masyarakat Miskin dan masyarakat ekonomi lemah sangat terbantu setelah covid perlahan bangkit jadi saya ke point utama yaitu ""Percuma bantuan Sosial terus di berikan kalau perputaran uang terus mengalir ke luar negeri dan sampai pada titik utama ke bandar Judi atau bandar narkoba ke luar negeri.Bantuan yang sebelumnya bapak berikan sangatlah membantu tapi kinerja Pusat kementrian dan Polri tidak bisa memblokade uang yang mengalir keluar karena terus berharap kaya dan lepas dari hutang karena Judi ,yang ada kebanyakan sekarang orang yang sudah berhutang bertambah hutang nya.
+""Jadi untuk membuat ekonomi ini kembali stabil dan mudah mudahan naik adalah dengan memblokade Judi Online dan memberantas sampai ke akar akarnya Mafia narkoba baik bandar ataupun yang membeckingi bandar narkoba itu sendiri dengan cepat dan ter ukur.
+
+Setelah Memblokade Situs dan aplikasi judi online serta meratakan Narkoba ,#bansos akan ber arti di berikan karena perputaran ini kembali membaik.dan saya berharap krena keadan skrg sperti ini mungkin di daerah #JABAR #JATENG #JATIM juga mengalami problem yang sama.
+#DemiIndonesia #NKRIhargamati
+
+Kita juga berharap ada subsidi yang bisa meringankan beban rakyat sekarang ini.
+
+Ayo bekerjasama Terus mencegah!!
+#KerugianNegaraRepublikindonesia
+#KerugianNegara #MenurunnyaDevisaNegara #Melemahnyasektorjualbeli #UmkmResah","['assalamualaikum', 'wr', 'wb', 'memperihatinkan', 'perhati', 'umkm', 'turun', 'langsung', 'lapang', 'bagaiman', 'keluh', 'keluh', 'masyarakat', 'sandiagasalaudinuno', 'umkm', 'indonesia', 'jabat', 'menteri', 'kabinet', 'indonesia', 'maju', 'sandi', 'sumaterautara', 'wakil', 'gubsu', 'edyrahmayadi', 'walikota', 'medan', 'bobyafifnasution', 'lancarproyek', 'dprdsumut', 'poldasumut', 'tnisumut', 'pemprovsumut', 'moga', 'sehat', 'lindung', 'allah', 'swt', 'tuhan', 'maha', 'kuasa', 'kuasa', 'point', 'segara', 'laksana', 'kominfo', 'tolong', 'hapus', 'judi', 'online', 'berantas', 'mafia', 'bandar', 'narkoba', 'tidak', 'sebab', 'daya', 'jual', 'beli', 'sumatera', 'utara', 'khusus', 'nya', 'medan', 'sumut', 'sumut', 'turun', 'tidak', 'tidak', 'parah', 'covid', 'covid', 'rasa', 'dagang', 'umkm', 'senyum', 'giat', 'psbb', 'sekrang', 'beda', 'juni', 'agustus', 'umkm', 'tutup', 'bangkrut', 'september', 'alhamdulillah', 'tingkat', 'harap', 'tingkat', 'ekonomi', 'tidak', 'percaya', 'tidak', 'percaya', 'masyarakat', 'sahabat', 'saudara', 'teman', 'teman', 'umkm', 'curhat', 'fakta', 'modal', 'nya', 'tutup', 'tidak', 'tahan', 'sepi', 'nya', 'beli', 'awal', 'dagang', 'dagang', 'bangkit', 'tidak', 'percaya', 'kapoldasumut', 'kapolda', 'perintah', 'jajar', 'bawah', 'nya', 'polres', 'kapolres', 'polsek', 'kapolsek', 'polrestabesmedan', 'polrestabes', 'berantas', 'judi', 'meja', 'meja', 'judi', 'bandar', 'bandar', 'judi', 'rugi', 'negara', 'judi', 'online', 'berantas', 'plosok', 'plosok', 'daerah', 'mohon', 'kapolda', 'perintah', 'rekan', 'rekan', 'becking', 'bandar', 'narkoba', 'bandar', 'judi', 'judi', 'online', 'sumatera', 'utara', 'sumut', 'viral', 'emak', 'emak', 'turun', 'tangan', 'tindak', 'hancur', 'meja', 'meja', 'judi', 'lapak', 'judi', 'tugas', 'kapolda', 'kapolres', 'kapolsek', 'demiindonesiamaju', 'takut', 'keras', 'tidak', 'sepele', 'sakit', 'masyarakat', 'timbul', 'cegah', 'minim', 'minus', 'angka', 'judi', 'narkoba', 'turun', 'turun', 'wilayah', 'indonesia', 'sumut', 'presidenjokowidodo', 'presiden', 'joko', 'widodo', 'sehat', 'semangat', 'tugas', 'bahu', 'berat', 'heran', 'tidak', 'kekar', 'semangat', 'muda', 'nya', 'pikir', 'indonesia', 'tidak', 'gin', 'gin', 'aja', 'dapat', 'bantu', 'sosial', 'bantu', 'sosial', 'masyarakat', 'miskin', 'masyarakat', 'ekonomi', 'lemah', 'bantu', 'covid', 'perlahan', 'bangkit', 'point', 'utama', 'bantu', 'sosial', 'putar', 'uang', 'alir', 'negeri', 'titik', 'utama', 'bandar', 'judi', 'bandar', 'narkoba', 'negeri', 'bantu', 'bantu', 'kerja', 'pusat', 'tri', 'polri', 'tidak', 'blokade', 'uang', 'alir', 'harap', 'kaya', 'lepas', 'hutang', 'judi', 'banyak', 'orang', 'hutang', 'tambah', 'hutang', 'nya', 'ekonomi', 'stabil', 'mudah', 'mudah', 'blokade', 'judi', 'online', 'berantas', 'akar', 'akar', 'mafia', 'narkoba', 'bandar', 'membeckingi', 'bandar', 'narkoba', 'cepat', 'ter', 'ukur', 'blokade', 'situs', 'aplikasi', 'judi', 'online', 'rata', 'narkoba', 'bansos', 'ber', 'arti', 'putar', 'baik', 'harap', 'krena', 'adan', 'skrg', 'sperti', 'daerah', 'jabar', 'jateng', 'jatim', 'alami', 'problem', 'indonesia', 'nkrihargamati', 'harap', 'subsidi', 'ringan', 'beban', 'rakyat', 'ayo', 'bekerjasama', 'cegah', 'kerugiannegararepublikindonesia', 'kerugiannegara', 'menurunnyadevisanegara', 'melemahnyasektorjualbeli', 'umkmresah']"
+Spam,"Ini yg disebut pemimpin yg berprestasi dlm memimpin...❤️
+Gimna menurut anda bos Firda Kaliasemfarm adakah anda tanggapan dikolom ini..?🤭🤣","['yg', 'pimpin', 'yg', 'prestasi', 'dlm', 'pimpin', 'gimna', 'bos', 'firda', 'kaliasemfarm', 'ada', 'tanggap', 'kolom']"
+Ham,"Maa Syaa Allaah, mantap..
+
+Semoga Allah Azza wa Jalla selalu menjaga, melimpahkan taufiq dan merahmati Presiden RI Bpk. Joko Widodo beserta seluruh keluarga dan jajarannya..","['maa', 'syaa', 'allaah', 'mantap', 'moga', 'allah', 'azza', 'wa', 'jalla', 'jaga', 'limpah', 'taufiq', 'rahmat', 'presiden', 'ri', 'bpk', 'joko', 'widodo', 'serta', 'keluarga', 'jajar']"
+Ham,"Permisi pantun dulu yaa..🙏
+
+Dari Halim ke Tegal Luar..
+Kereta cepat sudah meluncur..
+Setelah ngejim badan terasa bugar..
+Indonesia sejahtera, adil dan makmur..","['permisi', 'pantun', 'yaa', 'halim', 'tegal', 'kereta', 'cepat', 'luncur', 'ngejim', 'badan', 'bugar', 'indonesia', 'sejahtera', 'adil', 'makmur']"
+Ham,Assalamu'alaikum pak jokowi,"['assalamu', 'alaikum', 'jokowi']"
+Spam,Tiga periode pak Jokowi,"['periode', 'jokowi']"
+Ham,Keren Bpk Jokowi  👍👍🙏🙏,"['keren', 'bpk', 'jokowi']"
+Ham,Presiden terbaik sepanjang sejarah bangsa Indonesia...,"['presiden', 'baik', 'sejarah', 'bangsa', 'indonesia']"
+Spam,"#78thnIndonesiaMerdekaTerusMelajuUntukIndonesiaMaju
+Mantap.. Hebat Bpk Presiden Jokowi.. Presiden Kita Indonesia Yang TerAmanah Terbaik diNKRI.
+ALHAMDULILLAH.. 
+PUJI TUHAN..
+Sangat Bersyukur Indonesia Punya Sosok Pemimpin Amanah Bpk Presiden Jokowi Yang Hebat.. Tegas.. Santun.. Sederhana.. Sholeh.. Jujur dan Pintar. 
+#JokowiPresidenTerAmanahNKRI 
+#JokowiPresidenTerbaikIndonesia 
+#JokowiPresidenTerbaikDunia 
+#GP2024SangPenerusJokowi 
+#IndonesiaMaju 
+#NKRiHargaMatiBerAzaskanPancasilaDanUUD45 .. 
+MERDEKA !!","['thnindonesiamerdekaterusmelajuuntukindonesiamaju', 'mantap', 'hebat', 'bpk', 'presiden', 'jokowi', 'presiden', 'indonesia', 'amanah', 'baik', 'dinkri', 'alhamdulillah', 'puji', 'tuhan', 'syukur', 'indonesia', 'sosok', 'pimpin', 'amanah', 'bpk', 'presiden', 'jokowi', 'hebat', 'santun', 'sederhana', 'sholeh', 'jujur', 'pintar', 'jokowipresidenteramanahnkri', 'jokowipresidenterbaikindonesia', 'jokowipresidenterbaikdunia', 'gp', 'sangpenerusjokowi', 'indonesiamaju', 'nkrihargamatiberazaskanpancasiladanuud', 'merdeka']"
+Ham,"Amin..
+Semoga Sukses uji kreta api cepatnya Bapa Presiden.. sehat selamat sampai dengan Tujuan...
+Semoga Tak menghadapi Kendala.... Selamat dan sukses... Tuhan Memberkati... Amin.","['amin', 'moga', 'sukses', 'uji', 'kreta', 'api', 'cepat', 'bapa', 'presiden', 'sehat', 'selamat', 'tuju', 'moga', 'hadap', 'kendala', 'selamat', 'sukses', 'tuhan', 'kati', 'amin']"
+Ham,"AKHIRNYA KELAR JUGA..., SEBENTAR LAGI DI OPERASIKAN BUAT UMUM,
+OOHH IYA...
+BISA KELIATAN DATANYA GAK SEEH ORANG2 YANG BENCI DAN SERING MENGHINA PAK JOKOWI... TROOSS NANTI NAIK KERETA CEPAT,... PRIKITIIIWWW,
+WAAAHH MALUUUU GAAAKK YAAAA... TUH MANUSIAAA, BIASA AJAAA, EMANG PADA GAK TAU MALU KALO KATA Hafiz Rahmat SAMA Elhajj Zainul Huda DIDUKUNG Wahyu Dwi Santoso 
+TANYA DOANK INI MAH??","['kelar', 'sebentar', 'operasi', 'oohh', 'iya', 'liat', 'data', 'gak', 'seeh', 'orang', 'benci', 'hina', 'jokowi', 'trooss', 'kereta', 'cepat', 'prikitiiiwww', 'waaahh', 'maluuuu', 'gaaakk', 'yaaaa', 'tuh', 'manusiaaa', 'ajaaa', 'emang', 'gak', 'tau', 'malu', 'kalo', 'hafiz', 'rahmat', 'elhajj', 'zainul', 'huda', 'dukung', 'wahyu', 'dwi', 'santoso', 'doank', 'mah']"
+Ham,pak Jokowi 👍👍👍,['jokowi']
+Ham,"Wow bp Presiden Jokowi yg rendah hati, seandai saya bisa jalan saya akn melihat secara langsung. Semoga Tuhan menyertainya.","['wow', 'bp', 'presiden', 'jokowi', 'yg', 'rendah', 'hati', 'anda', 'jalan', 'akn', 'langsung', 'moga', 'tuhan', 'serta']"
+Ham,"Sehat selalu dan panjang umur pak, lanjutkan pak Ganjar","['sehat', 'umur', 'lanjut', 'ganjar']"
+Ham,Hidup pak Dhe'Jokowi selalu dihati sukses selalu sehat selalu panjang umur Aamiin x3 yarobbal 'alamin,"['hidup', 'dhe', 'jokowi', 'hati', 'sukses', 'sehat', 'umur', 'aamiin', 'x', 'yarobbal', 'alamin']"
+Spam,"Dari kepentingan pribadi menuju kemaslahatan....... ""RINDU RUMAH""....... TINGGAL DI RUMAH SENDIRI TIDAK KONTRAK LAGI...... PENANTIAN PANJANG SETELAH 500THN....... DAN 78TAHUN SETELAH MERDEKA YANG TERPOTONG....... WAKTUNYA MERDEKA SEJATI ........ SEMANGAT
+PEJUANG MATARAM KEMBALIKAN KONSTITUSI KETEMPAT SEHARUSNYA BERADA.......... AGAR GAK RUWET...... KEMBALIKAN KE KONSTITUSI DIS (DAERAH ISTIMEWA SURAKARTA)..... Sebagaimana apa yang telah BELANDA serahkan...... ????? LUAS WILAYAH REPUBLIK INDONESIA sekarang merupakan adalah bekas wilayah jajahan BELANDA..... SEBAB PERJUANGAN SRI SUSUHUNAN PAKUBUWONO VI, maka SRI SUSUHUNAN PAKUBUWONO IX mendapatkan penghargaan gelar SANTO langsung dari VATIKAN atas perjuangan seluruh rakyat dan SRI SUSUHUNAN PAKUBUWONO VI.... Maka peralihan dari NEGARA REPUBLIK SERIKAT MENUJU NEGARA REPUBLIK INDONESIA....... 
+KITAB KAKAWIN NEGARAKERTAGAMA DAN KITAB KAKAWIN SUTASOMA merupakan PONDASI DAN PILAR KONSTITUSI TERTINGGI..... SESUAI GARUDA PANCASILA DAN BHINNEKA TUNGGAL IKA.......
+DARI : 
+☀️MAHARAJA
+☀️SRI PADUKA
+☀️RAJA/SENOPATI ING NGALAGA KHALIFAHTULLAH ABDULRAHMAN SAYYIDIN PANATAGAMA 
+☀️SANTO
+☀️TAW LOW SHE 
+
+SALAM JASMERAH.....MERDEKA....MERDEKA.....MERDEKA.....🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩❤️🇮🇩❤️","['penting', 'pribadi', 'maslahat', 'rindu', 'rumah', 'tinggal', 'rumah', 'tidak', 'kontrak', 'nanti', 'thn', 'merdeka', 'potong', 'merdeka', 'sejati', 'semangat', 'juang', 'mataram', 'kembali', 'konstitusi', 'tempat', 'gak', 'ruwet', 'kembali', 'konstitusi', 'dis', 'daerah', 'istimewa', 'surakarta', 'belanda', 'serah', 'luas', 'wilayah', 'republik', 'indonesia', 'bekas', 'wilayah', 'jajah', 'belanda', 'juang', 'sri', 'susuhunan', 'pakubuwono', 'vi', 'sri', 'susuhunan', 'pakubuwono', 'ix', 'harga', 'gelar', 'santo', 'langsung', 'vatikan', 'juang', 'rakyat', 'sri', 'susuhunan', 'pakubuwono', 'vi', 'alih', 'negara', 'republik', 'serikat', 'negara', 'republik', 'indonesia', 'kitab', 'kakawin', 'negarakertagama', 'kitab', 'kakawin', 'sutasoma', 'pondasi', 'pilar', 'konstitusi', 'tinggi', 'sesuai', 'garuda', 'pancasila', 'bhinneka', 'tunggal', 'ika', 'maharaja', 'sri', 'paduka', 'raja', 'senopati', 'ing', 'ngalaga', 'khalifahtullah', 'abdulrahman', 'sayyidin', 'panatagama', 'santo', 'taw', 'low', 'she', 'salam', 'jasmerah', 'merdeka', 'merdeka', 'merdeka']"
+Ham,Wow crennn bgt Bpak Presiden ku....saya orang Jawa barat tapi sayangnya kampungku di pelosok ......tidak kejangkau.......kapan bisa ketemu Bpak  saya rindu dgn pemimpin yg merakyat saya sebagai rakyat jelata yg mengidolakan Bpak .....sehat selalu Bpak Presiden senantiasa ALLOH SWT melindungi dan merohmati memberkati 🤲,"['wow', 'crennn', 'bgt', 'bpak', 'presiden', 'ku', 'orang', 'jawa', 'barat', 'sayang', 'kampung', 'pelosok', 'tidak', 'jangkau', 'ketemu', 'bpak', 'rindu', 'dgn', 'pimpin', 'yg', 'rakyat', 'rakyat', 'jelata', 'yg', 'idola', 'bpak', 'sehat', 'bpak', 'presiden', 'senantiasa', 'alloh', 'swt', 'lindung', 'rohmat', 'kati']"
+Ham,Sukses selalu bapak Presiden Joko Widodo 😁😁 walaupun Sy bl pernah iikut naik Dan mungkin tidak akan pernah 😁😁 Tapi ikut bahagia  Indonesia punya kereta cepat,"['sukses', 'presiden', 'joko', 'widodo', 'sy', 'bl', 'iikut', 'tidak', 'bahagia', 'indonesia', 'kereta', 'cepat']"
+Ham,"Ruaaar biasa, bravo Bp Jokowi, sehat selalu n dlm lindungan Allah Swt, Aamiin yra👍👍👍🙏","['ruaaar', 'bravo', 'bp', 'jokowi', 'sehat', 'n', 'dlm', 'lindung', 'allah', 'swt', 'aamiin', 'yra']"
+Ham,Akhirnya jadi juga pak ya. Saya pikir sudah stop total dan samapai lupa total adanya proyek ini. Yg penting jadi pa ya biar lama biar utang membengkak. Asal jadi. Lalu ada perpanjangan ke surabaya? Semoga nyaman hidup rakyat dgn adanya kereta cepat ini jangan sampai beban rakyat karena banyak utang dan qualitas kereta dari negeri cina pa. .,"['ya', 'pikir', 'stop', 'total', 'samapai', 'lupa', 'total', 'proyek', 'yg', 'pa', 'ya', 'biar', 'biar', 'utang', 'bengkak', 'panjang', 'surabaya', 'moga', 'nyaman', 'hidup', 'rakyat', 'dgn', 'kereta', 'cepat', 'beban', 'rakyat', 'utang', 'qualitas', 'kereta', 'negeri', 'cina', 'pa']"
+Ham,"Sehat2 pak ,, jangan lupa bagi tiket gratis buat kami pak dee","['sehat', 'lupa', 'tiket', 'gratis', 'dee']"
+Ham,Alhamdullilah barokah. Sehat selalu bpk president jokowi Aamiin yrobal'alamiin..,"['alhamdullilah', 'barokah', 'sehat', 'bpk', 'president', 'jokowi', 'aamiin', 'yrobal', 'alamiin']"
+Ham,Harus lanjut ke semarang Surabaya biar tambah rame.,"['semarang', 'surabaya', 'biar', 'rame']"
+Ham,Jalan terusss    pak Jokowi.,"['jalan', 'terusss', 'jokowi']"
+Ham,"Salam penuh amanah dan berwibawa begitu bertahta,bapak presiden ir,h jokowidodo begitu baik dan merakyat,pak rakyat minta usul bagimana makasar gorontalo di buat jalan kereta api,atau gorontalo palu,ampana di buat jalan kereta api,itupun minta bantuan,
+Terima kasih atas hadir di status dan postingan dari bapak presiden saling menyapa,
+Wasalam💗🤝✍️👍🙏💗","['salam', 'penuh', 'amanah', 'wibawa', 'bertahta', 'presiden', 'ir', 'h', 'jokowidodo', 'rakyat', 'rakyat', 'usul', 'bagimana', 'makasar', 'gorontalo', 'jalan', 'kereta', 'api', 'gorontalo', 'palu', 'ampana', 'jalan', 'kereta', 'api', 'itu', 'bantu', 'terima', 'kasih', 'hadir', 'status', 'postingan', 'presiden', 'sapa', 'wasalam']"
+Ham,Juara juara bpk Jokowi,"['juara', 'juara', 'bpk', 'jokowi']"
+Ham,"Aku   salut   dan  bangga. terhadap  Bpk  Presiden  Joko  Widodo.  Presiden  sederhana, bertalenta, beribawah, merakyat, dan pekerjakras  demi  kemajuan  Bangsa    dan   Negara  yg  kt  Cintai  ini.  Sehat  selalu   Presidenku   bersama  keluarga","['salut', 'bangga', 'bpk', 'presiden', 'joko', 'widodo', 'presiden', 'sederhana', 'talenta', 'beribawah', 'rakyat', 'pekerjakras', 'maju', 'bangsa', 'negara', 'yg', 'kt', 'cinta', 'sehat', 'presiden', 'keluarga']"
+Ham,Semoga sehat selalu pak presiden hingga akhir jabatan 2023 salam sehat lahir batin 🙏🙏,"['moga', 'sehat', 'presiden', 'jabat', 'salam', 'sehat', 'lahir', 'batin']"
+Ham,"Mantap ,keren Bapak Presiden,sehat selalu ya Pak,Tuhan memberkati.","['mantap', 'keren', 'presiden', 'sehat', 'ya', 'tuhan', 'kati']"
+Spam,Trimakasih banyak pak Jokowi.indonesia tak akan lupa jasa besar mu pak. Dan saya berharap bapak 1 periode lagi pak amin ya Allah ya robbalngalamin,"['trimakasih', 'jokowi', 'indonesia', 'lupa', 'jasa', 'mu', 'harap', 'periode', 'amin', 'ya', 'allah', 'ya', 'robbalngalamin']"
+Ham,"Hebaat
+Semoga moda transportasi feeder selain kereta api pengumpan,bus pengumpan menuju Bandung Kota yg masih semrawut disiapkan. 
+Masalah kemacetan didaerah stasiun Padalarang cukup parah
+Sehat sehat pak Jokowi","['hebaat', 'moga', 'moda', 'transportasi', 'feeder', 'kereta', 'api', 'umpan', 'bus', 'umpan', 'bandung', 'kota', 'yg', 'semrawut', 'siap', 'macet', 'daerah', 'stasiun', 'padalarang', 'parah', 'sehat', 'sehat', 'jokowi']"
+Spam,"Yang terhormat Bpk Jokowi.
+Assalamualaikum wab,
+Nama saya Noor Ahmad Nabizada. Saya pengungsi Afganistan dan tinggal di Surabaya sudah 10 tahun lamanya. Saya tidak bisa kembali ke negara saya dan selama ini saya sakit jantung dan ginjal 9 tahun .
+Mohon bapak berkenan membantu saya keluar dari Indonesia untuk mendapatkan perawatan medis di negara ke tiga. 
+Saya sangat mengharapkan bantuan dari Bpk. Jokowi. Atas perhatiannya saya mengucapkan banyak terimakasih.
+
+Hormat saya,
+Noor Ahmad Nabizada","['hormat', 'bpk', 'jokowi', 'assalamualaikum', 'wab', 'nama', 'noor', 'ahmad', 'nabizada', 'ungsi', 'afganistan', 'tinggal', 'surabaya', 'tidak', 'negara', 'sakit', 'jantung', 'ginjal', 'mohon', 'kenan', 'bantu', 'indonesia', 'awat', 'medis', 'negara', 'harap', 'bantu', 'bpk', 'jokowi', 'perhati', 'terimakasih', 'hormat', 'noor', 'ahmad', 'nabizada']"
+Ham,"Hasil nyata dari seorang yg selama ini dibilang Planga Plongo oleh para pembencinya, namun bukti membuat para pembenci jadi yg planga Plongo dgn kesuksesan hasil kerjanya yg pntastis, Salam Sukses untuk Pak Jokowi semoga selalu Sehat karena Indonesia masih mengharapkan kepemimpinannnya.","['hasil', 'nyata', 'yg', 'bilang', 'planga', 'plongo', 'benci', 'bukti', 'benci', 'yg', 'planga', 'plongo', 'dgn', 'sukses', 'hasil', 'kerja', 'yg', 'pntastis', 'salam', 'sukses', 'jokowi', 'moga', 'sehat', 'indonesia', 'harap', 'kepemimpinannnya']"
+Ham,keren pakdhe jokowi 👍❤,"['keren', 'pakdhe', 'jokowi']"
+Ham,Mantap pak Jokowi lanjutkan ke Medan ya pak 😊🙏,"['mantap', 'jokowi', 'lanjut', 'medan', 'ya']"
+Ham,"Alhamdulillah,,,, sdh jadi,,,,kok mau dibatalkan kelompok sebelah,,,,?
+Semoga mempercepat jalan darat dan lbh murah dibanding pesawat terbang,,,!","['alhamdulillah', 'sdh', 'batal', 'kelompok', 'belah', 'moga', 'cepat', 'jalan', 'darat', 'lbh', 'murah', 'banding', 'pesawat', 'terbang']"
+Ham,"PRESIDENku😍
+Semoga sehat selalu","['presiden', 'moga', 'sehat']"
+Ham,super Presiden NKRI ke 7. semoga tetap sehat sekeluarga.,"['super', 'presiden', 'nkri', 'moga', 'sehat', 'keluarga']"
+Ham,Mantap pak presiden terima kasih pak,"['mantap', 'presiden', 'terima', 'kasih']"
+Ham,Selamat & Sukses,"['selamat', 'sukses']"
+Ham,Semoga sehat selalu Bpk Presiden Jokowi Aamiin,"['moga', 'sehat', 'bpk', 'presiden', 'jokowi', 'aamiin']"
+Ham,"Sangat terkesan dengan bapak presiden yg selalu menginfokan kegiatan nya, jadi rakyat jadi tau tentang pak presiden.
+Tambah salut dgn pak presiden jokowi, semoga Indonesia makin sukses dan maju dgn kepemimpinan pak presiden.
+Sehat sehat selalu pak presiden🤲","['kes', 'presiden', 'yg', 'info', 'giat', 'nya', 'rakyat', 'tau', 'presiden', 'salut', 'dgn', 'presiden', 'jokowi', 'moga', 'indonesia', 'sukses', 'maju', 'dgn', 'pimpin', 'presiden', 'sehat', 'sehat', 'presiden']"
+Spam,Bpk jokowi pantas lanjut 3priode mawon yg sdh krj nyata 👍👍,"['bpk', 'jokowi', 'priode', 'mawon', 'yg', 'sdh', 'krj', 'nyata']"
+Ham,"Walaupun dengan segala cara , Alhamdullilah akhirnya negara saya punya bullet train juga !  Terima kasih pak presiden 👍👍","['alhamdullilah', 'negara', 'bullet', 'train', 'terima', 'kasih', 'presiden']"
+Ham,Indonesia Hebat..sehat selalu Pak Presiden..GBU All..,"['indonesia', 'hebat', 'sehat', 'presiden', 'gbu', 'all']"
+Spam,"EMERGENCY. Dear ROTSHCILD FAMILY, CEO BLACK ROCK MR. LAURENCE D. FINK  President Joe Biden, President Jokowi Very, very urgent, Very very Important , we really can't wait to start the project and save more than 7 billion people., this has taken a very, very long time, the commitment for funds of 30 billion USD has not yet been transferred to us, the innovation project drastically reduces the impact of climate change, even though this climate change has a very devastating impact on the earth, we are one heart , one family, where one family's heart lies if we haven't been appreciated very quickly. We wait every day, every hour, every minute, every second, it's not too late, we can overcome it, save more than 7 billion people.  https://drive.google.com/file/d/1b67vgtnvpF5Op9ms-jomXPtEVw7M1Zlu/view?usp=sharing. Presiden Joko WidodooPresident Joe BidennSri Mulyani IndrawatiiVice President Kamala HarrissChaseeErick ThohirrJ.P. MorgannLuhut Binsar PandjaitannNancy PelosiiBill GatessLuhut Binsar PandjaitannKementerian Sekretariat Negara RIIKementerian Sekretariat Negara RIIDPR RIIThe White Housee","['emergency', 'dear', 'rotshcild', 'family', 'ceo', 'black', 'rock', 'mr', 'laurence', 'd', 'fink', 'president', 'joe', 'biden', 'president', 'jokowi', 'very', 'very', 'urgent', 'very', 'very', 'important', 'we', 'really', 'can', 't', 'wait', 'to', 'start', 'the', 'project', 'and', 'save', 'more', 'than', 'billion', 'people', 'this', 'has', 'taken', 'a', 'very', 'very', 'long', 'time', 'the', 'commitment', 'for', 'funds', 'of', 'billion', 'usd', 'has', 'not', 'yet', 'been', 'transferred', 'to', 'us', 'the', 'innovation', 'project', 'drastically', 'reduces', 'the', 'impact', 'of', 'climate', 'change', 'even', 'though', 'this', 'climate', 'change', 'has', 'a', 'very', 'devastating', 'impact', 'on', 'the', 'earth', 'we', 'are', 'one', 'heart', 'one', 'family', 'where', 'one', 'family', 's', 'heart', 'lies', 'if', 'we', 'haven', 't', 'been', 'appreciated', 'very', 'quickly', 'we', 'wait', 'every', 'day', 'every', 'hour', 'every', 'mute', 'every', 'second', 'it', 's', 'not', 'too', 'late', 'we', 'can', 'overcome', 'it', 'save', 'more', 'than', 'billion', 'people', 'presiden', 'joko', 'widodoopresident', 'joe', 'bidennsri', 'mulyani', 'indrawatiivice', 'president', 'kamala', 'harrisschaseeerick', 'thohirrj', 'p', 'morgannluhut', 'binsar', 'pandjaitannnancy', 'pelosiibill', 'gatessluhut', 'binsar', 'pandjaitannkementerian', 'sekretariat', 'negara', 'riikementerian', 'sekretariat', 'negara', 'riidpr', 'riithe', 'white', 'housee']"
+Ham,God bless🙏🙏🙏 Pak presiden,"['god', 'bless', 'presiden']"
+Ham,Betul sekali Pak Presiden Joko Widodo Trimakasih atas percobaan ya dgn KERETA api cepat. Sdh saat ya Indonesia maju. Tdk kalah dari eropa. Kita punya potentisial juga penghasilan bumi. Sehat selalu Pak🙏🙏🙏🌹😍,"['presiden', 'joko', 'widodo', 'trimakasih', 'coba', 'ya', 'dgn', 'kereta', 'api', 'cepat', 'sdh', 'ya', 'indonesia', 'maju', 'tdk', 'kalah', 'eropa', 'potentisial', 'hasil', 'bumi', 'sehat']"
+Ham,BRAVO NKRI...GBU All,"['bravo', 'nkri', 'gbu', 'all']"
+Ham,Terima kasih pak Jokowi..atas kehadiran kereta cepat ini..semoga segera berlanjut sp Surabaya,"['terima', 'kasih', 'jokowi', 'hadir', 'kereta', 'cepat', 'moga', 'lanjut', 'sp', 'surabaya']"
+Spam,MANTAP PAK PRESIDENKU SEHAT SELALU PAK.BOLEH LAH PINJAM 100 PAK😁,"['mantap', 'presiden', 'sehat', 'pinjam']"
+Spam,"https://www.facebook.com/100068570624072/posts/614395184189497/?app=fbl
+
+Tangkap ini Orng Pak Presiden. Orng yg memperkeruh Masalh Rempang","['tangkap', 'orng', 'presiden', 'orng', 'yg', 'keruh', 'masalh', 'rempang']"
+Spam,"Slmt dn trimaksh bpk yth ytm.
+Maaf bpk, mohon bantu kmi. Kmi sdh bekin
+Laporan  ke kemenko polhukam ttg
+Mafia devoloper,  mafia tipuxx ,php php.
+Kmi mau uang kmi kembali utuh.
+Tlg bpk yth ytm, laporan no ,07563.
+Hpkuxxxxxxxxx 18345.
+Dan bpk,mohon bantu proses hingga cpt selesai.
+Dan juga bpk melarang penjualan property
+Jk brg nya blm jadi. Blm punya suratxx
+Lengkap. Spy rakyat bnyk tdk kna tipuxx.
+Masuk jalur pengadilan, juga ssh menang.
+Sblm dan ssdh nya, maaf dan
+Bnyk mksh.","['slmt', 'dn', 'trimaksh', 'bpk', 'yth', 'ytm', 'maaf', 'bpk', 'mohon', 'bantu', 'kmi', 'kmi', 'sdh', 'bekin', 'lapor', 'kemenko', 'polhukam', 'ttg', 'mafia', 'devoloper', 'mafia', 'tipuxx', 'php', 'php', 'kmi', 'uang', 'kmi', 'utuh', 'tlg', 'bpk', 'yth', 'ytm', 'lapor', 'no', 'hpkuxxxxxxxxx', 'bpk', 'mohon', 'bantu', 'proses', 'cpt', 'selesai', 'bpk', 'larang', 'jual', 'property', 'jk', 'brg', 'nya', 'blm', 'blm', 'suratxx', 'lengkap', 'spy', 'rakyat', 'bnyk', 'tdk', 'kna', 'tipuxx', 'masuk', 'jalur', 'adil', 'ssh', 'menang', 'sblm', 'ssdh', 'nya', 'maaf', 'bnyk', 'mksh']"
+Ham,"dengan kenyamanan didalam kereta cepat tsb kita jadi mengerti fungsi gunung2 di bumi ini yg mirip dgn fungsi dinding kereta.
+andai bumi yg berotasi dgn kecepatan tinggi ini bulat spt telur tanpa ada gunung2, mungkin semua yg berdiri di bumi ini akan senasib dgn yg berdiri diatas atap kereta yg bergerak cepat.
+itulah konsep gravitasi.","['nyaman', 'dalam', 'kereta', 'cepat', 'tsb', 'erti', 'fungsi', 'gunung', 'bumi', 'yg', 'dgn', 'fungsi', 'dinding', 'kereta', 'andai', 'bumi', 'yg', 'rotasi', 'dgn', 'cepat', 'bulat', 'spt', 'telur', 'gunung', 'yg', 'diri', 'bumi', 'nasib', 'dgn', 'yg', 'diri', 'atas', 'atap', 'kereta', 'yg', 'gerak', 'cepat', 'konsep', 'gravitasi']"
+Spam,Yes_Yes_Yesss!🇲🇨,"['yes', 'yes', 'yesss']"
+Ham,Mantap Pak Presiden,"['mantap', 'presiden']"
+Ham,"Hebat luar biasa, semoga bermanfaat
+Semoga selalu sehat dan semakin sukses","['hebat', 'moga', 'manfaat', 'moga', 'sehat', 'sukses']"
+Spam,"#RUSAK #BANGSA INI BILA #KRIMINALBIADAB MENAHUN INI DAPAT #TERUSTEGAK DI TENGAH2 #PEMIMPIN/ORANG2 #TERHORMAT/PEMANGKU #KEWENANGAN DENGAN #TRANSPARAN, BPK PRESIDEN..!!??
+#BEBALKRIMINAL","['rusak', 'bangsa', 'kriminalbiadab', 'tahun', 'terustegak', 'pimpin', 'orang', 'hormat', 'mang', 'wenang', 'transparan', 'bpk', 'presiden', 'bebalkriminal']"
+Ham,"Keren, Presiden Jokowi 👍
+Kapan, operasional untuk umum & berapa tarif dari Halim ke Stasiun Padalarang ?","['keren', 'presiden', 'jokowi', 'operasional', 'tarif', 'halim', 'stasiun', 'padalarang']"
+Spam,sapa pun yg jd presiden asal k pemimpinan ny adil  dan harga2 seperti smbsmo d sntndar kan enak klau orang ad penghasila mantap seperi kami pengahsilan dk menentu seperti kini beras yak ampun mahal ny  harga ny melngit gak pp orang seperti  kami dk dpt bntuan tp tlng turun harga2 bahan pngan  dan smbako ny iya pak presinden moga 3 peiode lanjut,"['sapa', 'yg', 'jd', 'presiden', 'k', 'pimpin', 'ny', 'adil', 'harga', 'smbsmo', 'd', 'sntndar', 'enak', 'klau', 'orang', 'ad', 'penghasila', 'mantap', 'per', 'pengahsilan', 'dk', 'tentu', 'beras', 'yak', 'ampun', 'mahal', 'ny', 'harga', 'ny', 'melngit', 'gak', 'pp', 'orang', 'dk', 'dpt', 'bntuan', 'tp', 'tlng', 'turun', 'harga', 'bahan', 'pngan', 'smbako', 'ny', 'iya', 'presinden', 'moga', 'peiode']"
+Ham,Mantap pak presiden salam sehat selalu,"['mantap', 'presiden', 'salam', 'sehat']"
+Spam,Alhamdulillah Inshaa Allah Rempang ada jalan keluarnya yang terbaik tidak ada korban yang saling merugikan sangat menyedihkan 😍🇮🇩,"['alhamdulillah', 'inshaa', 'allah', 'rempang', 'jalan', 'keluar', 'baik', 'tidak', 'korban', 'rugi', 'sedih']"
+Ham,Kereen pak.. Terima kasih Pak Jokowi 👍,"['kereen', 'terima', 'kasih', 'jokowi']"
+Ham,sehat selalu bpk Presiden Joko Widodo,"['sehat', 'bpk', 'presiden', 'joko', 'widodo']"
+Ham,Bapak keren... saya aja blm ada nyali. Good job my president,"['keren', 'aja', 'blm', 'nyali', 'good', 'job', 'my', 'president']"
+Ham,Tahniah.  Mau dicoba nanti.  Tapi kapan tarikh operasinya.  👍👍👍,"['tahniah', 'coba', 'tarikh', 'operasi']"
+Ham,Semoga selalu sehat ya  Pak Jokowi 🙏🙏🙏,"['moga', 'sehat', 'ya', 'jokowi']"
+Ham,Seperti ICE nya Jerman,"['ice', 'nya', 'jerman']"
+Ham,"This is a welcome development.
+Well done Mr President 👏🏼👏🏼👏🏼
+
+Greetings from Nigeria,🇳🇬🇳🇬","['this', 'is', 'a', 'welcome', 'development', 'well', 'done', 'mr', 'president', 'greetings', 'from', 'nigeria']"
+Ham,Mau saya photo seperti Bapak Presiden  didepan kereta cepat ... semoga bisa ke Jakarta,"['photo', 'presiden', 'depan', 'kereta', 'cepat', 'moga', 'jakarta']"
+Ham,Mantaap pa jokowi. Is the best pokonya mah,"['mantaap', 'pa', 'jokowi', 'is', 'the', 'best', 'poko', 'mah']"
+Ham,"Keren Pak presiden jokowi,sehat selalu  Aamin🤲🤲 moga ingsaalloh lebaran depan pulang cuti ,","['keren', 'presiden', 'jokowi', 'sehat', 'aamin', 'moga', 'ingsaalloh', 'lebaran', 'pulang', 'cuti']"
+Spam,"Presiden Joko Widodoo: saya setuju, jualan online dilarang, karena demi menyelamatkan UMKM indonesia yg sepi. Ayo pak berantas toko online......","['presiden', 'joko', 'widodoo', 'tuju', 'jual', 'online', 'larang', 'selamat', 'umkm', 'indonesia', 'yg', 'sepi', 'ayo', 'berantas', 'toko', 'online']"
+Ham,Mantap Pak Presiden,"['mantap', 'presiden']"
+Ham,Congrats Mr President 👍👌,"['congrats', 'mr', 'president']"
+Ham,Hanya pembenci pak Jokowi yg tidak mau mengakui ke hebatan pak Jokowi,"['benci', 'jokowi', 'yg', 'tidak', 'aku', 'hebat', 'jokowi']"
+Ham,"Exotic, keren !","['exotic', 'keren']"
+Ham,Mantap,['mantap']
+Ham,Hebat keren lah bpk Joko Widodo.,"['hebat', 'keren', 'bpk', 'joko', 'widodo']"
+Ham,Mantap presiden pak Jokowi.,"['mantap', 'presiden', 'jokowi']"
+Ham,Mantap pak Jokowi... Presiden is the best,"['mantap', 'jokowi', 'presiden', 'is', 'the', 'best']"
+Spam,Kadrun semakin dalam sakit hatinya,"['kadrun', 'sakit', 'hati']"
+Spam,"Mana Kepedulianmu pada Rakyat Kecil... ??
+Janji kemarin ketika Pemilu... Sekarang di Khianati
+#SaveRempang","['peduli', 'rakyat', 'janji', 'kemarin', 'milu', 'khianat', 'saverempang']"
+Ham,Ok pak☺Selamat🇲🇨,"['ok', 'selamat']"
+Ham,"Alhamdulillaah wa barokallah wa jazaakumaallah untuk bpk. Jokowi&tim, aamiin🤲","['alhamdulillaah', 'wa', 'barokallah', 'wa', 'jazaakumaallah', 'bpk', 'jokowi', 'tim', 'aamiin']"
+Spam,Amin kamajuan luarbiasa Utuk tabahan asek mautungkan Nagara amin salam sajatra,"['amin', 'kamajuan', 'luarbiasa', 'utuk', 'tabah', 'asek', 'mautungkan', 'nagara', 'amin', 'salam', 'sajatra']"
+Ham,Kereeen pak Jokowi 🇮🇩👍,"['kereeen', 'jokowi']"
+Ham,Kren banget pak jokowi,"['kren', 'banget', 'jokowi']"
+Ham,Indonesia top sekarang ya pak presiden,"['indonesia', 'top', 'ya', 'presiden']"
+Ham,Mantaf selamat menikmati pak jokowi bangga bisa ikut andil dalam pengoperasian nya. Gbu,"['mantaf', 'selamat', 'nikmat', 'jokowi', 'bangga', 'andil', 'operasi', 'nya', 'gbu']"
+Ham,Sehat selalu my president♥️,"['sehat', 'my', 'president']"
+Ham,Wahh hebat indonesia,"['wahh', 'hebat', 'indonesia']"
+Ham,Selalu sukses ❤️🫰,['sukses']
+Ham,Juoos mantap,"['juoos', 'mantap']"
+Ham,MANTAPP SWMOGA DENGAN INI PARA PEKERJA KANTOR ATAU DLL YG JAUH JARAK KERJANYA WAJIB PAKE KERETA CEPAT AGAR MENGURANGI KEMACETAN,"['mantapp', 'swmoga', 'kerja', 'kantor', 'dll', 'yg', 'jarak', 'kerja', 'wajib', 'pake', 'kereta', 'cepat', 'kurang', 'macet']"
+Ham,Maju jaya Indonesiaku..,"['maju', 'jaya', 'indonesia']"
+Ham,BPK yg Ter baik 😊🙏🙏,"['bpk', 'yg', 'ter']"
+Ham,"Amin dan alhamdulillah Indonesia maju,, dan keren Bpk jokowi 👍👍👍❤️","['amin', 'alhamdulillah', 'indonesia', 'maju', 'keren', 'bpk', 'jokowi']"
+Ham,Luar biasa pk Jokowi,"['pk', 'jokowi']"
+Ham,Terimakasih Bapak presiden terbaik Telah membawa kemajuan untuk Indonesia semoga Bapak presiden sehat sukses selalu Indonesia semakin maju,"['terimakasih', 'presiden', 'baik', 'bawa', 'maju', 'indonesia', 'moga', 'presiden', 'sehat', 'sukses', 'indonesia', 'maju']"
+Spam,"mbok ya ke pulau rempang pak , apa gk kasihan sama rakyat di sana.","['mbok', 'ya', 'pulau', 'rempang', 'gk', 'kasihan', 'rakyat']"
+Ham,Bravo Presiden hebat kita. Bpk. Joko Widodo,"['bravo', 'presiden', 'hebat', 'bpk', 'joko', 'widodo']"
+Ham,"@Dgn Biszxjmillaah Yg MasyaAllah SWT ,Pemerintahan Presiden H JokoWidodoNya YaAllah Membawa RI Rahmatanlillalamiin","['biszxjmillaah', 'yg', 'masyaallah', 'swt', 'perintah', 'presiden', 'h', 'jokowidodonya', 'yaallah', 'bawa', 'ri', 'rahmatanlillalamiin']"
+Ham,"Mantap, sukses selalu pak Presiden","['mantap', 'sukses', 'presiden']"
+Ham,Sehat selalu buat bapak Presiden Joko Widodo ... amin,"['sehat', 'presiden', 'joko', 'widodo', 'amin']"
+Spam,Bapak sanes Sindang Hela KA wilayah Cipatat 😁,"['sanes', 'sindang', 'hela', 'ka', 'wilayah', 'cipatat']"
+Ham,Presiden Terbaik Indonesia🇮🇩,"['presiden', 'baik', 'indonesia']"
+Ham,Masih ngeri pak. Lagian jauh dr rumah saya,"['ngeri', 'dr', 'rumah']"
+Ham,Satu lagi presentasi gemilang dicapai dalam kepemimpinan Bapak Presiden Joko Widodo.,"['presentasi', 'gemilang', 'capai', 'pimpin', 'presiden', 'joko', 'widodo']"
+Ham,"Terbaik Bapak Presiden Jokowi....
+Mantap...","['baik', 'presiden', 'jokowi', 'mantap']"
+Ham,Matap presidenku,"['matap', 'presiden']"
+Ham,Mengurangi kemacetan dan mengurangi CO2.,"['kurang', 'macet', 'kurang', 'co']"
+Spam,Save rempang. Indonesia merdeka untuk dijual keasing..,"['save', 'rempang', 'indonesia', 'merdeka', 'jual', 'asing']"
+Spam,"Kapan ke Rempang, Batam, Pak? Rakyatmu menunggu,,,
+#SaveRempangBatam","['rempang', 'batam', 'rakyat', 'tunggu', 'saverempangbatam']"
+Ham,sehat selalu pak presiden,"['sehat', 'presiden']"
+Ham,MANTAP,['mantap']
+Ham,Krenn.. 👍 Presiden ku 💪💪💪🇮🇩🇮🇩🇮🇩,"['krenn', 'presiden', 'ku']"
+Ham,"Sehat selalu nggih, Paakk Presiden Joko Widodo 😘😍😇😎🔥🇲🇨🇲🇨🇲🇨","['sehat', 'nggih', 'paakk', 'presiden', 'joko', 'widodo']"
+Ham,Lha masih belum diresmikan gak tahunya.. 🤦,"['lha', 'resmi', 'gak', 'tahu']"
+Ham,Presiden Luarbiasa👌,"['presiden', 'luarbiasa']"
+Ham,Good,['good']
+Ham,Indonesia 🇮🇩 KU MAJU dan Harus terus MELAJU pembangunan dan kemakmuran nya 🇮🇩🙏,"['indonesia', 'ku', 'maju', 'laju', 'bangun', 'makmur', 'nya']"
+Ham,Kereen Banget RI 1 Ku.. 🙏,"['kereen', 'banget', 'ri', 'ku']"
+Ham,GBU🙏,['gbu']
+Ham,"Klo cm smp Padalarang, itu belum smp bandung kota pak, masih jauh lagi klau mau ke bandung kota nya 🤔","['klo', 'cm', 'smp', 'padalarang', 'smp', 'bandung', 'kota', 'klau', 'bandung', 'kota', 'nya']"
+Ham,Super keren presiden kami. Semua yang direncakan jadi..,"['super', 'keren', 'presiden', 'rencak']"
+Spam,"Dalam minggu pertama mendaftar di Optimum Invests, saya telah menggandakan pendapatan tahunan saya.  Maklumat, pasukan dan seluruh komuniti sentiasa membantu.  Saya akan menganggap ini sebagai salah satu platform pelaburan kripto dan saham terbaik di seluruh ruang!  Terima kasih banyak Optimum Invests","['minggu', 'daftar', 'optimum', 'invests', 'ganda', 'dapat', 'tahun', 'maklumat', 'pasu', 'komuniti', 'sentiasa', 'bantu', 'anggap', 'salah', 'platform', 'pelabur', 'kripto', 'saham', 'baik', 'ruang', 'terima', 'kasih', 'optimum', 'invests']"
+Ham,Mannntap!!!,['mannntap']
+Ham,Rutenya kurang jauh pak Presiden coba ke Surabaya 😀😃!joss jauh bingitt 🚄🚅,"['rute', 'presiden', 'coba', 'surabaya', 'joss', 'bingitt']"
+Ham,Alhamdulillah disulawesi juga udah ada kereta,"['alhamdulillah', 'disulawesi', 'udah', 'kereta']"
+Ham,"saya sebagai rakyat ga bangga sma kereta cepet..
+karena bagi saya kereta cpt ga ada faedah nya..
+yg saya banggain ,kalau ada pemimpin yg bisa mensejahterahkan rakyat rakyat nya..
+
+itu baru sosok pemimpin.","['rakyat', 'ga', 'bangga', 'sma', 'kereta', 'cepet', 'kereta', 'cpt', 'ga', 'faedah', 'nya', 'yg', 'banggain', 'pimpin', 'yg', 'mensejahterahkan', 'rakyat', 'rakyat', 'nya', 'sosok', 'pimpin']"
+Spam,"🔥SHARE & VIRALKAN PENYADAPAN OTAK, PENCURIAN DATA PRIBADI, DAN PERCOBAAN PEMBUNUHAN BERENCANA DI KUDUS JAWA TENGAH INI
+https://m.facebook.com/story.php?story_fbid=4484834648228370&id=100001056385432🔥","['share', 'viralkan', 'sadap', 'otak', 'curi', 'data', 'pribadi', 'coba', 'bunuh', 'rencana', 'kudus', 'jawa']"
+Ham,Presiden Luarbiasa...👌,"['presiden', 'luarbiasa']"
+Ham,Woww keren #BapakPresidenkuJokowiYangTerbaik,"['woww', 'keren', 'bapakpresidenkujokowiyangterbaik']"
+Ham,Lanjutkan high speed trans Jawa - Bali,"['lanjut', 'high', 'speed', 'trans', 'jawa', 'bal']"
+Ham,sehat selalu Bpk Presiden Joko Widodo,"['sehat', 'bpk', 'presiden', 'joko', 'widodo']"
+Ham,Mantap pack,"['mantap', 'pack']"
+Spam,Ayo pak nyapres lagi genapi 5 periode,"['ayo', 'nyapres', 'genap', 'periode']"
+Ham,"duh kapan ya saya foto di depan kereta cepat perti pak Presiden Joko Widodo .
+lansia gak ada yg antar","['duh', 'ya', 'foto', 'kereta', 'cepat', 'perti', 'presiden', 'joko', 'widodo', 'lansia', 'gak', 'yg']"
+Spam,Apakabar batam?,"['apakabar', 'batam']"
+Spam,Enaknya jadi guru mengajari anak muridnya/siswa belajar munafik dengan agama lain. Melarang anak muridnya/siswa jajan luar dari kantin sekolah,"['enak', 'guru', 'ajar', 'anak', 'murid', 'siswa', 'ajar', 'munafik', 'agama', 'larang', 'anak', 'murid', 'siswa', 'jajan', 'kantin', 'sekolah']"
+Ham,jadikan Cirebon Provinsi pakde Presiden Joko Widodo,"['jadi', 'cirebon', 'provinsi', 'pakde', 'presiden', 'joko', 'widodo']"
+Spam,Akan lebih istimewa jika harga beras sebanding dng penghasilan buruh pak🥹🙏,"['istimewa', 'harga', 'beras', 'banding', 'dng', 'hasil', 'buruh']"
+Ham,Semangat pak Presiden Joko Widodo 🤟🤟🤟🤟🤟,"['semangat', 'presiden', 'joko', 'widodo']"
+Ham,Pak jokowi nyata cara kerjaanya baik pintar dalam urusan memajukan indonesia menyapa semua orang smngt terus pak presiden sehat selalu bnyk rezekinya,"['jokowi', 'nyata', 'kerjaanya', 'pintar', 'urus', 'maju', 'indonesia', 'sapa', 'orang', 'smngt', 'presiden', 'sehat', 'bnyk', 'rezeki']"
+Ham,Pak Jokowi Presiden Ku 🙏😎👍,"['jokowi', 'presiden', 'ku']"
+Ham,Jokowi is the best presiden,"['jokowi', 'is', 'the', 'best', 'presiden']"
+Ham,Mantap bapak presiden RI ku pak Jokowi semoga sehat selalu dan senantiasa dilindungi oleh Allah SWT dlm bekerja nya,"['mantap', 'presiden', 'ri', 'ku', 'jokowi', 'moga', 'sehat', 'senantiasa', 'lindung', 'allah', 'swt', 'dlm', 'nya']"
+Spam,Rabu LegiiHad JiiAriss KittinggRaddAzharrVladimir AmirrBnggMahdzz kurang gagah kmha presiden maraneh daaaak,"['rabu', 'legiihad', 'jiiariss', 'kittinggraddazharrvladimir', 'amirrbnggmahdzz', 'gagah', 'kmha', 'presiden', 'maraneh', 'daaaak']"
+Spam,Jetlag nggak Pakdhe Presiden Joko Widodo ?,"['jetlag', 'nggak', 'pakdhe', 'presiden', 'joko', 'widodo']"
+Ham,Bapak Presiden 😊🙏,['presiden']
+Ham,bapak jokowi ❤🇮🇩,['jokowi']
+Spam,"Kunjungi rempang pak, jgn bs nya membenturkan aparat dgn rakyat demi receh,,,","['kunjung', 'rempang', 'jgn', 'bs', 'nya', 'bentur', 'aparat', 'dgn', 'rakyat', 'receh']"
+Ham,Bp.presiden Presiden Joko Widodo  👍👍,"['bp', 'presiden', 'presiden', 'joko', 'widodo']"
+Ham,Orang tersukses di Dunia,"['orang', 'sukses', 'dunia']"
+Ham,Mantap! Mencari solusi ditengah masalah 👍,"['mantap', 'cari', 'solusi', 'tengah']"
+Ham,"Hebat Dan Keren Bapak Presiden-ku ini 💪🇮🇩❤️  semoga saya diberi rejekiNya agar bisa naik kereta ini...
+Sehat dan sukses terus ya Pak, do'a Kami agar Allah SWT senantiasa melimpahkan lindungan serta berkah-Nya untuk Bapak Presiden Jokowi beserta keluarga tercinta, aamiinnn Yaa Rabbal alaamiin 😇❤️🙏","['hebat', 'keren', 'presiden', 'ku', 'moga', 'rejekinya', 'kereta', 'sehat', 'sukses', 'ya', 'do', 'a', 'allah', 'swt', 'senantiasa', 'limpah', 'lindung', 'berkah', 'nya', 'presiden', 'jokowi', 'serta', 'keluarga', 'cinta', 'aamiinnn', 'yaa', 'rabbal', 'alaamiin']"
+Ham,"Alhamdulillah ...semoga  semua rakyat bisa memanfaatkan KCJB..
+Tapi kelihatan penikmat kereta cepat mayoritas di nikmati orang jabar dan jakarta sesuai dg nama kereta cepat jakarta bandung ( KCJB ).
+Usahakan kcjb ada di banyak daerah amin .","['alhamdulillah', 'moga', 'rakyat', 'manfaat', 'kcjb', 'nikmat', 'kereta', 'cepat', 'mayoritas', 'nikmat', 'orang', 'jabar', 'jakarta', 'sesuai', 'dg', 'nama', 'kereta', 'cepat', 'jakarta', 'bandung', 'kcjb', 'usaha', 'kcjb', 'daerah', 'amin']"
+Spam,Save BATAM,"['save', 'batam']"
+Ham,Semoga selalu sehat pak Jokowi🙏🙏🙏,"['moga', 'sehat', 'jokowi']"
+Spam,"Yg komen kebanyakan para buzzer dan para penjilat yg nggak peduli penderitaan rakyat kecil,semoga kalian kena azab baik di dunia maupun di akhirat aminn.","['yg', 'komen', 'banyak', 'buzzer', 'jilat', 'yg', 'nggak', 'peduli', 'derita', 'rakyat', 'moga', 'kena', 'azab', 'dunia', 'akhirat', 'aminn']"
+Spam,"Kren pak jokowi. Kalau bisa 3 periode.🇮🇩🇮🇩🇮🇩🇮🇩
+Semoga bapak dan kel sehat2  dan kelak ada anak2 bapak sebagai generasi penerus👍💪💪","['kren', 'jokowi', 'periode', 'moga', 'kel', 'sehat', 'kelak', 'anak', 'generasi', 'terus']"
+Ham,Presiden TERBAIK 💓🇮🇩🤍 bukti kerja nyata sehat selalu njih pak 🤍🤲,"['presiden', 'baik', 'bukti', 'kerja', 'nyata', 'sehat', 'njih']"
+Ham,"Semoga  kedepan   semakin  banyak lagi  pembangunan  yg  membuat  bangga  rakyat  Indonesia.... 
+IKN  cepat  terlaksana  ...","['moga', 'depan', 'bangun', 'yg', 'bangga', 'rakyat', 'indonesia', 'ikn', 'cepat', 'laksana']"
+Spam,"hari berganti, bulan berganti, tahun berganti, 2024 sebentar lagi kok kaya ga rela ya melepas presiden Jokowi. sedih rasanya tapi aturan tidak boleh lebih dari 2 periode gemana lagi, semoga setelah beliau purna tugas tetap masih aktif memberikan ide kreatifnya untuk NKRI.","['ganti', 'ganti', 'ganti', 'sebentar', 'kaya', 'ga', 'rela', 'ya', 'lepas', 'presiden', 'jokowi', 'sedih', 'atur', 'tidak', 'periode', 'gana', 'moga', 'beliau', 'purna', 'tugas', 'aktif', 'ide', 'kreatif', 'nkri']"
+Ham,Sehat selalu pak de.. aamiinn,"['sehat', 'de', 'aamiinn']"
+Spam,Nurul Hidayah Mohd Najeb dulu 🤣 idea Najib kan HSR kerata api laju KL - Singapore 🤭 apa sudah jadi,"['nurul', 'hidayah', 'mohd', 'najeb', 'idea', 'najib', 'hsr', 'rata', 'api', 'laju', 'kl', 'singapore']"
+Ham,"pekan baru ke Medan ,kapan kereta api cepat ,pakde","['pekan', 'medan', 'kereta', 'api', 'cepat', 'pakde']"
+Spam,"https://vt.tiktok.com/ZSLwEbrtf/ Mohon kepada bapak Presiden Joko Widodo yang kami junjung tinggi dan kami banggakan sebagai panglima tertinggi di negara kesatuan Republik Indonesia, ini suara hati rakyat, mohon menangguhkan dan bebaskan pak Alvin Lim, Pak Alvin bukan penjahat.","['mohon', 'presiden', 'joko', 'widodo', 'junjung', 'bangga', 'panglima', 'tinggi', 'negara', 'satu', 'republik', 'indonesia', 'suara', 'hati', 'rakyat', 'mohon', 'tangguh', 'bebas', 'alvin', 'lim', 'alvin', 'jahat']"
+Spam,Pak pikirkan rakyat Rempang Galang,"['pikir', 'rakyat', 'rempang', 'galang']"
+Ham,Di awali dengan pak dhe Presiden Joko Widodo semoga bs lanjud sampai Surabaya !!!!!!,"['awal', 'dhe', 'presiden', 'joko', 'widodo', 'moga', 'bs', 'lanjud', 'surabaya']"
+Spam,PERDAGANGAN INDONESIA TIDAK DALAM KEADAAN BAIK' SAJAH... PRIHATIN,"['dagang', 'indonesia', 'tidak', 'sajah', 'prihatin']"
+Ham,"Semoga bermamfaat byk
+Buat masyarakat terutama 
+Buat para pebisnis dan tentunya 
+Utk yg membutuhkan waktu yg
+Singkat dan cepat","['moga', 'bermamfaat', 'byk', 'masyarakat', 'bisnis', 'utk', 'yg', 'butuh', 'yg', 'singkat', 'cepat']"
+Spam,Jahanam menunggu Presiden Joko Widodo,"['jahanam', 'tunggu', 'presiden', 'joko', 'widodo']"
+Ham,Sebenarnya tujuan kereta cepat di bangun dengan tujuan untuk mengurangi kepadatan lalu lintas yg menyebabkan polusi udara.karena jakarta dan jakarta banyak pebisnis dan oejabat yg hilir mudik..semoga banyak pejabat dan pebinis yg mengupayakan untuk mengurangi polusi udara di dunia agar kelak anak cucu kita bisa hidup sehat.aamiin.,"['tuju', 'kereta', 'cepat', 'bangun', 'tuju', 'kurang', 'padat', 'lintas', 'yg', 'sebab', 'polusi', 'udara', 'jakarta', 'jakarta', 'bisnis', 'oejabat', 'yg', 'hilir', 'mudik', 'moga', 'jabat', 'bin', 'yg', 'upaya', 'kurang', 'polusi', 'udara', 'dunia', 'kelak', 'anak', 'cucu', 'hidup', 'sehat', 'aamiin']"
+Spam,Bisnis modal utang ribawi babak belur pak,"['bisnis', 'modal', 'utang', 'ribawi', 'babak', 'bur']"
+Ham,"Transportasi kereta api tercepat KCJB . Jurusan bandung - jakarta . Tarip standar bagi kalangan ke bawah , menengah . Semua orang bisa menikmati.","['transportasi', 'kereta', 'api', 'cepat', 'kcjb', 'jurus', 'bandung', 'jakarta', 'tarip', 'standar', 'kalang', 'tengah', 'orang', 'nikmat']"
+Ham,"Banyak yg minta kehadirannya keberbagai wilayah mereka agar mungkin dapat melihat secara langsung situasi kondisi keadaan wilayahnya,sayangnya beliau hanya manusia biasa yg jg pasti punya batas kemampuan tenaganya utk meninjau satu persatu,ttpi mungkin dgn pikiran dan program2 beliau bs menjadi kepanjangan tangan utk hal itu,krn keterbatasan waktu menjabatnya hanya 2 priode..jika diberi kesampatan lebih mungkin beliau dapat menyelesaikan permasalahan yg terjdi utk indonesia lbh maju lagi..terima kasih utk pak jokowi,.is the best","['yg', 'hadir', 'bagai', 'wilayah', 'langsung', 'situasi', 'kondisi', 'wilayah', 'sayang', 'beliau', 'manusia', 'yg', 'jg', 'batas', 'mampu', 'tenaga', 'utk', 'tinjau', 'satu', 'ttpi', 'dgn', 'pikir', 'program', 'beliau', 'bs', 'panjang', 'tangan', 'utk', 'krn', 'batas', 'jabat', 'priode', 'sampat', 'beliau', 'selesai', 'masalah', 'yg', 'terjdi', 'utk', 'indonesia', 'lbh', 'maju', 'terima', 'kasih', 'utk', 'jokowi', 'is', 'the', 'best']"
+Ham,Inilah perubahan.👍,['ubah']
+Spam,Bisnis BRANDING indonesia...,"['bisnis', 'branding', 'indonesia']"
+Spam,Pioneer,['pioneer']
+Spam,Luar biasa utang semakin banyak pupuk semakin mahal.mau JD apa para petani,"['utang', 'pupuk', 'mahal', 'jd', 'tani']"
+Ham,Sehat selalu pak president🙏🙏🙏,"['sehat', 'president']"
+Ham,Awesome,['awesome']
+Ham,Kapan yah saya bisa naik kreta pak presiden Jokowi Dodo.😐,"['yah', 'kreta', 'presiden', 'jokowi', 'dodo']"
+Spam,"Tidakan ada pengganti secerdas jokowi
+❤❤❤🙏🙏🙏","['tidak', 'ganti', 'cerdas', 'jokowi']"
+Spam,"apa sebaiknya kita menambah Warna Bendera Indonesia pak presiden?? menjadi 6 warna yaitu warna..?! merah Putih Biru Hijau Hitam kuning .
+untuk masa Depan.. yang lebih bersatu dan Sejahtera untuk Indonesia. mungkin berat cita"" ini. tetapi jika ada niat dan usaha.. insyaallah Pasti membuahkan hasil.. untuk Indonesia yang lebih maju .. dari tahun ke tahun. Semoga Saja Tuan Presiden..","['tambah', 'warna', 'bendera', 'indonesia', 'presiden', 'warna', 'warna', 'merah', 'putih', 'biru', 'hijau', 'hitam', 'kuning', 'satu', 'sejahtera', 'indonesia', 'berat', 'cita', 'niat', 'usaha', 'insyaallah', 'buah', 'hasil', 'indonesia', 'maju', 'moga', 'tuan', 'presiden']"
+Ham,#Indonesia_Hebat 🤟🇲🇨,"['indonesia', 'hebat']"
+Ham,Kerén 👍👍👏,"['ker', 'n']"
+Ham,Sehat selalu pak presiden 🇲🇨,"['sehat', 'presiden']"
+Spam,Orang dah banyak kemalaysia,"['orang', 'dah', 'kemalaysia']"
+Spam,"Semoga tidak menambah utang negara,sbb gk etis to negara yg ngutang rakyat yg bayar..","['moga', 'tidak', 'tambah', 'utang', 'negara', 'sbb', 'gk', 'etis', 'to', 'negara', 'yg', 'ngutang', 'rakyat', 'yg', 'bayar']"
+Spam,Saya gak di kasih kartu pak,"['gak', 'kasih', 'kartu']"
+Spam,Whatt.kaget saya hah,"['whatt', 'kaget', 'hah']"
+Spam,kurang cagak😭😭,['cagak']
+Spam,Bos... apakah anda sedang bersama lord luhut ??,"['bos', 'lord', 'luhut']"
+Spam,3 preode yes pakde.,"['preode', 'yes', 'pakde']"
+Spam,"My world was falling apart. My mind, for some reason, wont let go of the memory of My Wife. I had a very big problem with my wife few months ago, that lead to her leaving me. All efforts to get her back proved abortive. one day while going through the internet i saw so many testimony of this great man called Dr.Goodman and how he helped people with all kinds of problem, his advert was everywhere,. Although I never believed in spell casting, but I had no choice than to give him a try so i contacted Him, I was so desperate to have my wife back with me once again. So I did all he told me to do. He told me that my wife will come back to me in the next one week, after the spell is completed. I was skeptical. He casted the spell for me and i was so anxious waiting to see or hear from her, it was just 3 days after the spell was done my wife called and said she was coming HOME and she was asking for forgiveness for her ever hurting me before..It was a dream come through for me!!! that was how my family and relationship was save and our relationship is now stronger than ever.my advice to you out there facing same problem or even worst then mine cry no more and contact this great man called Dr Goodman He is capable of handling any kind of problem. Contact him with his Email him at: or google chat: (drgoodmanspellcaster@gmail.com)  
+
+him if you need his assistance in your 
+relationship or any other Case like.
+ 
+ (1)If you want your ex back.
+ {2}If you are searching for a job
+ (3)You want to be promoted in your office. (4)You want women/men to run after you. (5)If you want a child. (6)You want to be rich. (7)you want to get Marriage Spells (8)Remove Sickness and diseases from your body Spells
+(9)Business spell
+ (10)Lottery winning numbers.
+ (11)Bring Back Lost Love","['my', 'world', 'was', 'falling', 'apart', 'my', 'mind', 'for', 'some', 'reason', 'wont', 'let', 'go', 'of', 'the', 'memory', 'of', 'my', 'wife', 'i', 'had', 'a', 'very', 'big', 'problem', 'with', 'my', 'wife', 'few', 'months', 'ago', 'that', 'lead', 'to', 'her', 'leaving', 'me', 'all', 'efforts', 'to', 'get', 'her', 'back', 'proved', 'abortive', 'one', 'day', 'while', 'going', 'through', 'the', 'internet', 'i', 'saw', 'so', 'many', 'testimony', 'of', 'this', 'great', 'man', 'called', 'dr', 'goodman', 'and', 'how', 'he', 'helped', 'people', 'with', 'all', 'kinds', 'of', 'problem', 'his', 'advert', 'was', 'everywhere', 'although', 'i', 'never', 'believed', 'in', 'spell', 'casting', 'but', 'i', 'had', 'no', 'choice', 'than', 'to', 'give', 'him', 'a', 'try', 'so', 'i', 'contacted', 'him', 'i', 'was', 'so', 'desperate', 'to', 'have', 'my', 'wife', 'back', 'with', 'me', 'once', 'again', 'so', 'i', 'did', 'all', 'he', 'told', 'me', 'to', 'do', 'he', 'told', 'me', 'that', 'my', 'wife', 'will', 'come', 'back', 'to', 'me', 'in', 'the', 'next', 'one', 'week', 'after', 'the', 'spell', 'is', 'completed', 'i', 'was', 'skeptical', 'he', 'casted', 'the', 'spell', 'for', 'me', 'and', 'i', 'was', 'so', 'anxious', 'waiting', 'to', 'see', 'or', 'hear', 'from', 'her', 'it', 'was', 'just', 'days', 'after', 'the', 'spell', 'was', 'done', 'my', 'wife', 'called', 'and', 'said', 'she', 'was', 'coming', 'home', 'and', 'she', 'was', 'asking', 'for', 'forgiveness', 'for', 'her', 'ever', 'hurting', 'me', 'before', 'it', 'was', 'a', 'dream', 'come', 'through', 'for', 'me', 'that', 'was', 'how', 'my', 'family', 'and', 'relationship', 'was', 'save', 'and', 'our', 'relationship', 'is', 'now', 'stronger', 'than', 'ever', 'my', 'advice', 'to', 'you', 'out', 'there', 'facing', 'same', 'problem', 'or', 'even', 'worst', 'then', 'mine', 'cry', 'no', 'more', 'and', 'contact', 'this', 'great', 'man', 'called', 'dr', 'goodman', 'he', 'is', 'capable', 'of', 'handling', 'any', 'kind', 'of', 'problem', 'contact', 'him', 'with', 'his', 'email', 'him', 'at', 'or', 'google', 'chat', 'drgoodmanspellcaster', 'him', 'if', 'you', 'need', 'his', 'assistance', 'in', 'your', 'relationship', 'or', 'any', 'other', 'case', 'like', 'if', 'you', 'want', 'your', 'ex', 'back', 'if', 'you', 'are', 'searching', 'for', 'a', 'job', 'you', 'want', 'to', 'be', 'promoted', 'in', 'your', 'office', 'you', 'want', 'women', 'men', 'to', 'run', 'after', 'you', 'if', 'you', 'want', 'a', 'child', 'you', 'want', 'to', 'be', 'rich', 'you', 'want', 'to', 'get', 'marriage', 'spells', 'remove', 'sickness', 'and', 'diseases', 'from', 'your', 'body', 'spells', 'business', 'spell', 'lottery', 'winning', 'numbers', 'bring', 'back', 'lost', 'love']"
+Ham,Sehat selalu pak presidenku 🤲,"['sehat', 'presiden']"
+Spam,#saveBatam,['savebatam']
+Spam,"https://www.facebook.com/groups/606378937782873/?ref=share_group_link
+
+Mohon dukungannya terhadap perjuangan kami @gempurnet89 dalam kasus Net89 yang sudah membuat penderitaan sangat dalam bagi ratusan ribu membernya.
+
+Sejumlah oknum aktor intelektual PT SMI (SIMBIOTIK MULTITALENTA INDONESIA) dan para kroninya yang sudah berstatus tersangka (13 orang => sampai sekarang blum satupun ditahan) maupun yang belum (masih ada belasan orang lagi) agar diproses hukum dengan ganjaran hukuman seberat-beratnya.
+sehingga penderitaan ratusan ribu member Net89 bisa terangkat;  ekonomi mereka pulih; hambatan pendidikan dan gangguan kesehatan hilang; dan masa depan mereka menjadi cerah kembali.
+
+#GempurNet89
+#Net89
+#KasusNet89
+#ptsmi
+#SimbiotikMultitalenhtaIndonesia
+#Polri
+#PolisiIndonesia
+#Presisi 
+🙏🏻🙏🏻🙏🏻","['mohon', 'dukung', 'juang', 'net', 'derita', 'ratus', 'ribu', 'membernya', 'oknum', 'aktor', 'intelektual', 'pt', 'smi', 'simbiotik', 'multitalenta', 'indonesia', 'kroni', 'status', 'sangka', 'orang', 'blum', 'satu', 'tahan', 'bas', 'orang', 'proses', 'hukum', 'ganjar', 'hukum', 'berat', 'berat', 'derita', 'ratus', 'ribu', 'member', 'net', 'angkat', 'ekonomi', 'pulih', 'hambat', 'didik', 'ganggu', 'sehat', 'hilang', 'cerah', 'gempurnet', 'net', 'kasusnet', 'ptsmi', 'simbiotikmultitalenhtaindonesia', 'polri', 'polisiindonesia', 'presisi']"
+Spam,Yg miskin. Makin. Miskin,"['yg', 'miskin', 'miskin']"
+Ham,mantap,['mantap']
+Spam,Menghibur diri...,['hibur']
+Spam,Ges ngaropi uy...?,"['ges', 'ngaropi', 'uy']"
+Spam,"https://www.facebook.com/groups/606378937782873/?ref=share_group_link
+
+Mohon dukungannya terhadap perjuangan kami GEMPUR NET89 dalam kasus Net89 yang sudah membuat penderitaan sangat dalam bagi ratusan ribu membernya.
+
+Sejumlah oknum aktor intelektual PT SMI (SIMBIOTIK MULTITALENTA INDONESIA) dan para kroninya yang sudah berstatus tersangka ( 13 orang => sampai sekarang blum satupun ditahan=> mudah""an ketika akan dilakukan penahanan, tdk ada yg kabur 🙏🙏🙏) maupun yang belum menjadi tersangka (masih ada belasan orang lagi) agar diproses hukum dengan ganjaran hukuman seberat-beratnya.
+
+Yang lebih penting lagi, dana ratusan ribu member Net89 dapat dikembalikan, dengan cara sebaik-baiknya dan secepat-secepatnya.
+
+Mohon kasus Net89 diawasi dan dikawal dengan baik, agar dana member bisa kembali, sehingga penderitaan ratusan ribu member Net89 bisa terangkat;  ekonomi mereka pulih; hambatan pendidikan dan gangguan kesehatan hilang; dan masa depan mereka menjadi cerah kembali.
+
+#GempurNet89
+#Net89
+#KasusNet89
+#ptsmi
+#SimbiotikMultitalentaIndonesia
+#Polri
+#PolisiIndonesia
+#Presisi","['mohon', 'dukung', 'juang', 'gempur', 'net', 'net', 'derita', 'ratus', 'ribu', 'membernya', 'oknum', 'aktor', 'intelektual', 'pt', 'smi', 'simbiotik', 'multitalenta', 'indonesia', 'kroni', 'status', 'sangka', 'orang', 'blum', 'satu', 'tahan', 'mudah', 'an', 'tahan', 'tdk', 'yg', 'kabur', 'sangka', 'bas', 'orang', 'proses', 'hukum', 'ganjar', 'hukum', 'berat', 'berat', 'dana', 'ratus', 'ribu', 'member', 'net', 'kembali', 'baik', 'cepat', 'cepat', 'mohon', 'net', 'awas', 'kawal', 'dana', 'member', 'derita', 'ratus', 'ribu', 'member', 'net', 'angkat', 'ekonomi', 'pulih', 'hambat', 'didik', 'ganggu', 'sehat', 'hilang', 'cerah', 'gempurnet', 'net', 'kasusnet', 'ptsmi', 'simbiotikmultitalentaindonesia', 'polri', 'polisiindonesia', 'presisi']"
+Spam,"Bangun monorail jakarta tpi relnya fiatas, keretanya nggantung kayak di wubei, china","['bangun', 'monorail', 'jakarta', 'tpi', 'rel', 'fiatas', 'kereta', 'nggantung', 'kayak', 'wubei', 'china']"
+Spam,Apa yg di banggakan kalo utangnya banyak...,"['yg', 'bangga', 'kalo', 'utang']"
+Spam,"Mantap pak Jokowi, next 7 Periode 😁😁","['mantap', 'jokowi', 'next', 'periode']"
+Spam,Diam saja...,['diam']
+Spam,"Kui udu dalanku.....
+Dalan wong tani Ra Alus koyo kui.
+Pikirku wong cilik Sik pk de","['kui', 'udu', 'dal', 'dal', 'tani', 'ra', 'alus', 'koyo', 'kui', 'pikir', 'cilik', 'sik', 'pk', 'de']"
+Spam,"https://www.facebook.com/groups/606378937782873/?ref=share_group_link
+
+Mohon dukungannya terhadap perjuangan kami @gempurnet89 dalam kasus Net89 yang sudah membuat penderitaan sangat dalam bagi ratusan ribu membernya.
+
+Sejumlah oknum aktor intelektual PT SMI (SIMBIOTIK MULTITALENTA INDONESIA) dan para kroninya yang sudah berstatus tersangka (13 orang => sampai sekarang blum satupun ditahan) maupun yang belum (masih ada belasan orang lagi) agar diproses hukum dengan ganjaran hukuman seberat-beratnya.
+sehingga penderitaan ratusan ribu member Net89 bisa terangkat;  ekonomi mereka pulih; hambatan pendidikan dan gangguan kesehatan hilang; dan masa depan mereka menjadi cerah kembali.
+
+#GempurNet89
+#Net89
+#KasusNet89
+#ptsmi
+#SimbiotikMultitalenhtaIndonesia
+#Polri
+#PolisiIndonesia
+#Presisi 
+🙏🏻🙏🏻🙏🏻","['mohon', 'dukung', 'juang', 'net', 'derita', 'ratus', 'ribu', 'membernya', 'oknum', 'aktor', 'intelektual', 'pt', 'smi', 'simbiotik', 'multitalenta', 'indonesia', 'kroni', 'status', 'sangka', 'orang', 'blum', 'satu', 'tahan', 'bas', 'orang', 'proses', 'hukum', 'ganjar', 'hukum', 'berat', 'berat', 'derita', 'ratus', 'ribu', 'member', 'net', 'angkat', 'ekonomi', 'pulih', 'hambat', 'didik', 'ganggu', 'sehat', 'hilang', 'cerah', 'gempurnet', 'net', 'kasusnet', 'ptsmi', 'simbiotikmultitalenhtaindonesia', 'polri', 'polisiindonesia', 'presisi']"
+Spam,"MANTEP POKOK""EE, KULO PILIH 2X, PERIODE  DUKUNG BPK PRESIDEN JOKOWI 🙏🙏, AWESOME , RIGHT 👍👍👍","['mantep', 'pokok', 'ee', 'kulo', 'pilih', 'x', 'periode', 'dukung', 'bpk', 'presiden', 'jokowi', 'awesome', 'right']"
+Spam,Pak de anda itu gagal memimpin negara ini,"['de', 'gagal', 'pimpin', 'negara']"
+Ham,Indonesia bisa bangga di kawasan ASEAN. Semua bisa menyediakan dan menikmati semua.,"['indonesia', 'bangga', 'kawasan', 'asean', 'sedia', 'nikmat']"
+Spam,"Yang paling pnting mh hrg sembako d turunin hrg beras makin meningkat,ga sesuai dgn penghasilan pndpatn brkurang pengeluaran lbih banyak","['pnting', 'mh', 'hrg', 'sembako', 'd', 'turunin', 'hrg', 'beras', 'tingkat', 'ga', 'sesuai', 'dgn', 'hasil', 'pndpatn', 'brkurang', 'keluar', 'lbih']"
+Spam,"🔥SHARE & VIRALKAN PENYADAPAN OTAK, PENCURIAN DATA PRIBADI, DAN PERCOBAAN PEMBUNUHAN BERENCANA DI KUDUS JAWA TENGAH INI
+https://m.facebook.com/story.php?story_fbid=4484834648228370&id=100001056385432🔥","['share', 'viralkan', 'sadap', 'otak', 'curi', 'data', 'pribadi', 'coba', 'bunuh', 'rencana', 'kudus', 'jawa']"
+Spam,"🔥SHARE & VIRALKAN PENYADAPAN OTAK, PENCURIAN DATA PRIBADI, DAN PERCOBAAN PEMBUNUHAN BERENCANA DI KUDUS JAWA TENGAH INI
+https://m.facebook.com/story.php?story_fbid=4484834648228370&id=100001056385432🔥","['share', 'viralkan', 'sadap', 'otak', 'curi', 'data', 'pribadi', 'coba', 'bunuh', 'rencana', 'kudus', 'jawa']"
+Spam,"Meroket hutangnya,
+Makin Ruwet tatanan hukumnya","['roket', 'hutang', 'ruwet', 'tatanan', 'hukum']"
+Spam,"Naik kan semua barang wi,,minyak naik kn wi, rakyat tertindas terus😅semua omong kosong","['barang', 'wi', 'minyak', 'kn', 'wi', 'rakyat', 'tindas', 'omong', 'kosong']"
+Spam,"Mantap semua naik beras naik bbm naik...yg naikin ga mau turun lagi enak"" nya kata pengantin baru mah","['mantap', 'beras', 'bbm', 'yg', 'naikin', 'ga', 'turun', 'enak', 'nya', 'pengantin', 'mah']"
+Spam,Akibatnya yg ngurus negara dari kalangan pebisnis bukan negarawan sejati.,"['akibat', 'yg', 'ngurus', 'negara', 'kalang', 'bisnis', 'negarawan', 'sejati']"
+Spam,Waraga batam gmn pak??,"['waraga', 'batam', 'gmn']"
+Spam,pret,['pret']
+Spam,"https://www.facebook.com/groups/606378937782873/?ref=share_group_link
+
+Mohon dukungannya terhadap perjuangan kami @gempurnet89 dalam kasus Net89 yang sudah membuat penderitaan sangat dalam bagi ratusan ribu membernya.
+
+Sejumlah oknum aktor intelektual PT SMI (SIMBIOTIK MULTITALENTA INDONESIA) dan para kroninya yang sudah berstatus tersangka (13 orang => sampai sekarang blum satupun ditahan) maupun yang belum (masih ada belasan orang lagi) agar diproses hukum dengan ganjaran hukuman seberat-beratnya.
+sehingga penderitaan ratusan ribu member Net89 bisa terangkat;  ekonomi mereka pulih; hambatan pendidikan dan gangguan kesehatan hilang; dan masa depan mereka menjadi cerah kembali.
+
+#GempurNet89
+#Net89
+#KasusNet89
+#ptsmi
+#SimbiotikMultitalenhtaIndonesia
+#Polri
+#PolisiIndonesia
+#Presisi 
+🙏🏻🙏🏻🙏🏻","['mohon', 'dukung', 'juang', 'net', 'derita', 'ratus', 'ribu', 'membernya', 'oknum', 'aktor', 'intelektual', 'pt', 'smi', 'simbiotik', 'multitalenta', 'indonesia', 'kroni', 'status', 'sangka', 'orang', 'blum', 'satu', 'tahan', 'bas', 'orang', 'proses', 'hukum', 'ganjar', 'hukum', 'berat', 'berat', 'derita', 'ratus', 'ribu', 'member', 'net', 'angkat', 'ekonomi', 'pulih', 'hambat', 'didik', 'ganggu', 'sehat', 'hilang', 'cerah', 'gempurnet', 'net', 'kasusnet', 'ptsmi', 'simbiotikmultitalenhtaindonesia', 'polri', 'polisiindonesia', 'presisi']"
+Spam,"GACOR DI SITUS DAGET777 SAWER BOSS
+
+Lagi Sebar Duit lewat DANA Kaget nih! Cuma buat kamu yang paling gesit,sikat sekarang
+https://link-dana-kaget.recomendsi.my.id/","['gacor', 'situs', 'daget', 'sawer', 'boss', 'sebar', 'duit', 'dana', 'kaget', 'nih', 'gesit', 'sikat']"
+Spam,"GACOR DI SITUS DAGET777 SAWER BOSS
+
+Lagi Sebar Duit lewat DANA Kaget nih! Cuma buat kamu yang paling gesit,sikat sekarang
+https://link-dana-kaget.recomendsi.my.id/","['gacor', 'situs', 'daget', 'sawer', 'boss', 'sebar', 'duit', 'dana', 'kaget', 'nih', 'gesit', 'sikat']"
+Spam,"GACOR DI SITUS DAGET777 SAWER BOSS
+
+Lagi Sebar Duit lewat DANA Kaget nih! Cuma buat kamu yang paling gesit,sikat sekarang
+https://link-dana-kaget.recomendsi.my.id/","['gacor', 'situs', 'daget', 'sawer', 'boss', 'sebar', 'duit', 'dana', 'kaget', 'nih', 'gesit', 'sikat']"
+Spam,"GACOR DI SITUS DAGET777 SAWER BOSS
+
+Lagi Sebar Duit lewat DANA Kaget nih! Cuma buat kamu yang paling gesit,sikat sekarang
+https://link-dana-kaget.recomendsi.my.id/","['gacor', 'situs', 'daget', 'sawer', 'boss', 'sebar', 'duit', 'dana', 'kaget', 'nih', 'gesit', 'sikat']"
+Ham,Terbaik 👍👍👍🇮🇩🇮🇩🇮🇩,['baik']
+Ham,"Jokowi is the Best 👍 keren abis  
+🇮🇩","['jokowi', 'is', 'the', 'best', 'keren', 'abis']"
+Ham,"Sehat selalu pak Jokowi, mantap kali","['sehat', 'jokowi', 'mantap', 'kali']"
+Spam,Nyenengi cino Wak😭😭😭😭,"['nyenengi', 'cino', 'wak']"
+Spam,harga beras tembus 140 ribu,"['harga', 'beras', 'tembus', 'ribu']"
+Spam,"Kalo saya bertaruh....mungkin sudah punya sepeda.....dari gubernur blosokan sampe sekarang saya suka cara kerja...kenyataan..walaupun kurang saya rasakan...terima kasih bapa....,siapapun nantinya harus punya lebih segalanya dari bapa untuk membangun INDONESIA","['kalo', 'taruh', 'sepeda', 'gubernur', 'blosokan', 'sampe', 'suka', 'kerja', 'nyata', 'rasa', 'terima', 'kasih', 'bapa', 'bapa', 'bangun', 'indonesia']"
+Ham,The Best,"['the', 'best']"
+Spam,Utang piutang pie pade mkin bngkak,"['utang', 'piutang', 'pie', 'pade', 'mkin', 'bngkak']"
+Ham,😊👌👍 terima kasoh Pak Jokowi! tetap semangat sukacita amanah Indonesia Maju Adil Sejahtera Beradab! God Bless our President Jokowi God Bless Indonesia!,"['terima', 'kasoh', 'jokowi', 'semangat', 'sukacita', 'amanah', 'indonesia', 'maju', 'adil', 'sejahtera', 'adab', 'god', 'bless', 'our', 'president', 'jokowi', 'god', 'bless', 'indonesia']"
+Spam,"GACOR DI SITUS DAGET777 SAWER BOSS
+
+Lagi Sebar Duit lewat DANA Kaget nih! Cuma buat kamu yang paling gesit,sikat sekarang
+https://link-dana-kaget.recomendsi.my.id/","['gacor', 'situs', 'daget', 'sawer', 'boss', 'sebar', 'duit', 'dana', 'kaget', 'nih', 'gesit', 'sikat']"
+Spam,"GACOR DI SITUS DAGET777 SAWER BOSS
+
+Lagi Sebar Duit lewat DANA Kaget nih! Cuma buat kamu yang paling gesit,sikat sekarang
+https://link-dana-kaget.recomendsi.my.id/","['gacor', 'situs', 'daget', 'sawer', 'boss', 'sebar', 'duit', 'dana', 'kaget', 'nih', 'gesit', 'sikat']"
+Spam,Bayar utang bunganya saja hampir Rp.400 trilyun setiap tahun.,"['bayar', 'utang', 'bunga', 'rp', 'trilyun']"
+Spam,"Hutang... hutang... hutang...
+
+Yang bayar kita, 
+Serba dikorupsiiin...
+serba dipajakin....","['hutang', 'hutang', 'hutang', 'bayar', 'serba', 'dikorupsiiin', 'serba', 'dipajakin']"
+Ham,Istimewaa,['istimewaa']
+Spam,Di jaman Kiwari mah mall aya nu adil iwal ke di jaman imam mahdi,"['jaman', 'kiwari', 'mah', 'mall', 'aya', 'nu', 'adil', 'iwal', 'jaman', 'imam', 'mahdi']"
+Spam,"Pak saya mau tanya kenapa kapal2 ikan di Indonesia masih terbuat dari kayu dan masih tradisional? Padahal jaman sudah canggih dan modern, kalo gak bisa produksi, beli jha di negara paling atas dari indonesia, sukur2 yg baru, aset terbesar kedua NKRI itu ada di lautan pak.. kelola dengan baik. Jngan dulu mobil listrik, kapal2 ikan nya Lo masih dari kayu.","['kapal', 'ikan', 'indonesia', 'buat', 'kayu', 'tradisional', 'jaman', 'canggih', 'modern', 'kalo', 'gak', 'produksi', 'beli', 'jha', 'negara', 'indonesia', 'sukur', 'yg', 'aset', 'besar', 'nkri', 'laut', 'kelola', 'jngan', 'mobil', 'listrik', 'kapal', 'ikan', 'nya', 'lo', 'kayu']"
+Spam,Ke Garut kapan pa ke k.p.pelag,"['garut', 'pa', 'k', 'p', 'pelag']"
+Spam,Teguh Widodoo,"['teguh', 'widodoo']"
+Spam,"GACOR DI SITUS DAGET777 SAWER BOSS
+
+Lagi Sebar Duit lewat DANA Kaget nih! Cuma buat kamu yang paling gesit,sikat sekarang
+https://link-dana-kaget.recomendsi.my.id/","['gacor', 'situs', 'daget', 'sawer', 'boss', 'sebar', 'duit', 'dana', 'kaget', 'nih', 'gesit', 'sikat']"
+Spam,"Masing -masing umat yg beragama,kita bersujud syukur, kehadirot Allah subahana wata 'Allah","['umat', 'yg', 'agama', 'sujud', 'syukur', 'kehadirot', 'allah', 'subahana', 'wata', 'allah']"
+Ham,"Sebagai masarakat Indonesia, untuk kedepannya lebih lagi Makmur &Jaya   saya Sebagai Pendukung Mengucapkan,trimakasih yg semalam- dalamnya AMIN","['masarakat', 'indonesia', 'depan', 'makmur', 'jaya', 'dukung', 'trimakasih', 'yg', 'malam', 'dalam', 'amin']"
+Ham,"Lanjutkan demi Nusa & Bangsa Untuk indonesia ,& NKRI,bersatu, sangat takjub,luarbiasa","['lanjut', 'nusa', 'bangsa', 'indonesia', 'nkri', 'satu', 'takjub', 'luarbiasa']"
+Spam,"GACOR DI SITUS DAGET777 SAWER BOSS
+
+Lagi Sebar Duit lewat DANA Kaget nih! Cuma buat kamu yang paling gesit,sikat sekarang
+https://link-dana-kaget.recomendsi.my.id/","['gacor', 'situs', 'daget', 'sawer', 'boss', 'sebar', 'duit', 'dana', 'kaget', 'nih', 'gesit', 'sikat']"

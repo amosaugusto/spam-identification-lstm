@@ -1,0 +1,650 @@
+label,text,preprocessing-result
+Ham,Semoga sehat selalu,"['moga', 'sehat']"
+Ham,SLM SEHAT SLL DARI SY DI NTT. SUKSES SLL PAK RAFI AHMAD SEK.🙏🙏,"['slm', 'sehat', 'sll', 'sy', 'ntt', 'sukses', 'sll', 'rafi', 'ahmad', 'sek']"
+Ham,Hadir..moga sehat sekeluarga bos raffi..,"['hadir', 'moga', 'sehat', 'keluarga', 'bos', 'raffi']"
+Ham,Si ganteng ♥️,"['si', 'ganteng']"
+Ham,Si ganteng,"['si', 'ganteng']"
+Spam,Rafarar meni kasep pisan...salam sehat sll y tuk keluarga A Raffi and mba Gigi,"['rafarar', 'meni', 'kasep', 'pis', 'salam', 'sehat', 'sll', 'y', 'tuk', 'keluarga', 'a', 'raffi', 'and', 'mba', 'gigi']"
+Ham,Salam sehat selalu ya,"['salam', 'sehat', 'ya']"
+Spam,Count me in,"['count', 'me', 'in']"
+Ham,Sehat sll Aa Rafatar dn mm Gigi,"['sehat', 'sll', 'aa', 'rafatar', 'dn', 'mm', 'gigi']"
+Ham,Sehat slalu mamah gigi sekeluarga...Aamiin,"['sehat', 'slalu', 'mamah', 'gigi', 'keluarga', 'aamiin']"
+Ham,Sehat selalu mama gigi & keluarga,"['sehat', 'mama', 'gigi', 'keluarga']"
+Ham,Sehat selalu kel RANS,"['sehat', 'kel', 'rans']"
+Ham,"Gantengnya Aa🥰
+Sehat sll keluarga mama gigi","['ganteng', 'aa', 'sehat', 'sll', 'keluarga', 'mama', 'gigi']"
+Ham,Sehat terus ya mama gigi n AA Raffi n sukses teeus,"['sehat', 'ya', 'mama', 'gigi', 'n', 'aa', 'raffi', 'n', 'sukses', 'teeus']"
+Ham,Senyum gigi,"['senyum', 'gigi']"
+Ham,masyallah anak bujang mama gigi,"['masyallah', 'anak', 'bujang', 'mama', 'gigi']"
+Ham,Si kembar,"['si', 'kembar']"
+Ham,Cantik bgt mama gigi,"['cantik', 'bgt', 'mama', 'gigi']"
+Ham,AA rafatar dan mbk gigi semoga sehat selalu,"['aa', 'rafatar', 'mbk', 'gigi', 'moga', 'sehat']"
+Ham,Semoga sehat mbak Nagita,"['moga', 'sehat', 'mbak', 'nagita']"
+Ham,Rafatharr,['rafatharr']
+Ham,semoga sehat selalu,"['moga', 'sehat']"
+Ham,Cakepp,['cakepp']
+Ham,Cantiik den ganteng,"['cantiik', 'den', 'ganteng']"
+Ham,Rafatar n mamah nya sehat trs y ...aamiin y rob..,"['rafatar', 'n', 'mamah', 'nya', 'sehat', 'trs', 'y', 'aamiin', 'y', 'rob']"
+Ham,"Mudah2an gw sehat selalu,biar liat rafatar gedenya seperti ap,dan ortunya juga tuanya ky mana,dan masih bisa kah nyobain rezekinya sampai dia tua hehehe...","['mudah', 'an', 'gw', 'sehat', 'biar', 'liat', 'rafatar', 'gede', 'ap', 'ortunya', 'tua', 'ky', 'kah', 'nyobain', 'rezeki', 'tua', 'hehehe']"
+Ham,"Bahagia slalu, aamiin yaa robbal aalamiin","['bahagia', 'slalu', 'aamiin', 'yaa', 'robbal', 'aalamiin']"
+Ham,Mbak Gigi dan Adik Rafatar 😃👍,"['mbak', 'gigi', 'adik', 'rafatar']"
+Ham,Semoga sehat selalu bersama keluarga kecilnya mama gigi Rafatar bersama dan cipung.,"['moga', 'sehat', 'keluarga', 'kecil', 'mama', 'gigi', 'rafatar', 'cipung']"
+Ham,Sehat selalu bos,"['sehat', 'bos']"
+Ham,"KAKAK GIGI YG CANTIK SENYUMNYA PUN MANIS & DEDEK RAFATHAR YG GANTENG SENYUMNYA JUGA MANIS😊😊🤗. SEMOGA SEHAT SELALU, LANCAR REZEKI & USAHANYA, & SELALU DALAM LINDUNGAN ALLAH SWT. AMIN YA ROBBAL AALAMIIN🙏🏻🙏🏻🙏🏻","['kakak', 'gigi', 'yg', 'cantik', 'senyum', 'manis', 'dedek', 'rafathar', 'yg', 'ganteng', 'senyum', 'manis', 'moga', 'sehat', 'lancar', 'rezeki', 'usaha', 'lindung', 'allah', 'swt', 'amin', 'ya', 'robbal', 'aalamiin']"
+Ham,Anak ganteng & ibu cantik....🥰🥰,"['anak', 'ganteng', 'cantik']"
+Ham,Keluarga raffi nagita sehat selalu. Amin,"['keluarga', 'raffi', 'nagita', 'sehat', 'amin']"
+Ham,Smoga sehat slalu buat ka Rafi sekeluarga amiiin,"['smoga', 'sehat', 'slalu', 'ka', 'rafi', 'keluarga', 'amiiin']"
+Ham,Sehat slalu ank soleh,"['sehat', 'slalu', 'ank', 'soleh']"
+Ham,Sehat selalu,['sehat']
+Spam,Sultan,['sultan']
+Ham,Semoga sukses dan sehat terus bersama keluarga.... Amin,"['moga', 'sukses', 'sehat', 'keluarga', 'amin']"
+Spam,Ceria amet jadi iwi jadi iwi iwi jadi iwi  😊 iwi,"['ceria', 'amet', 'iwi', 'iwi', 'iwi', 'iwi', 'iwi']"
+Ham,Masakalloh Dede rapatar gantengnya sehat selalu ya Dede rapatar mama gigi Amiin 🤲🤲,"['masakalloh', 'dede', 'rapatar', 'ganteng', 'sehat', 'ya', 'dede', 'rapatar', 'mama', 'gigi', 'amiin']"
+Ham,Semoga sehat selalu mba Gigi dan Rafatar,"['moga', 'sehat', 'mba', 'gigi', 'rafatar']"
+Ham,Sehat selalu,['sehat']
+Ham,Ibu terbaik untk anaknya,"['baik', 'untk', 'anak']"
+Ham,Semoga awet berkeuarga bahagia selalu,"['moga', 'awet', 'berkeuarga', 'bahagia']"
+Ham,"Semoga selalu diberikan kesehatan, rezeki yg berlimpah.. .. sukses selalu untk keluarga raffi.","['moga', 'sehat', 'rezeki', 'yg', 'limpah', 'sukses', 'untk', 'keluarga', 'raffi']"
+Ham,Masya Alloh tabbarokalloh bng rafatar ngguanteng bngt,"['masya', 'alloh', 'tabbarokalloh', 'bng', 'rafatar', 'ngguanteng', 'bngt']"
+Ham,Keren,['keren']
+Ham,Sehat slalu,"['sehat', 'slalu']"
+Ham,"GBU fam..Rafi ,teruslah bermanfaat bg bnyk org 🙏👏😍😇👍","['gbu', 'fam', 'rafi', 'terus', 'manfaat', 'bg', 'bnyk', 'org']"
+Ham,Semoga sehat sll.,"['moga', 'sehat', 'sll']"
+Ham,Sehat2 selalu mm Gigi cantik dan anaknya Rafathar yang ganteng 🙏❤️😘👍,"['sehat', 'mm', 'gigi', 'cantik', 'anak', 'rafathar', 'ganteng']"
+Ham,Halo rafatar n mam gigi,"['halo', 'rafatar', 'n', 'mam', 'gigi']"
+Ham,"Salam Santun👏👏👏
+DO'A,terindah buat Klrga AaRaffi...
+Sehat selalu Sekeluarga 👐👐👐","['salam', 'santun', 'do', 'a', 'indah', 'klrga', 'aaraffi', 'sehat', 'keluarga']"
+Ham,Ilove gigi,"['ilove', 'gigi']"
+Ham,Beruntung banget si Rafatar terlahir dri orang kalangan atasss ...wekk kalangan bawahh bersyukur ey laahhh 🥺,"['untung', 'banget', 'si', 'rafatar', 'lahir', 'dri', 'orang', 'kalang', 'atasss', 'wekk', 'kalang', 'bawahh', 'syukur', 'ey', 'laahhh']"
+Spam,Mantap mam dng. Kaka,"['mantap', 'mam', 'dng', 'kaka']"
+Ham,Semoga sehat..,"['moga', 'sehat']"
+Ham,Shat bhg sll kak bsama klga,"['shat', 'bhg', 'sll', 'kak', 'bsama', 'klga']"
+Ham,mama gigi yg bohay n cantiikk❤❤❤,"['mama', 'gigi', 'yg', 'bohay', 'n', 'cantiikk']"
+Ham,Masya Allah cakep nya Rafatar 🥰🥰🥰😍😍😍,"['masya', 'allah', 'cakep', 'nya', 'rafatar']"
+Ham,Sehat selalu kel RANS,"['sehat', 'kel', 'rans']"
+Ham,Smga sehat,"['smga', 'sehat']"
+Ham,Ganteng dan soleh,"['ganteng', 'soleh']"
+Ham,Semoga sehat selalu,"['moga', 'sehat']"
+Ham,Ganteng AA Rafatar sehat sllu,"['ganteng', 'aa', 'rafatar', 'sehat', 'sllu']"
+Ham,Keren banget,"['keren', 'banget']"
+Ham,Sama muka ya mirip mamah gigi,"['muka', 'ya', 'mamah', 'gigi']"
+Ham,Mga sehat selalu,"['mga', 'sehat']"
+Ham,Raffatar mirip bngt mm gigi,"['raffatar', 'bngt', 'mm', 'gigi']"
+Spam,Ya Allah,"['ya', 'allah']"
+Ham,Sehat Selalu keluarga Rans..,"['sehat', 'keluarga', 'rans']"
+Spam,Semoga langgeng kake nenek Rafi dan Nagita Amin saya bisa doa in aja nga bisa kasi apa2,"['moga', 'langgeng', 'kake', 'nenek', 'rafi', 'nagita', 'amin', 'doa', 'in', 'aja', 'nga', 'kasi']"
+Spam,Maa syaa allah,"['maa', 'syaa', 'allah']"
+Ham,Semoga sukses selalu ya aamiin 🤲 dan semoga sekeluarga sehat selalu aamiin aamiin ya rabbal alamin 🤲,"['moga', 'sukses', 'ya', 'aamiin', 'moga', 'keluarga', 'sehat', 'aamiin', 'aamiin', 'ya', 'rabbal', 'alamin']"
+Ham,Semoga sukses bosku anaknya,"['moga', 'sukses', 'bos', 'anak']"
+Spam,Salam Dari LMD,"['salam', 'lmd']"
+Ham,Sehat dan bahagia..,"['sehat', 'bahagia']"
+Ham,Assalamualaikum bos semoga sehat dan sokses selalu Aamiiin,"['assalamualaikum', 'bos', 'moga', 'sehat', 'sokses', 'aamiiin']"
+Ham,Sehat selalu ganteng❤,"['sehat', 'ganteng']"
+Spam,Mamah gigi ikut kerja dong 🙏,"['mamah', 'gigi', 'kerja']"
+Ham,sehat selalu,['sehat']
+Ham,Semoga di lanycarkan sagala urusan nana,"['moga', 'lanycarkan', 'sagala', 'urus', 'nana']"
+Ham,Mirip ibunya dia cowok jd ganteng bangat,"['ibu', 'cowok', 'jd', 'ganteng', 'bangat']"
+Ham,cantik dan ganteng 💚,"['cantik', 'ganteng']"
+Spam,Barokallohu fiikum A Rafi sekeluarga,"['barokallohu', 'fiikum', 'a', 'rafi', 'keluarga']"
+Ham,Bunda cantik ade ganteng,"['bunda', 'cantik', 'ade', 'ganteng']"
+Ham,Sehat selalu aa rafathar,"['sehat', 'aa', 'rafathar']"
+Spam,"Pinang terbelah dua,, maksudnya 11 ,,12","['pinang', 'belah', 'maksud']"
+Spam,ABG.. Nya.. Mama gigi.. 💟💟,"['abg', 'nya', 'mama', 'gigi']"
+Ham,Ibuknya cantik anaknya ganteng banget,"['ibuknya', 'cantik', 'anak', 'ganteng', 'banget']"
+Ham,Seat sllu,"['seat', 'sllu']"
+Ham,Sehat selalu,['sehat']
+Ham,Semoga di berikan kesehatan buat keluarga ka gigi raffi ahmad semuanya,"['moga', 'sehat', 'keluarga', 'ka', 'gigi', 'raffi', 'ahmad']"
+Spam,Wau kren,"['wau', 'kren']"
+Ham,Mudah mudahan Rafatarnya menjadi ustadz dan menjadi kebanggaan orang tuanya Amin 🙏,"['mudah', 'mudah', 'rafatarnya', 'ustadz', 'bangga', 'orang', 'tua', 'amin']"
+Ham,Rafatar gigi banget👍👍,"['rafatar', 'gigi', 'banget']"
+Spam,Tu la pasal kau ade selamat,"['tu', 'la', 'pasal', 'kau', 'ade', 'selamat']"
+Ham,"Putranya ganteng, mamahnya cantiik 😍","['putra', 'ganteng', 'mamah', 'cantiik']"
+Ham,MaasyaaAllooh Gantengnya Putra Mbak Gigi,"['maasyaaallooh', 'ganteng', 'putra', 'mbak', 'gigi']"
+Ham,Sehat selalu ya sayang,"['sehat', 'ya', 'sayang']"
+Ham,Keren,['keren']
+Ham,MANTAP 👍,['mantap']
+Spam,Mbak nagita main ke malang dong.,"['mbak', 'nagita', 'main', 'malang']"
+Spam,Woooooowwwww....mome kok sama Rafathar cipung...mn enggak kliatan.moga cipung sehat selalu dan cepat gede.,"['woooooo', 'rafathar', 'cipung', 'mn', 'enggak', 'kliatan', 'moga', 'cipung', 'sehat', 'cepat', 'gede']"
+Ham,Seyum membawa berkah,"['seyum', 'bawa', 'berkah']"
+Ham,Subhanallah cantik dan ganteng sehat selalu mama gigi,"['subhanallah', 'cantik', 'ganteng', 'sehat', 'mama', 'gigi']"
+Ham,Semoga sehat slalu dalam lindungan Allah SWT ...,"['moga', 'sehat', 'slalu', 'lindung', 'allah', 'swt']"
+Spam,Dg baik sd yg dan lain aja deh m selamat at,"['dg', 'sd', 'yg', 'aja', 'deh', 'm', 'selamat', 'at']"
+Ham,Bahagia selalu mama gigi n siganteng afatar,"['bahagia', 'mama', 'gigi', 'n', 'siganteng', 'afatar']"
+Ham,Cantiik dan ganteng,"['cantiik', 'ganteng']"
+Ham,"ASALAM MUALAIKUM Wbt...
+Apa kabar bulek Nagita di sana , semoga sehat selalu y sek ,BETAPA bahagia y AFATAR PUNYA IBU YG BAIK YG SAYANG SAMA  SEMUA ANAK ANAK Y ,  YG SELALU ADA MENDAMPING SETIAP AFATAR DI MANA PUN AFATAR BERADA ,  BAHAGIA BUDEH DI SINI MELIHAT Y  AFATAR  SENANG BAHAGIA MELIHAT Y SAMA MAMA  NAGITA  BAHAGIA SEPERTU ITU , SETUM DAN TAWA , RASA BAHAGIA SELALU .. WALAU PUN MAMA NAGITA SELALU SIBUK , TAPI MASIH ADA WAKTU UNTUK ANAK ANAK Y YG  UNTUK BERCANDA BAHAGIA SELALU , AFTAR PUN NAMPAK SENANG DAN BAHAGIA Y...","['asalam', 'mualaikum', 'wbt', 'kabar', 'bulek', 'nagita', 'moga', 'sehat', 'y', 'sek', 'betapa', 'bahagia', 'y', 'afatar', 'yg', 'yg', 'sayang', 'anak', 'anak', 'y', 'yg', 'damping', 'afatar', 'afatar', 'bahagia', 'budeh', 'y', 'afatar', 'senang', 'bahagia', 'y', 'mama', 'nagita', 'bahagia', 'sepertu', 'setum', 'tawa', 'bahagia', 'mama', 'nagita', 'sibuk', 'anak', 'anak', 'y', 'yg', 'canda', 'bahagia', 'aftar', 'nampak', 'senang', 'bahagia', 'y']"
+Ham,Tambah besar tambah ganteng anak sholeh,"['ganteng', 'anak', 'sholeh']"
+Ham,Gigi Rafathar sekluarga selalu dalam lindungan Allah SWT 🤲🤲🤲,"['gigi', 'rafathar', 'sekluarga', 'lindung', 'allah', 'swt']"
+Spam,Kangen udah lma eer sinyalnya gx bisa hadir,"['kangen', 'udah', 'lma', 'eer', 'sinyal', 'gx', 'hadir']"
+Ham,Sehat selalu keluarga Rans,"['sehat', 'keluarga', 'rans']"
+Ham,Makin gede makin ganteng aja ni si anak,"['gede', 'ganteng', 'aja', 'ni', 'si', 'anak']"
+Spam,pagii..,['pagi']
+Ham,Dri dlu smpe skrng pngn bngt ktmu sama kak gigi sama kak rafi,"['dri', 'dlu', 'smpe', 'skrng', 'pngn', 'bngt', 'ktmu', 'kak', 'gigi', 'kak', 'rafi']"
+Ham,my idaman keluarga..,"['my', 'idam', 'keluarga']"
+Spam,Mama gigi boleh mintak HP iphone,"['mama', 'gigi', 'mintak', 'hp', 'iphone']"
+Ham,Rafatar ...cuakeeep banget.,"['rafatar', 'cuakeeep', 'banget']"
+Ham,Sehat selalu buat kluaga raffi Ahmad,"['sehat', 'kluaga', 'raffi', 'ahmad']"
+Spam,miniatur mama Gigi🥰🥰,"['miniatur', 'mama', 'gigi']"
+Spam,Keren Cipung,"['keren', 'cipung']"
+Ham,Ganteng yh,"['ganteng', 'yh']"
+Ham,Ganteng aa Rafatar,"['ganteng', 'aa', 'rafatar']"
+Spam,Mba gigi bisa. Ikur kerja ga  🙏🙏🙏🙏,"['mba', 'gigi', 'ikur', 'kerja', 'ga']"
+Ham,AA Rafatar Mirip bintang Korea.,"['aa', 'rafatar', 'bintang', 'korea']"
+Ham,Sehat selalu ya,"['sehat', 'ya']"
+Ham,Alhamdulillaaahhh... Sayang keluarga ya bosku🤲🤲🤲🙏,"['alhamdulillaaahhh', 'sayang', 'keluarga', 'ya', 'bos']"
+Ham,Tuhan memberkati,"['tuhan', 'kati']"
+Ham,"Hi...aa Rafatar ganteng..sll sehat ya..bahagia bersama papa, mama dan si gemesin Rayyanza❤","['hi', 'aa', 'rafatar', 'ganteng', 'sll', 'sehat', 'ya', 'bahagia', 'papa', 'mama', 'si', 'gemesin', 'rayyanza']"
+Ham,Hallo ganteng,"['hallo', 'ganteng']"
+Ham,Mantaaaap,['mantaaaap']
+Spam,"Mohon bantuannya rumah atapnya sudah mau roboh dihuni seorang diri ibu"" usia lebih dari 70 tahun. Alamat desa Leuwidingding kecamatan Lemahabang kabupaten Cirebon","['mohon', 'bantu', 'rumah', 'atap', 'roboh', 'huni', 'usia', 'alamat', 'desa', 'leuwidingding', 'camat', 'lemahabang', 'kabupaten', 'cirebon']"
+Ham,Masya Allah cakep banget 👍😘😘,"['masya', 'allah', 'cakep', 'banget']"
+Spam,Info loker apa aj donk papa raffi😁😁😁,"['info', 'loker', 'aj', 'donk', 'papa', 'raffi']"
+Spam,Comel 🤗,['comel']
+Spam,Biar silahturahmi tidak trputus kirim dana dulu seratus,"['biar', 'silahturahmi', 'tidak', 'trputus', 'kirim', 'dana', 'ratus']"
+Ham,Tidak terasa Rafatar sudah besar.jadi anak sholeh yaa,"['tidak', 'rafatar', 'anak', 'sholeh', 'yaa']"
+Ham,Semuga seht selalu ia,"['semuga', 'seht']"
+Ham,Cakep anaknya kak Nagita,"['cakep', 'anak', 'kak', 'nagita']"
+Ham,GBU 🥰😍👍,['gbu']
+Spam,Kk blh mintak we a nya,"['kk', 'blh', 'mintak', 'we', 'a', 'nya']"
+Spam,Joss,['joss']
+Spam,assalamualaikum Kaka  😊😊🙏🙏🥰,"['assalamualaikum', 'kaka']"
+Ham,"Masya Allah Rafatar udh gede tambah ganteng, mama gigi juga tambah cantik. 
+Semoga jadi anak yg sholeh y.","['masya', 'allah', 'rafatar', 'udh', 'gede', 'ganteng', 'mama', 'gigi', 'cantik', 'moga', 'anak', 'yg', 'sholeh', 'y']"
+Ham,"Mmh nya,cantik anaknya ganteng.....sehat slalu ❤️","['mmh', 'nya', 'cantik', 'anak', 'ganteng', 'sehat', 'slalu']"
+Ham,GANTENG BANGET,"['ganteng', 'banget']"
+Ham,Semoga sehat slalu,"['moga', 'sehat', 'slalu']"
+Spam,A rafi,"['a', 'rafi']"
+Spam,Mba gigi bisa ikut kerja ga ? 🙏🙏🙏,"['mba', 'gigi', 'kerja', 'ga']"
+Ham,Mirip Bunda gigi rafathar🥰🥰🤭,"['bunda', 'gigi', 'rafathar']"
+Ham,C rafatar makin gd mkinn ganteng nagitaa ibu yg baikk sll ceriaa,"['c', 'rafatar', 'gd', 'mkinn', 'ganteng', 'nagitaa', 'yg', 'baikk', 'sll', 'ceriaa']"
+Ham,Keren..mm cantikku dan aa rafatar yg gammara...tersenyumlah👍👍🙏🙏😍😍,"['keren', 'mm', 'cantik', 'aa', 'rafatar', 'yg', 'gammara', 'senyum']"
+Ham,Cantik....,['cantik']
+Ham,Itu nama nya Gigi,"['nama', 'nya', 'gigi']"
+Ham,Sehat selalu kk,"['sehat', 'kk']"
+Ham,"Mirip, bnget Ama bunda ya dedek rafatar","['bnget', 'ama', 'bunda', 'ya', 'dedek', 'rafatar']"
+Ham,kompak banget mb gita and anaknya lucu deh,"['kompak', 'banget', 'mb', 'gita', 'and', 'anak', 'lucu', 'deh']"
+Ham,Ganteng nya lah anak nya bunda rapatar smg dalam lindungan nya Allah ya bun,"['ganteng', 'nya', 'anak', 'nya', 'bunda', 'rapatar', 'smg', 'lindung', 'nya', 'allah', 'ya', 'bun']"
+Ham,Masya Alloh.. mamah nya Cantik anak nya Ganteng Sehat Slalu Oke 👍👍🤲🤲🙏🏻🙏🏻♥♥,"['masya', 'alloh', 'mamah', 'nya', 'cantik', 'anak', 'nya', 'ganteng', 'sehat', 'slalu', 'oke']"
+Ham,"Sehat selalu ,gantenggg","['sehat', 'gantenggg']"
+Ham,Sehat selalu dan sukses selalu😍,"['sehat', 'sukses']"
+Ham,Sehat sehat terus ya kalian.. Dan teruslah membagi kebahagiaan orang lain,"['sehat', 'sehat', 'ya', 'terus', 'bagi', 'bahagia', 'orang']"
+Ham,Sehat selalu amin,"['sehat', 'amin']"
+Ham,Salaam sehat sllu ya AA,"['salaam', 'sehat', 'sllu', 'ya', 'aa']"
+Ham,Semoga sehal selalu,"['moga', 'hal']"
+Ham,si ganteng dan cantik mama gigi sehat2 selalu,"['si', 'ganteng', 'cantik', 'mama', 'gigi', 'sehat']"
+Ham,"Selamat malam Mbak Gigi and dede Raffatar yg ganteng, salam sehat selalu","['selamat', 'malam', 'mbak', 'gigi', 'and', 'dede', 'raffatar', 'yg', 'ganteng', 'salam', 'sehat']"
+Ham,Sehat Selalu mbak beserta kluarga nya....Aamin,"['sehat', 'mbak', 'serta', 'kluarga', 'nya', 'aamin']"
+Ham,Anak ganteng,"['anak', 'ganteng']"
+Ham,Sempurna 💯,['sempurna']
+Ham,"Sehat selalu ,sukses dan Semoga ada rezeki buat warga grobogan","['sehat', 'sukses', 'moga', 'rezeki', 'warga', 'grobogan']"
+Ham,"Wah mukaya sama ma2 ya ? Udah besar ,Rafatar ganteng ,,","['mukaya', 'ma', 'ya', 'udah', 'rafatar', 'ganteng']"
+Ham,Wah bahagia 😊 kali,"['bahagia', 'kali']"
+Ham,Semoga sehat sll sekeluarga mama gigi yg cantik ta.,"['moga', 'sehat', 'sll', 'keluarga', 'mama', 'gigi', 'yg', 'cantik', 'ta']"
+Spam,Kpn ke J bound lg nih bro...?😇👍👌,"['kpn', 'j', 'bound', 'lg', 'nih', 'bro']"
+Ham,Semoga sehat selalu ya aamiin aamiin ya rabbal alamin 🤲,"['moga', 'sehat', 'ya', 'aamiin', 'aamiin', 'ya', 'rabbal', 'alamin']"
+Ham,Bahagia selalu keluarga ny kak gigi_aa raffi Aamiin Yaa Mujib.. 🤲🤲,"['bahagia', 'keluarga', 'ny', 'kak', 'gigi', 'aa', 'raffi', 'aamiin', 'yaa', 'mujib']"
+Spam,keluarga idham sepupu acara besok nikahan,"['keluarga', 'idham', 'sepupu', 'acara', 'besok', 'nikah']"
+Ham,Mama gigi 😍❤️,"['mama', 'gigi']"
+Ham,ganteng pisan aax 😍,"['ganteng', 'pis', 'aax']"
+Ham,sehat selalu amin 🤲,"['sehat', 'amin']"
+Spam,Ok,['ok']
+Ham,Semoga sehat selalu ya,"['moga', 'sehat', 'ya']"
+Ham,Wow  keren,"['wow', 'keren']"
+Ham,Gantang sekali anak ya makgigi,"['gantang', 'anak', 'ya', 'makgigi']"
+Ham,Dua2 nya  ngegemesin...sehat2 ya semuanya,"['nya', 'ngegemesin', 'sehat', 'ya']"
+Spam,Bismilah 1jta,"['bismilah', 'jta']"
+Ham,Rafatar udah gede dan ganteng🥰,"['rafatar', 'udah', 'gede', 'ganteng']"
+Ham,Rafatar enggak kerasa udah besar... sekarang 5~6 th an yah🙏,"['rafatar', 'enggak', 'rasa', 'udah', 'th', 'an', 'yah']"
+Spam,Momgi,['momgi']
+Ham,Keren,['keren']
+Ham,Mantap ganteung bangeut anak nyonya,"['mantap', 'ganteung', 'bangeut', 'anak', 'nyonya']"
+Spam,Aa bos,"['aa', 'bos']"
+Ham,Kok gantengan Rafatar yah sm mba Gigi hehehe😭,"['ganteng', 'rafatar', 'yah', 'sm', 'mba', 'gigi', 'hehehe']"
+Ham,Rafatar muka sm mamanya,"['rafatar', 'muka', 'sm', 'mama']"
+Spam,"And my moms
+❤❤❤❤❤❤","['and', 'my', 'moms']"
+Ham,Rafathar 🔥,['rafathar']
+Ham,"Sehatyh ganteng, 🤲🥰🙏💪","['sehatyh', 'ganteng']"
+Ham,semoga sekelurga sehat sehat selalu,"['moga', 'sekelurga', 'sehat', 'sehat']"
+Ham,Salam...😊👏👏👏,['salam']
+Ham,Ade rafatar sm buk rafi,"['ade', 'rafatar', 'sm', 'buk', 'rafi']"
+Ham,Anak sholehnya mama gigi dan papa Raffi...Aa Rafathar sehat2 terus ya buat Aa Rafathar,"['anak', 'sholehnya', 'mama', 'gigi', 'papa', 'raffi', 'aa', 'rafathar', 'sehat', 'ya', 'aa', 'rafathar']"
+Ham,Kaya kakak beradik,"['kaya', 'kakak', 'adik']"
+Spam,Assalamualaikum wr wb,"['assalamualaikum', 'wr', 'wb']"
+Ham,Semoga bahagia dan sehat selalu keluarga mbak gigi. Aamiin.,"['moga', 'bahagia', 'sehat', 'keluarga', 'mbak', 'gigi', 'aamiin']"
+Ham,Cantik,['cantik']
+Ham,Semngt bos,"['semngt', 'bos']"
+Ham,Sie Cantiq & Ganteng Rafatar🥰🥰,"['sie', 'cantiq', 'ganteng', 'rafatar']"
+Spam,Sempurna cinta,"['sempurna', 'cinta']"
+Ham,Cmmh nya cntik Anae ganteng,"['cmmh', 'nya', 'cntik', 'anae', 'ganteng']"
+Ham,Bahagianya sht sll y .,"['bahagia', 'sht', 'sll', 'y']"
+Ham,mantap bagus,"['mantap', 'bagus']"
+Ham,Mantap,['mantap']
+Ham,Gigi nya,"['gigi', 'nya']"
+Ham,Ganteng nya😘,"['ganteng', 'nya']"
+Ham,Sehat selalu semoga diberi umur panjang amin,"['sehat', 'moga', 'umur', 'amin']"
+Ham,Anak bujang,"['anak', 'bujang']"
+Ham,Semuga srhat selalu ya,"['semuga', 'srhat', 'ya']"
+Ham,Ganteng,['ganteng']
+Ham,Semoga sht sllu,"['moga', 'sht', 'sllu']"
+Ham,Ganteng nya,"['ganteng', 'nya']"
+Ham,"Seha"" selalu",['seha']
+Ham,"Waduh kayak kakak adik, mamanya cantik banget","['kayak', 'kakak', 'adik', 'mama', 'cantik', 'banget']"
+Spam,Hdr,['hdr']
+Ham,Semoga se llu sehat ke luar ga Andara,"['moga', 'llu', 'sehat', 'ga', 'andara']"
+Ham,"Aa memang ganteng,,,🥰🥰🥰","['aa', 'ganteng']"
+Ham,Aa rafatar ganteng masa Allah..,"['aa', 'rafatar', 'ganteng', 'allah']"
+Spam,Gento Chanchann,"['gento', 'chanchann']"
+Ham,Kembaaarrr 😂,['kembaaarrr']
+Ham,Rafatar guanteng buanget keren.👍👍👍👍👍,"['rafatar', 'guanteng', 'buanget', 'keren']"
+Spam,"Loveeee youuuu are
+😍😍😍😍","['loveeee', 'youuuu', 'are']"
+Ham,Semoga kompak sllu ..💑,"['moga', 'kompak', 'sllu']"
+Spam,Hlo mbak gigi  aaak tu. Gembira skali mau d aja kemana,"['hlo', 'mbak', 'gigi', 'aaak', 'tu', 'gembira', 'skali', 'd', 'aja', 'mana']"
+Ham,Ihh ganteng kaya bunda nya 🥰🥰,"['ihh', 'ganteng', 'kaya', 'bunda', 'nya']"
+Spam,kasep ganteng,"['kasep', 'ganteng']"
+Ham,Cantik SM ganteng mat malam mba gigi,"['cantik', 'sm', 'ganteng', 'mat', 'malam', 'mba', 'gigi']"
+Spam,Veity Mantik dukung vote keluarga rans di SCTV ya lewat apk vidio sama bantu like komen di Ig sctv idham fitriani,"['veity', 'mantik', 'dukung', 'vote', 'keluarga', 'rans', 'sctv', 'ya', 'apk', 'vidio', 'bantu', 'like', 'komen', 'ig', 'sctv', 'idham', 'fitriani']"
+Spam,Dsnh,['dsnh']
+Ham,Slmt sore smua nya,"['slmt', 'sore', 'smua', 'nya']"
+Ham,Semoga hidup barokah sehat bahagia,"['moga', 'hidup', 'barokah', 'sehat', 'bahagia']"
+Ham,Mantap,['mantap']
+Spam,"Asalammualikum,saya mau minta saran saya abis kehilangan anak laki saya dia baru saja meninggal,Gimana caranya saya bisa kembali ceria","['asalammualikum', 'saran', 'abis', 'hilang', 'anak', 'laki', 'tinggal', 'gimana', 'ceria']"
+Ham,Masya'Allah ganteng sekali AA Rafatar,"['masya', 'allah', 'ganteng', 'aa', 'rafatar']"
+Ham,Sehat selalu,['sehat']
+Ham,semoga sehat selalu aamiin 🤲🤲🙏🙏🤲,"['moga', 'sehat', 'aamiin']"
+Ham,Ganteng banget anak nya nih,"['ganteng', 'banget', 'anak', 'nya', 'nih']"
+Ham,Sehat selalu,['sehat']
+Ham,Imut,['imut']
+Spam,"Saya suka menonton acara For Your Pagi ( FYP ) tapi boleh juga lah mendukung saya ya 
+Assalamu'alaikum,  Mohon maaf dan Mohon izin wabil Khusus Aa Raffi dan Gigi serta kelaurga tercinta yang berbahagia tentunya di muliakan Tuhan Allah SWT. Alhamdulillah ini data DCS saya sebagai Calon Legislatif  DPR RI dapil II DKI Jakarta. Jakarta Pusat, Jakarta Selatan dan Luar Negeri. Mohon di Do'akan dan di dukung syukur didukung yang masih berdomisili di dapil tersebut agar dapat menjadi Anggota DPR RI yang tentunya menjadi aset kita bersama.  dapat membantu satu sama lainnya. Trimakasih atas partisifasi dan bantuannya. Semoga Allah Memberkahi kita semua. Wassalamu'alaikum","['suka', 'tonton', 'acara', 'for', 'your', 'pagi', 'fyp', 'dukung', 'ya', 'assalamu', 'alaikum', 'mohon', 'maaf', 'mohon', 'izin', 'wabil', 'khusus', 'aa', 'raffi', 'gigi', 'kelaurga', 'cinta', 'bahagia', 'mulia', 'tuhan', 'allah', 'swt', 'alhamdulillah', 'data', 'dcs', 'calon', 'legislatif', 'dpr', 'ri', 'dapil', 'ii', 'dki', 'jakarta', 'jakarta', 'pusat', 'jakarta', 'selatan', 'negeri', 'mohon', 'do', 'dukung', 'syukur', 'dukung', 'domisili', 'dapil', 'anggota', 'dpr', 'ri', 'aset', 'bantu', 'trimakasih', 'partisifasi', 'bantu', 'moga', 'allah', 'kah', 'wassalamu', 'alaikum']"
+Ham,aa dan mamah keren,"['aa', 'mamah', 'keren']"
+Spam,Hai  cinta Laura 🙏,"['hai', 'cinta', 'laura']"
+Ham,Ganteng,['ganteng']
+Ham,Semoga sehat semua ya om Raffi sama Tante gigi sehat selalu,"['moga', 'sehat', 'ya', 'om', 'raffi', 'tante', 'gigi', 'sehat']"
+Spam,assalamualaikum Mbak Nagita.. mohon maaf saya kemaren ikutan tebak tebakan katanya saya dapet hadiah.. terus saya udah isi data nya.udah bayar administrasi nya.. terus kata admin nya udah di kirim..pas saya cek gak ada.. terus sekarang no telpon nya gak aktif.. saya di bohongin,"['assalamualaikum', 'mbak', 'nagita', 'mohon', 'maaf', 'kemaren', 'ikut', 'tebak', 'tebak', 'dapet', 'hadiah', 'udah', 'isi', 'data', 'nya', 'udah', 'bayar', 'administrasi', 'nya', 'admin', 'nya', 'udah', 'kirim', 'pas', 'cek', 'gak', 'no', 'telpon', 'nya', 'gak', 'aktif', 'bohongin']"
+Ham,lucuuu,['lucuuu']
+Ham,Sehat slalu buat kluarga bos Raffi Ahmad,"['sehat', 'slalu', 'kluarga', 'bos', 'raffi', 'ahmad']"
+Ham,Foto yg bagus. Ibu dan anak kompak. Rans jaya terus.,"['foto', 'yg', 'bagus', 'anak', 'kompak', 'rans', 'jaya']"
+Ham,"assalamu alaikum
+salam kenal aku dari cianjur","['assalamu', 'alaikum', 'salam', 'kenal', 'cianjur']"
+Spam,Boss nukar mobil lamborjini,"['boss', 'nukar', 'mobil', 'lamborjini']"
+Spam,Nyonya Rafi yungguyu terus,"['nyonya', 'rafi', 'yungguyu']"
+Spam,Gooddd,['gooddd']
+Spam,Hhhhhhhhhhhh,['hhhhhhhhhhhh']
+Ham,Cantik,['cantik']
+Ham,"Cantik mama gigi,,","['cantik', 'mama', 'gigi']"
+Spam,Ada loker nggak bu,"['loker', 'nggak', 'bu']"
+Spam,Ijin bos mau nawarin tanah di subang Jawa Barat bos barangkali aja mau investasi di subang bos bisa inbok,"['ijin', 'bos', 'nawarin', 'tanah', 'subang', 'jawa', 'barat', 'bos', 'barangkali', 'aja', 'investasi', 'subang', 'bos', 'inbok']"
+Ham,Si ganteng Rafathar dan MB Gigi yg cantik sehat selalu ❤️👍,"['si', 'ganteng', 'rafathar', 'mb', 'gigi', 'yg', 'cantik', 'sehat']"
+Ham,*KEREN*,['keren']
+Ham,Semoga sehat selalu 💙,"['moga', 'sehat']"
+Spam,Kasbon bos,"['kasbon', 'bos']"
+Ham,Mantap ❤️❤️❤️❤️❤️,['mantap']
+Ham,SHT sllu mbbk gigi..,"['sht', 'sllu', 'mbbk', 'gigi']"
+Ham,Semoga kalian s keluarga d berikan ksehatan dan umur yg panjang Aamiin Yarabbal A'lamin....,"['moga', 's', 'keluarga', 'd', 'ksehatan', 'umur', 'yg', 'aamiin', 'yarabbal', 'a', 'lamin']"
+Ham,Ganteng nya,"['ganteng', 'nya']"
+Ham,Semoga tumbuh Dan Sehat selalu,"['moga', 'tumbuh', 'sehat']"
+Spam,Cipung ke mna Te Di ajak,"['cipung', 'mna', 'te', 'ajak']"
+Ham,"Aslkm slmt mlm
+Bunda gigi dan abang raffatar","['aslkm', 'slmt', 'mlm', 'bunda', 'gigi', 'abang', 'raffatar']"
+Ham,Hello mba gigi Raffi Ahmad 😊,"['hello', 'mba', 'gigi', 'raffi', 'ahmad']"
+Spam,Enak. Y mi,"['enak', 'y', 'mi']"
+Ham,WOOO KREEN😇👍👍👍,"['wooo', 'kreen']"
+Ham,sehat selalu kak nagita,"['sehat', 'kak', 'nagita']"
+Spam,Assalamu'alaikum salam cakung timur hadir salam sehat selalu  sukses selalu pak raffi ahmad,"['assalamu', 'alaikum', 'salam', 'cakung', 'timur', 'hadir', 'salam', 'sehat', 'sukses', 'raffi', 'ahmad']"
+Spam,Halo✋🙂,['halo']
+Spam,Raffi Ahmad ❤️❤️❤️❤️❤️,"['raffi', 'ahmad']"
+Ham,Met malam,"['met', 'malam']"
+Ham,Raffatar makin cakep,"['raffatar', 'cakep']"
+Ham,Rafar udah gede semoga sehat jadi anak yang shaleh berbakti pada kedua orang tua aamiin,"['rafar', 'udah', 'gede', 'moga', 'sehat', 'anak', 'shaleh', 'bakti', 'orang', 'tua', 'aamiin']"
+Spam,Wow,['wow']
+Spam,Hadir moga sehat sekeluarga bos sukses selalu banyak reseki Raffi dan gigi bantu dong aku bos Raffi bayar kontrakan pekerjaan aku cuma tukang parkir tolong kalu bisa ya aku doa kan sukses selalu,"['hadir', 'moga', 'sehat', 'keluarga', 'bos', 'sukses', 'resek', 'raffi', 'gigi', 'bantu', 'bos', 'raffi', 'bayar', 'kontra', 'kerja', 'tukang', 'parkir', 'tolong', 'kalu', 'ya', 'doa', 'sukses']"
+Ham,Keren 👍,['keren']
+Ham,Hasil dari 2 sehati,"['hasil', 'sehat']"
+Spam,Hai Aa Rafatar.. Salam kenal dr Verrel.. aa Raffi Ahmad ini ak Verrel mau ketemu aa Rafatar boleh??????,"['hai', 'aa', 'rafatar', 'salam', 'kenal', 'dr', 'verrel', 'aa', 'raffi', 'ahmad', 'ak', 'verrel', 'ketemu', 'aa', 'rafatar']"
+Spam,Bantu donk ka 😀😀🙏,"['bantu', 'donk', 'ka']"
+Spam,Photobaik,['photobaik']
+Ham,Mantap keren,"['mantap', 'keren']"
+Ham,cakep,['cakep']
+Spam,Alhamdulillah aa Raffi Ahmadd,"['alhamdulillah', 'aa', 'raffi', 'ahmadd']"
+Spam,Yang penting kang rafi di perhatikan jeng,"['kang', 'rafi', 'perhati', 'jeng']"
+Ham,Kakak Raffatar...dah besar niih...pasti dah pinter ngajak Adik Rayyanza main....tuh...mirip Mamah juga ❤❤😍😍👍👍,"['kakak', 'raffatar', 'dah', 'niih', 'dah', 'pinter', 'ngajak', 'adik', 'rayyanza', 'main', 'tuh', 'mamah']"
+Ham,Harmunisnya,['harmunisnya']
+Spam,Tambah lgi baby mbk gigi... Kl bisa baby wanita,"['lgi', 'baby', 'mbk', 'gigi', 'kl', 'baby', 'wanita']"
+Spam,Coba kalau org miskin mana ada yg like,"['coba', 'org', 'miskin', 'yg', 'like']"
+Ham,Love love rafatar,"['love', 'love', 'rafatar']"
+Spam,Sultan sih tapii jangan ngaku sultan kalau gak bisaa ngasih kerjaan orang yg gak ber ijasah,"['sultan', 'sih', 'tapi', 'ngaku', 'sultan', 'gak', 'bisaa', 'ngasih', 'kerja', 'orang', 'yg', 'gak', 'ber', 'ijasah']"
+Ham,Hallo ganteng ❤️,"['hallo', 'ganteng']"
+Ham,Hello kakak,"['hello', 'kakak']"
+Ham,Semoga sehat buat keluarga neng Nagita sama AA Rafi sekeluarga,"['moga', 'sehat', 'keluarga', 'neng', 'nagita', 'aa', 'rafi', 'keluarga']"
+Spam,"Susi
+Semoga.sehat selalu.
+Pada minggu.suka balas","['sus', 'moga', 'sehat', 'minggu', 'suka', 'balas']"
+Ham,Mirip banget ya😍😍,"['banget', 'ya']"
+Ham,Semoga sehat selalu tambah rekzky ya say 🙏,"['moga', 'sehat', 'rekzky', 'ya', 'say']"
+Ham,Puteh² ya 🤍,"['puteh', 'ya']"
+Ham,"Sehat aa panjang umur ya.
+Semoga jadi anak  yang soleh
+Sayang sama orang tua selamanya.","['sehat', 'aa', 'umur', 'ya', 'moga', 'anak', 'soleh', 'sayang', 'orang', 'tua']"
+Spam,Raffi Ahmadd,"['raffi', 'ahmadd']"
+Ham,"Ya Sangat Senang Mem punya AA Sudah Tambah Besar dan Ganteng Selamat ya mem, Salam Sehat Selalu buat Sekeluarga Amiiiin.","['ya', 'senang', 'mem', 'aa', 'ganteng', 'selamat', 'ya', 'mem', 'salam', 'sehat', 'keluarga', 'amiiiin']"
+Spam,Zym2,['zym']
+Spam,Raffi Ahmad,"['raffi', 'ahmad']"
+Ham,Mantap,['mantap']
+Ham,Cantik,['cantik']
+Spam,Assalamualaikum.bos Rafi dan bos mbk nagita.mohon izin.sapa tau ad yg membutuh kan jasa serfis AC nya.bongkar pasang AC.cuci AC dll wa.082183921203.jabodetabek.🙏🙏,"['assalamualaikum', 'bos', 'rafi', 'bos', 'mbk', 'nagita', 'mohon', 'izin', 'sapa', 'tau', 'ad', 'yg', 'butuh', 'jasa', 'serfis', 'ac', 'nya', 'bongkar', 'pasang', 'ac', 'cuci', 'ac', 'dll', 'wa', 'jabodetabek']"
+Spam,Jan cat artists nyeleb,"['jan', 'cat', 'artists', 'nyeleb']"
+Spam,Bantu dong,['bantu']
+Spam,Fatin Sidqia Lubis,"['fatin', 'sidqia', 'lubis']"
+Spam,Madu Pandawa 77,"['madu', 'pandawa']"
+Ham,Semoga sukses selalu dan selalu dlm lindungan Allah SWT Amiiin,"['moga', 'sukses', 'dlm', 'lindung', 'allah', 'swt', 'amiiin']"
+Ham,Masya Allah gnteng dn cntik snyum ny sm2 mnis ny mg sht sllu MB ggi seklwrga,"['masya', 'allah', 'gnteng', 'dn', 'cntik', 'snyum', 'ny', 'sm', 'mnis', 'ny', 'mg', 'sht', 'sllu', 'mb', 'ggi', 'seklwrga']"
+Ham,Aa Rafatar smg sht sll Aamiin Yra,"['aa', 'rafatar', 'smg', 'sht', 'sll', 'aamiin', 'yra']"
+Ham,Pagi sehat bosku semoga selalu dlm lindungan Alloh🤲🤲🤲👍❤️🙏,"['pagi', 'sehat', 'bos', 'moga', 'dlm', 'lindung', 'alloh']"
+Ham,Mantap smga Allah sll memberi kesehatan,"['mantap', 'smga', 'allah', 'sll', 'sehat']"
+Ham,"Semoga keluarga Aa Rafi dan mba gigi slalu sehat dan bahagia, diberi kelancaran Rizqi yg melimpah  halal dan jg berkah Aamiiin","['moga', 'keluarga', 'aa', 'rafi', 'mba', 'gigi', 'slalu', 'sehat', 'bahagia', 'lancar', 'rizqi', 'yg', 'limpah', 'halal', 'jg', 'berkah', 'aamiiin']"
+Ham,Selamat malam mbak GiGi dan Abang Rafathar ? Semoga dalam keadaan sehat selalu dalam lindungan Allah SWT.  Amiin.,"['selamat', 'malam', 'mbak', 'gigi', 'abang', 'rafathar', 'moga', 'sehat', 'lindung', 'allah', 'swt', 'amiin']"
+Ham,Mantap ini mamahnya cantik anaknya hemsem sehat selalu tuhan memberkati 🙏👍🥰🇲🇾🇲🇾💯💯,"['mantap', 'mamah', 'cantik', 'anak', 'hemsem', 'sehat', 'tuhan', 'kati']"
+Ham,sehat selalu amin,"['sehat', 'amin']"
+Ham,Semoga sehat selalu mama gigi,"['moga', 'sehat', 'mama', 'gigi']"
+Ham,😀😀😘😘😘😍😍❤️❤️ ibu dan anak mirip sukses dan sehat selalu amin,"['anak', 'sukses', 'sehat', 'amin']"
+Ham,"Assalamualaikum wr wb
+Seneng banget lihat mmh gigi 
+Aa Rafatar semoga sehat selalu bersama seluruh klwarganya Aamiin","['assalamualaikum', 'wr', 'wb', 'neng', 'banget', 'lihat', 'mmh', 'gigi', 'aa', 'rafatar', 'moga', 'sehat', 'klwarganya', 'aamiin']"
+Ham,Mami cantik Gigi sm Aa Rafatar salam sehat & sukses selalu God Bless You,"['mami', 'cantik', 'gigi', 'sm', 'aa', 'rafatar', 'salam', 'sehat', 'sukses', 'god', 'bless', 'you']"
+Ham,Keluarga sejatra sehat selalu mama gigi,"['keluarga', 'sejatra', 'sehat', 'mama', 'gigi']"
+Ham,Masyaallah 🥰🥰 sehat slalu ya 🤲🤲,"['masyaallah', 'sehat', 'slalu', 'ya']"
+Ham,Semoga sehat slalu Rafatar🙏🙏,"['moga', 'sehat', 'slalu', 'rafatar']"
+Ham,"Mohon do,anya, semoga kita semua dlam lindugan yg kuasa, Amin.🙏","['mohon', 'do', 'anya', 'moga', 'dlam', 'lindugan', 'yg', 'kuasa', 'amin']"
+Ham,Sehat sllu dan jadi kluarga yg sllu berbagi kasih ntuk sesama,"['sehat', 'sllu', 'kluarga', 'yg', 'sllu', 'bagi', 'kasih', 'ntuk']"
+Ham,Rafatar sehat selalu yaa,"['rafatar', 'sehat', 'yaa']"
+Ham,Sehat selalu mama gigi dan kelurganya,"['sehat', 'mama', 'gigi', 'kelurganya']"
+Ham,"Kok siganteng Aa Rafattar sipit ya..., 🥰🥰🥰 semoga sehat selalu. 🤲🤲🤲","['siganteng', 'aa', 'rafattar', 'sipit', 'ya', 'moga', 'sehat']"
+Ham,Sehat selalu ya...❤❤❤❤🙏,"['sehat', 'ya']"
+Ham,Semoga sehat dan tambah sukses 💖,"['moga', 'sehat', 'sukses']"
+Ham,SMG sll sehatt,"['smg', 'sll', 'sehatt']"
+Spam,Sakit stroke bantu kami berobat gk punya biaya amin. Mksh,"['sakit', 'stroke', 'bantu', 'obat', 'gk', 'biaya', 'amin', 'mksh']"
+Ham,bahagia trus mama gigi .....,"['bahagia', 'trus', 'mama', 'gigi']"
+Ham,"Assallamua""llaikm smga rafi dn sklrg mga sllu seht dn sllu ad dlm lindungn allah swt amiin amiin","['assallamua', 'llaikm', 'smga', 'rafi', 'dn', 'sklrg', 'mga', 'sllu', 'seht', 'dn', 'sllu', 'ad', 'dlm', 'lindungn', 'allah', 'swt', 'amiin', 'amiin']"
+Ham,"Semoga kluarga aa Rafi shat  pnjang umur""Amin Allahuma Amin","['moga', 'kluarga', 'aa', 'rafi', 'shat', 'pnjang', 'umur', 'amin', 'allahuma', 'amin']"
+Ham,"Semoga Sehat "" Sukses Selalu Aamiinn Aamiinn Aamiinn 🤲🤲","['moga', 'sehat', 'sukses', 'aamiinn', 'aamiinn', 'aamiinn']"
+Spam,Amin Amin yaroballalamin,"['amin', 'amin', 'yaroballalamin']"
+Spam,Salam sehat dr sy sukses selalu Rafif Alfa Risqi Rafif,"['salam', 'sehat', 'dr', 'sy', 'sukses', 'rafif', 'alfa', 'risqi', 'rafif']"
+Ham,"Halo assalamualaikum mat pagi , ganteng tenan Rafatar semoga sehat selalu buat kalian semua 👍👍👍","['halo', 'assalamualaikum', 'mat', 'pagi', 'ganteng', 'tenan', 'rafatar', 'moga', 'sehat']"
+Ham,semoga selalu bersama buat keluarga kk Rafi Ahmad sukses selalu,"['moga', 'keluarga', 'kk', 'rafi', 'ahmad', 'sukses']"
+Spam,Benar atau hoax,['hoax']
+Ham,segala puji bagi allah swt yang telah menciptakan mu,"['puji', 'allah', 'swt', 'cipta', 'mu']"
+Spam,"A, umur hanyalah angka.
+Bisa mreuunn digaskeun 😉","['a', 'umur', 'angka', 'mreuunn', 'digaskeun']"
+Ham,"Cakep nya AA Rafatar , sehat slu ya Aa dan mamah nya 🥰🥰🥰","['cakep', 'nya', 'aa', 'rafatar', 'sehat', 'slu', 'ya', 'aa', 'mamah', 'nya']"
+Spam,"AMAL SOLEH, RAF..!?","['amal', 'soleh', 'raf']"
+Ham,Jangan lupa senyum bahagia My Boy😁🥰,"['lupa', 'senyum', 'bahagia', 'my', 'boy']"
+Ham,Mama sama anak sama keren nya.  Sehat selalu ya,"['mama', 'anak', 'keren', 'nya', 'sehat', 'ya']"
+Ham,Hai.  Kluarga   sultan  andaraxxsemua   semoga  sehat  panjang. Umurmu  semua. Dandilancarkan  urusanmu  bisnismu. Semua   semua  tambah  berjaya  dunia  akherat  manusia  baeik  tetap  unggul  hidupmu  ygbertambah  bagus  semuanya amin 3,"['hai', 'kluarga', 'sultan', 'andaraxxsemua', 'moga', 'sehat', 'umur', 'dandilancarkan', 'urus', 'bisnis', 'jaya', 'dunia', 'akherat', 'manusia', 'baeik', 'unggul', 'hidup', 'ygbertambah', 'bagus', 'amin']"
+Ham,Semoga mma PP dan adik sehat selalu ya🙏🙏,"['moga', 'mma', 'pp', 'adik', 'sehat', 'ya']"
+Ham,Alhamdulillah berkah sekeluarga 🤲🤲🤲🇲🇨,"['alhamdulillah', 'berkah', 'keluarga']"
+Spam,Dg baik sd yg mau,"['dg', 'sd', 'yg']"
+Spam,untuk Nagita dan👍👍🤗🤗🌼🌾🌻🌟✌🏼,['nagita']
+Ham,"Sehat selalu mba Gita sama a'a💪💪💪
+,","['sehat', 'mba', 'gita', 'a', 'a']"
+Ham,Assalamualaikum semoga kalian diberikan lancar usahanya barokah,"['assalamualaikum', 'moga', 'lancar', 'usaha', 'barokah']"
+Spam,Amin🥰😍😃,['amin']
+Spam,Dg yg lain aja ya,"['dg', 'yg', 'aja', 'ya']"
+Ham,Gantengnya,['ganteng']
+Spam,- keren ..really iiiit ... ... 👍👍👍👍...,"['keren', 'really', 'iiiit']"
+Spam,Karya dari Kantong Asoy,"['karya', 'kantong', 'asoy']"
+Ham,Tante gigi memang cantik,"['tante', 'gigi', 'cantik']"
+Ham,"Asli,. Mirip",['asli']
+Ham,Ini anak gak bisa apa2 .    Alias bodoh dan tolol,"['anak', 'gak', 'alias', 'bodoh', 'tolol']"
+Spam,maoboti😄😄😄,['maoboti']
+Ham,Anak korea 😊,"['anak', 'korea']"
+Spam,Bodku,['bodku']
+Ham,Mirip yachhh🫶,['yachhh']
+Ham,Si tempan,"['si', 'tempan']"
+Spam,shopee.co.id/azqia_caffe,"['shopee', 'co', 'id', 'azqia', 'caffe']"
+Ham,Pagi...ganteng.  ....dah sarapan. Blum??,"['pagi', 'ganteng', 'dah', 'sarap', 'blum']"
+Ham,Semoga sehat selalu Rafatar Malik Ahmad,"['moga', 'sehat', 'rafatar', 'malik', 'ahmad']"
+Ham,Aduh menggemaskan deh dua2nya👍😍,"['aduh', 'gemas', 'deh', 'nya']"
+Ham,Ganteng😊,['ganteng']
+Ham,Mirip banget,['banget']
+Ham,AA Rafatar makin keren en ganteng bgt❤️❤️❤️❤️,"['aa', 'rafatar', 'keren', 'en', 'ganteng', 'bgt']"
+Spam,Ini benar program bosku ya mbak,"['program', 'bos', 'ya', 'mbak']"
+Ham,Wow keren,"['wow', 'keren']"
+Ham,Wow keren,"['wow', 'keren']"
+Spam,Butuh loker kerja donk aa rafi,"['butuh', 'loker', 'kerja', 'donk', 'aa', 'rafi']"
+Ham,Sehat selalu mama gigi dan keluarga,"['sehat', 'mama', 'gigi', 'keluarga']"
+Ham,Ganteng banget,"['ganteng', 'banget']"
+Spam,Punya kaga gitu coba,"['kaga', 'gitu', 'coba']"
+Ham,Mirip mamanya,['mama']
+Spam,Plek,['plek']
+Ham,mantap👍,['mantap']
+Spam,Hendrawan Sigit Armadaa Dzulfian Adriano de Limmaa Anjas Asmaraa Bisma Vndrzz Eno Wibowoo Heigar Raksasaa,"['hendrawan', 'sigit', 'armadaa', 'dzulfian', 'adriano', 'de', 'limmaa', 'anjas', 'asmaraa', 'bisma', 'vndrzz', 'eno', 'wibowoo', 'heigar', 'raksasaa']"
+Ham,ganteng😍,['ganteng']
+Spam,loker donk bos Raffi Ahmad,"['loker', 'donk', 'bos', 'raffi', 'ahmad']"
+Spam,"🇲🇨🇲🇨🇲🇨🇲🇨🇲🇨🇲🇨🇲🇨🇲🇨🇲🇨🇲🇨🇲🇨🇲🇨🇲🇨
+BOBOT BIBIT BEBET yang BERSIH, UNGGUL dan TERBAIK
+
+Salam Indonesia Damai, Sejahtera, Adil dan Beradab dengan Pemimpin yang JUJUR & BERSIH, Amanah & Peduli, berKualitas & berPrestasi
+
+Kami semua berdoa dan sangat berharap.. Semoga Pak Anis Rasyid Baswedan yang akan menjadi Presiden Thn 2024 nanti, beliau adalah CUCU dari Seorang PAHLAWAN INDONESIA🇲🇨
+
+Pak Anis Baswedan orang yang Jujur dan Amanah, Berbudi luhur sopan santun dan rendah hati, ikhlas dan sabar, Pintar dan Cerdas berwawasan luas, Penolong dan peduli merakyat, Berprestasi didalam dan luar Negeri, Merangkul kebersamaan lintas Agama, Perekat kebangsaan dalam kebhinekaan dan cinta NKRI🇲🇨
+
+Pak Anis Baswedan adalah Pemimpin yang BERSIH dan sebagai Teladan CIVIL SOCIETY LEADERSHIP yang ANTI KKN serta menegakkan Hukum dan HAM🇲🇨
+
+Pak Anis Baswedan TIDAK KORUPSI dan tidak terlibat suatu kasus apapun, sehingga nyaris SEMPURNA TANPA CACAT🇲🇨
+
+Pak Anis Baswedan seorang AKADEMISI berjiwa PEJUANG MERAH PUTIH tanpa pamrih untuk menjadikan Indonesia Jaya yang : Damai, sejahtera, adil dan beradab dalam Kebersamaan dan Persatuan NKRI🇲🇨
+
+Pak Anis Baswedan adalah ANUGERAH dari TUHAN YME untuk Indonesia yang sangat luar biasa dan kita butuhkan untuk Memimpin, membangun, mensejahterakan Indonesia dengan Damai Adil dan Beradab dalam kebersamaan demi kedaulatan NKRI dan Pancasila🇲🇨
+
+Bravooo Pak Anis Rasyid Baswedan.. CUCU dari PAHLAWAN NKRI... TIDAK PALSU TIPU² karena jelas Silsilah keturunan dan keluarganya nya, jelas ijazah dan pendidikan nya, jelas guru² dan teman² seperjuangan nya, dan jelas Karier, Record, Prestasi, Kwalitas dan integritas nya.. 
+Pak Anis Baswedan SUDAH TERBUKTI Joooosss LUAR BIASA.......
+Merdekaaaaa🇲🇨💪👍💥🤝🙏🇲🇨
+
+FAKTA :
+# Hanya Pak Anis yang BERSIH, JUJUR dan AMANAH.
+# Hanya Pak Anis yang BOBOT BIBIT BEBET nya unggul dan TERBAIK.
+🙏🤝🙏🤝🙏🤝🙏🤝🙏🤝🙏🤝🙏","['bobot', 'bibit', 'bebet', 'bersih', 'unggul', 'baik', 'salam', 'indonesia', 'damai', 'sejahtera', 'adil', 'adab', 'pimpin', 'jujur', 'bersih', 'amanah', 'peduli', 'kualitas', 'prestasi', 'doa', 'harap', 'moga', 'anis', 'rasyid', 'baswedan', 'presiden', 'thn', 'beliau', 'cucu', 'pahlawan', 'indonesia', 'anis', 'baswedan', 'orang', 'jujur', 'amanah', 'budi', 'luhur', 'sopan', 'santun', 'rendah', 'hati', 'ikhlas', 'sabar', 'pintar', 'cerdas', 'wawas', 'luas', 'tolong', 'peduli', 'rakyat', 'prestasi', 'dalam', 'negeri', 'rangkul', 'sama', 'lintas', 'agama', 'rekat', 'bangsa', 'kebhinekaan', 'cinta', 'nkri', 'anis', 'baswedan', 'pimpin', 'bersih', 'teladan', 'civil', 'society', 'leadership', 'anti', 'kkn', 'tegak', 'hukum', 'ham', 'anis', 'baswedan', 'tidak', 'korupsi', 'tidak', 'libat', 'apa', 'sempurna', 'cacat', 'anis', 'baswedan', 'akademisi', 'jiwa', 'juang', 'merah', 'putih', 'pamrih', 'jadi', 'indonesia', 'jaya', 'damai', 'sejahtera', 'adil', 'adab', 'sama', 'satu', 'nkri', 'anis', 'baswedan', 'anugerah', 'tuhan', 'yme', 'indonesia', 'butuh', 'pimpin', 'bangun', 'sejahtera', 'indonesia', 'damai', 'adil', 'adab', 'sama', 'daulat', 'nkri', 'pancasila', 'bravooo', 'anis', 'rasyid', 'baswedan', 'cucu', 'pahlawan', 'nkri', 'tidak', 'palsu', 'tipu', 'silsilah', 'turun', 'keluarga', 'nya', 'ijazah', 'didik', 'nya', 'guru', 'teman', 'juang', 'nya', 'karier', 'record', 'prestasi', 'kwalitas', 'integritas', 'nya', 'anis', 'baswedan', 'bukti', 'joooosss', 'merdekaaaaa', 'fakta', 'anis', 'bersih', 'jujur', 'amanah', 'anis', 'bobot', 'bibit', 'bebet', 'nya', 'unggul', 'baik']"
+Ham,Gigi menunjukkan gigi bareng rafathar yang unjuk gigi,"['gigi', 'gigi', 'bareng', 'rafathar', 'unjuk', 'gigi']"
+Ham,semoga sehat selalu sekeluarga😍😍😍,"['moga', 'sehat', 'keluarga']"
+Spam,The best ..jangan lupa foolow aq juga giss 😅😅,"['the', 'best', 'lupa', 'foolow', 'aq', 'giss']"
+Spam,Assalamualaikum...adakah disini yang mau berbagi... memberikan Al Qur'an.untu di daerah kami...kalau ada silahkan inbok.untuk di wilayah Banten Serang .padarincang,"['assalamualaikum', 'ada', 'bagi', 'al', 'qur', 'an', 'untu', 'daerah', 'silah', 'inbok', 'wilayah', 'banten', 'serang', 'padarincang']"
+Ham,Semoga sehat selalu. Aamiin...,"['moga', 'sehat', 'aamiin']"
+Ham,Sehat selalu mama gigi dan  bang  Raffi Ahmad 😍😍😍😍😍😍,"['sehat', 'mama', 'gigi', 'bang', 'raffi', 'ahmad']"
+Ham,Semoga sehat selalu di berkati Tuhan,"['moga', 'sehat', 'berkat', 'tuhan']"
+Spam,"Kami sangat berharap bantuan dn dukungan dr bapak dn Ibu, kondisi keperluan bahan Pokok dn keperluan Baby Sudah mulai menipis dn Anak2 5 orng tidak menggunakan Pempres lagi. Kami sangat berharap bantuan dari BPK dn Ibu.
+
+Sekali lagi Terimakasih banyak 🙏🙏🙏🙏
+Wa: 081396399879
+
+Utk Berdonasi bisa Klik' link di bawah /. Bio
+
+https://kitabisa.com/campaign/sedekahuntuk30oranganakyatimpantiasuhan?utm_source=socialsharing_donor_web_null&utm_medium=share_campaign_copas&utm_campaign=share_detail_campaign
+
+Kitabisa 
+Inspiratif 
+galang dana, donasi 
+Open Donasi Bersama (ODB) KITA PEDULI 
+Orangbaik","['harap', 'bantu', 'dn', 'dukung', 'dr', 'dn', 'kondisi', 'perlu', 'bahan', 'pokok', 'dn', 'perlu', 'baby', 'tip', 'dn', 'anak', 'orng', 'tidak', 'pempres', 'harap', 'bantu', 'bpk', 'dn', 'terimakasih', 'wa', 'utk', 'donasi', 'klik', 'link', 'bio', 'kitabisa', 'inspiratif', 'galang', 'dana', 'donasi', 'open', 'donasi', 'odb', 'peduli', 'orangbaik']"
+Spam,https://youtube.com/shorts/pzV0kQe1bng?si=L9pb2bB3ye4SKICA,[]
+Spam,https://www.facebook.com/profile.php?id=100081928548708,[]
+Ham,"Cantik nya , semoga sehat selalu","['cantik', 'nya', 'moga', 'sehat']"
+Spam,"HADIAH MAXWIN :
+Maxwin 1 juta s/d 5 juta = Bonus Tambahan 2 juta
+Maxwin 6 juta s/d 20juta = Bonus Tambahan 5 juta
+Maxwin 40 juta s/d 399 juta = Bonus Tambahan 10 juta
+🏛𝐏𝐑𝐎𝐒𝐄𝐒 𝐃𝐄𝐏𝐎 𝐃𝐀𝐍 𝐖𝐃 𝟑 𝐌𝐄𝐍𝐈𝐓 𝐒𝐄𝐋𝐄𝐒𝐀𝐈!!
+🏧 𝐌𝐢𝐧𝐢𝐦𝐚𝐥 𝐝𝐞𝐩𝐨 𝟏𝟎𝐑𝐛 / 𝐖𝐢𝐭𝐡𝐝𝐫𝐚𝐰 𝟓𝟎𝐫𝐛
+🏧 𝐀𝐋𝐋 𝐁𝐀𝐍𝐊/𝐌𝐁𝐊𝐈𝐍𝐆
+☎️𝐏𝐔𝐋𝐒𝐀  : 𝐓𝐄𝐋𝐊𝐎𝐌𝐒𝐄𝐋 / 𝐗𝐋 ( 𝐓𝐀𝐍𝐏𝐀 𝐏𝐎𝐓𝐎𝐍𝐆𝐀𝐍 𝟏𝟎𝟎% )
+🏛𝐏𝐑𝐎𝐒𝐄𝐒 𝐃𝐄𝐏𝐎 𝐃𝐀𝐍 𝐖𝐃 𝟑 𝐌𝐄𝐍𝐈𝐓 𝐒𝐄𝐋𝐄𝐒𝐀𝐈
+Link Daftar : https://shorturl.at/tuzH4","['hadiah', 'maxwin', 'maxwin', 'juta', 's', 'd', 'juta', 'bonus', 'tambah', 'juta', 'maxwin', 'juta', 's', 'd', 'juta', 'bonus', 'tambah', 'juta', 'maxwin', 'juta', 's', 'd', 'juta', 'bonus', 'tambah', 'juta', 'link', 'daftar']"
+Spam,"Ehh lu itu buron tahu wajib di hukum mati sebab lu tandingan udh berbuat benalu ke suatu aktifitas Islamiyah, ehh jadi fakir ga lu agar yg shaddiq di sisi Allah nyaman berasal dari harta lu semua dan lu fakir. 
+
+Coba abisin duit lu kasih ke fakir agar nyaman dan ga berbuat zalim para penganut Islam","['ehh', 'lu', 'buron', 'wajib', 'hukum', 'mati', 'lu', 'tanding', 'udh', 'buat', 'benalu', 'aktifitas', 'islamiyah', 'ehh', 'fakir', 'ga', 'lu', 'yg', 'shaddiq', 'sisi', 'allah', 'nyaman', 'asal', 'harta', 'lu', 'lu', 'fakir', 'coba', 'abisin', 'duit', 'lu', 'kasih', 'fakir', 'nyaman', 'ga', 'buat', 'zalim', 'anut', 'islam']"
+Spam,"[ SITUS TERPERCAYA & RESMI OFFICIAL ]
+
+Game Tersedia : 
+* SLOT 
+* POKER 
+* TOGEL 
+* TembakIkan
+* Casino
+
+Promo Aktif :
+- Deposit 
+- Garansi Kekalahan
+- Bonus Mingguan
+
+Link Daftar Situs Gacor & Group Claim Bonus Dibawah ini : 
+https://heylink.me/bigklik.tech/
+
+#bigklik #freebet #situsgacor #maxwin #dirgahayuindonesia #agustus #slotmaxwin #indonesia #bigklikgacor","['situs', 'percaya', 'resmi', 'official', 'game', 'sedia', 'slot', 'poker', 'togel', 'tembakikan', 'casino', 'promo', 'aktif', 'deposit', 'garansi', 'kalah', 'bonus', 'minggu', 'link', 'daftar', 'situs', 'gacor', 'group', 'claim', 'bonus', 'bawah', 'bigklik', 'freebet', 'situsgacor', 'maxwin', 'dirgahayuindonesia', 'agustus', 'slotmaxwin', 'indonesia', 'bigklikgacor']"
+Spam,"NENG4D BO YANG RAMAI DI INCAR GACOR,DAN SEDANG VIRALNYA NIKMATI BERBAGAI EVENT MENARIK DARI KAMI
+COBA BERMAIN DENGAN NENG4D JAMIN 100% JP, BURUAN JANGAN SAMPAI KELEWATAN 
+------------------------------------------------------------------------
+
+🔥🔥🔥 𝗗𝗘𝗣𝗢𝗦𝗜𝗧 𝗣𝗨𝗟𝗦𝗔 𝗧𝗔𝗡𝗣𝗔 𝗣𝗢𝗧𝗢𝗡𝗚𝗔𝗡 🔥🔥🔥
+🔥 MIN DEPOSIT 1.000
+🔥 MIN WITHDRAW 20.000
+🔥 BONUS DEPOSIT HARIAN 10%
+🔥 BONUS CASHBACK MINGGUAN UP TO 25%
+🔥 BONUS ROLLINGAN (HADIAH UTAMA TOYOTA ALPHARD)
+🔥 EVENT DAN PROMO MENARIK LAINNYA
+🔥 EVENT LUCKYWHEEL (HADIAH UTAMA AVANZA NEW & IPHONE 14PROMAX)
+✅ PELAYANAN TERBAIK SEASIA
+
+✅ BERLAKU UNTUK SEMUA MEMBER 
+✅ DEPOSIT VIA DANA, OVO, GOPAY, LINKAJA 
+==========================================
+
+TERSEDIA PERMAINAN TERGACOR NO SETINGAN
+- TOGEL
+- SLOT GAMES (TERBAIK)
+- CASINO LIVE
+- TEMBAK IKAN
+- SPORTS BOOK SABA
+- SABUNG AYAM WS168
+
+info lebih alengkap bisa hubungi WA kami
+
+WA : +6281264828511
+
+KETIK LINK KAMI : https://neng4d,day
+(ubah tanda koma jadi tanda titik)
+
+❤️ 𝗛𝗔𝗡𝗬𝗔 neng4d � 𝗬𝗔𝗡𝗚 𝗠𝗘𝗡𝗚𝗘𝗥𝗧𝗜  𝗞𝗘𝗕𝗨𝗧𝗨𝗛𝗔𝗡 𝗠𝗘𝗠𝗕𝗘𝗥𝗡𝗬𝗔.
+𝗥𝗔𝗦𝗔𝗞𝗔𝗡 𝗞𝗘𝗡𝗬𝗔𝗠𝗔𝗡𝗔𝗡 𝗕𝗘𝗥𝗦𝗔𝗠𝗔 𝗞𝗔𝗠𝗜 neng4dNENG4D BO YANG RAMAI DI INCAR GACOR,DAN SEDANG VIRALNYA NIKMATI BERBAGAI EVENT MENARIK DARI KAMI
+COBA BERMAIN DENGAN NENG4D JAMIN 100% JP, BURUAN JANGAN SAMPAI KELEWATANNENG4D BO YANG RAMAI DI INCAR GACOR,DAN SEDANG VIRALNYA NIKMATI BERBAGAI EVENT MENARIK DARI KAMI
+NENG4D BO YANG RAMAI DI INCAR GACOR,DAN SEDANG VIRALNYA NIKMATI BERBAGAI EVENT MENARIK DARI KAMI
+COBA BERMAIN DENGAN NENG4D JAMIN 100% JP, BURUAN JANGAN SAMPAI KELEWATAN","['neng', 'd', 'bo', 'ramai', 'incar', 'gacor', 'viralnya', 'nikmat', 'event', 'tarik', 'coba', 'main', 'neng', 'd', 'jamin', 'jp', 'buru', 'lewat', 'min', 'deposit', 'min', 'withdraw', 'bonus', 'deposit', 'hari', 'bonus', 'cashback', 'minggu', 'up', 'to', 'bonus', 'rollingan', 'hadiah', 'utama', 'toyota', 'alphard', 'event', 'promo', 'tarik', 'event', 'luckywheel', 'hadiah', 'utama', 'avanza', 'new', 'iphone', 'promax', 'layan', 'baik', 'seasia', 'laku', 'member', 'deposit', 'via', 'dana', 'ovo', 'gopay', 'linkaja', 'sedia', 'main', 'tergacor', 'no', 'ting', 'togel', 'slot', 'games', 'baik', 'casino', 'live', 'tembak', 'ikan', 'sports', 'book', 'saba', 'sabung', 'ayam', 'ws', 'info', 'alengkap', 'hubung', 'wa', 'wa', 'ketik', 'link', 'ubah', 'tanda', 'koma', 'tanda', 'titik', 'neng', 'd', 'neng', 'dneng', 'd', 'bo', 'ramai', 'incar', 'gacor', 'viralnya', 'nikmat', 'event', 'tarik', 'coba', 'main', 'neng', 'd', 'jamin', 'jp', 'buru', 'kelewatanneng', 'd', 'bo', 'ramai', 'incar', 'gacor', 'viralnya', 'nikmat', 'event', 'tarik', 'neng', 'd', 'bo', 'ramai', 'incar', 'gacor', 'viralnya', 'nikmat', 'event', 'tarik', 'coba', 'main', 'neng', 'd', 'jamin', 'jp', 'buru', 'lewat']"
+Ham,Wow 󱢏,['wow']
+Spam,"🔥🔥🔥🔥 SEDANG HITS & VIRAL!!! 🔥🔥🔥🔥
+🔥🔥🔥 HADIAH TOGEL 100% TERBESAR 🔥🔥🔥
+🔥🔥 𝗗𝗘𝗣𝗢𝗦𝗜𝗧 𝗣𝗨𝗟𝗦𝗔 𝗧𝗔𝗡𝗣𝗔 𝗣𝗢𝗧𝗢𝗡𝗚𝗔𝗡 🔥🔥
+🔥 MINIMAL DEPOSIT HANYA Rp 1.000
+🔥 BONUS NEW MEMBER 20% 
+🔥 BONUS DEPOSIT HARIAN 10%
+🔥 BONUS CASHBACK MINGGUAN UP TO 15%
+🔥 BONUS ROLLINGAN ( HADIAH UTAMA TOYOTA ALPHARD)
+🔥 EVENT DAN PROMO MENARIK LAINNYA
+✅ PELAYANAN TERBAIK SEASIA
+✅ BERLAKU UNTUK SEMUA MEMBER 
+✅ DEPOSIT VIA DANA, OVO, GOPAY, LINKAJA 
+==========================================
+
+TERSEDIA PERMAINAN TERGACOR NO SETINGAN
+- TOGEL
+- SLOT GAMES (TERBAIK)
+- CASINO LIVE
+- TEMBAK IKAN
+- SPORTS BOOK SABA
+
+info lebih lengkap bisa hubungi WA kami
+𝐖𝐀 :  +6287848723657
+
+❤️ 𝗛𝗔𝗡𝗬𝗔 SAWER4D  𝗬𝗔𝗡𝗚 𝗠𝗘𝗡𝗚𝗘𝗥𝗧𝗜  𝗞𝗘𝗕𝗨𝗧𝗨𝗛𝗔𝗡 𝗠𝗘𝗠𝗕𝗘𝗥𝗡𝗬𝗔.
+𝗥𝗔𝗦𝗔𝗞𝗔𝗡 𝗞𝗘𝗡𝗬𝗔𝗠𝗔𝗡𝗔𝗡 𝗕𝗘𝗥𝗦𝗔𝗠𝗔 𝗞𝗔𝗠𝗜 SAWER4D ❤️
+
+UNTUK AKSES LEBIH MUDAH LANSUNG KETIK  SAWER4D DI GOOGLE BOSKU","['hits', 'viral', 'hadiah', 'togel', 'besar', 'minimal', 'deposit', 'rp', 'bonus', 'new', 'member', 'bonus', 'deposit', 'hari', 'bonus', 'cashback', 'minggu', 'up', 'to', 'bonus', 'rollingan', 'hadiah', 'utama', 'toyota', 'alphard', 'event', 'promo', 'tarik', 'layan', 'baik', 'seasia', 'laku', 'member', 'deposit', 'via', 'dana', 'ovo', 'gopay', 'linkaja', 'sedia', 'main', 'tergacor', 'no', 'ting', 'togel', 'slot', 'games', 'baik', 'casino', 'live', 'tembak', 'ikan', 'sports', 'book', 'saba', 'info', 'lengkap', 'hubung', 'wa', 'sawer', 'd', 'sawer', 'd', 'akses', 'mudah', 'lansung', 'ketik', 'sawer', 'd', 'google', 'bos']"
+Spam,Saling support,['support']
+Spam,"LAWU4DINFO SLOT GACOR ! MAHJONG WAYS2 96%, STARLIGHT PRINCESS RTP UP TO 95% , BONUS DEPOSIT KHUSUS NEW MEMBER SLOT 50%, DEPO PULSA TANPA POTONGAN !LAWU : Link : https://s.id/1PLrd
+https://wa.me/85514249354","['lawu', 'dinfo', 'slot', 'gacor', 'mahjong', 'ways', 'starlight', 'princess', 'rtp', 'up', 'to', 'bonus', 'deposit', 'khusus', 'new', 'member', 'slot', 'depo', 'pulsa', 'potong', 'lawu', 'link']"
+Spam,"Ini novel yang luar biasa untukmu:""SISTEM GILA MUSIK"" 🌟🌟🌟🌟🌟 Ayo, periksa sekarang.
+https://www.fizzo.org/page/share/?bid=7755375237247532286&isNew=1&from=copy_link&group=2&d=5807416864786839293&u=7964083544294929662&language=id®ion=ID","['novel', 'untuk', 'sistem', 'gila', 'musik', 'ayo', 'periksa']"
+Spam,"Permisi ka saya ingin menawarkan bulu mata palsu dengan berbagai model:
+👉Natural
+👉3d
+👉tiplas
+👉dublelash
+Melayani grosir dan eceran, pengiriman dari Purbalingga. Bayar setelah barang sampai (COD)","['permisi', 'ka', 'tawar', 'bulu', 'mata', 'palsu', 'model', 'natural', 'd', 'tiplas', 'dublelash', 'layan', 'grosir', 'ecer', 'kirim', 'purbalingga', 'bayar', 'barang', 'cod']"
+Spam,Join live Gamis murahnya bun ada promonya https://vt.tiktok.com/ZSLWK9dj1,"['join', 'live', 'gamis', 'murah', 'bun', 'promonya']"
+Spam,"Yuk yang mau EDIT FOTO VIDEO & DESAIN silahkan❤
+wa.me/6281235067836","['yuk', 'edit', 'foto', 'video', 'desain', 'silah', 'wa', 'me']"
+Spam,Sip,['sip']
+Spam,Awesome👍,['awesome']
+Spam,Goid nice👍🤲🏿,"['goid', 'nice']"
+Spam,Kalau tidak tgl soreh itu aku suruh orang antar aku masuk di dapur mu jumpa bidadari ku kamu terkejut oh?,"['tidak', 'tgl', 'soreh', 'suruh', 'orang', 'masuk', 'dapur', 'mu', 'jumpa', 'bidadari', 'ku', 'kejut', 'oh']"
+Spam,Jangan Liat CERITA GW A😂😂😂,"['liat', 'cerita', 'gw', 'a']"
+Ham,Mantaaaaaaaaaaapppp,['mantaaaaaaaaaaapppp']
+Spam,Ok bos kecil,"['ok', 'bos']"
+Spam,"Mampir ngab, kali aja ada postingan yang lhu suka. 😉🎼🎸
+
+https://www.facebook.com/MusisiCikajangProject","['mampir', 'ngab', 'kali', 'aja', 'postingan', 'lhu', 'suka']"
+Spam,rifitirrrrr😋🤏,['rifitirrrrr']
+Spam,Eah ma gigi,"['eah', 'ma', 'gigi']"
+Spam,Apakah ini benar ya ak,"['ya', 'ak']"
+Spam,https://tokopedia.link/BFT7zfObJCb,[]
+Spam,"Bosan dirumah? tidak ada penghasilan ? pengangguran ? Sini join dengan kami aja buat dapat cuan yang banyak gunakan waktu luang anda untuk mendapatkan penghasilan di perusahaan kami, hanya bermodalkan waktu dan handphone anda bisa bergabung 
+
+""SEMUA NYA BISA BERGABUNG DAN TIDAK ADA HALANGAN UMUR YA""
+
+minat : wa.me/62895403172532","['bosan', 'rumah', 'tidak', 'hasil', 'anggur', 'join', 'aja', 'cuan', 'luang', 'hasil', 'usaha', 'modal', 'handphone', 'gabung', 'nya', 'gabung', 'tidak', 'halang', 'umur', 'ya', 'minat', 'wa', 'me']"
+Spam,Bfjdmx,['bfjdmx']
+Ham,"Mirip banget 😍
+
+Mba gigi,rafathar,Cipung mirip semua juga 😍","['banget', 'mba', 'gigi', 'rafathar', 'cipung']"
+Spam,Fi..,['fi']
+Spam,"🔥🔥 SLOT TERGACOR SEPANJANG MASA 🔥🔥
+
+🤑🤑 EVENT TERBANYAK, BONUS TERBANYAK
+
+ 🤑🤑
+🤩🤩 PROMO TERBANYAK DAN DAPATKAN HINGGA RATUSAN JUTA 🤩🤩
+💰💰 WITHDARW 100% DIBAYAR TANPA POTONGAN 💰💰
+🤵🏻‍♀️🤵🏻‍♀️ PELAYANAN RAMAH DAN TERBAIK 🤵🏻‍♀️🤵🏻‍♀️
+==========================================
+➡️💰 DEPOSIT PULSA TANPA POTONGAN 🔥🔥
+➡️💰 BONUS DEPOSIT 5% 🔥🔥
+➡️💷 BONUS CASHBACK MINGGUAN UP TO 15% 🔥🔥
+➡️🚗 BONUS ROLLINGAN TIAP BULAN ( HADIAH IPHONE12,MOBIL HONDA MOBILIO ) 🔥🔥
+➡️🤑 EXTRA BONUS FREESPIN DAN BUY SPIN (KLAIM SEGERA) 🔥🔥
+➡️🆕 BONUS SPECIAL MIX PARLAY ( HOT PROMO,PROMO BARU ) 🔥🔥
+➡️🆕 BONUS AZTEC UP TO 80% 🔥🔥
+➡️🆕 BONUS KOIGATE UP TO 600.000 🔥🔥
+==========================================
+TERSEDIA PERMAINAN TERGACOR NO SETINGAN
+- TOGEL
+- SLOT GAMES (TERBAIK)
+- CASINO LIVE
+- TEMBAK IKAN
+- SPORTS BOOK SABA DAN SBOBET (TERBARU)
+
+BURUAN DAN MENANGKAN RATUSAN JUTA RUPIAH
+info lebih lengkap bisa hubungi WA kami
+𝐖𝐀 : +62 85921351511
+❤️ 𝗛𝗔𝗡𝗬𝗔 𝗞𝗔𝗡𝗚𝗧𝗢𝗧𝗢 𝗬𝗔𝗡𝗚 𝗠𝗘𝗡𝗚𝗘𝗥𝗧𝗜  𝗞𝗘𝗕𝗨𝗧𝗨𝗛𝗔𝗡 𝗠𝗘𝗠𝗕𝗘𝗥𝗡𝗬𝗔.
+𝗥𝗔𝗦𝗔𝗞𝗔𝗡 𝗞𝗘𝗡𝗬𝗔𝗠𝗔𝗡𝗔𝗡 𝗕𝗘𝗥𝗦𝗔𝗠𝗔 𝗞𝗔𝗠𝗜 𝗞𝗔𝗡𝗚𝗧𝗢𝗧𝗢 ❤️
+
+UNTUK AKSES LEBIH MUDAH LANSUNG KETIK  𝗞𝗔𝗡𝗚𝗧𝗢𝗧𝗢  DI GOOGLE BOSKU)
+
+Salam Jackpot Salam Kangtoto Akangku 💥💥","['slot', 'tergacor', 'event', 'bonus', 'promo', 'dapat', 'ratus', 'juta', 'withdarw', 'bayar', 'potong', 'layan', 'ramah', 'baik', 'deposit', 'pulsa', 'potong', 'bonus', 'deposit', 'bonus', 'cashback', 'minggu', 'up', 'to', 'bonus', 'rollingan', 'hadiah', 'iphone', 'mobil', 'honda', 'mobilio', 'extra', 'bonus', 'freespin', 'buy', 'spin', 'klaim', 'bonus', 'special', 'mix', 'parlay', 'hot', 'promo', 'promo', 'bonus', 'aztec', 'up', 'to', 'bonus', 'koigate', 'up', 'to', 'sedia', 'main', 'tergacor', 'no', 'ting', 'togel', 'slot', 'games', 'baik', 'casino', 'live', 'tembak', 'ikan', 'sports', 'book', 'saba', 'sbobet', 'baru', 'buru', 'menang', 'ratus', 'juta', 'rupiah', 'info', 'lengkap', 'hubung', 'wa', 'akses', 'mudah', 'lansung', 'ketik', 'google', 'bos', 'salam', 'jackpot', 'salam', 'kangtoto', 'akang']"
+Spam,Mbak gigi vs rapintar,"['mbak', 'gigi', 'vs', 'rapintar']"
+Spam,"2 anak laki2,kl aq mah 3 perempuan semua","['anak', 'laki', 'kl', 'aq', 'mah', 'perempuan']"
+Spam,"GACOR DI SITUS DAGET777 SAWER BOSS
+
+Lagi Sebar Duit lewat DANA Kaget nih! Cuma buat kamu yang paling gesit,sikat sekarang
+https://link-dana-kaget.recomendsi.my.id/","['gacor', 'situs', 'daget', 'sawer', 'boss', 'sebar', 'duit', 'dana', 'kaget', 'nih', 'gesit', 'sikat']"
